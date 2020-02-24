@@ -1,3 +1,6 @@
+---
+---
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -5,13 +8,42 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+    <link href="https://fonts.googleapis.com/css?family=Exo:400,500|PT+Serif&display=swap" rel="stylesheet"> 
+
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="design.css">
 
-    <title>Hello, world!</title>
+    <title>Cycliques</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
+    {% include nav.html %}
+
+    <div class="container bg-violet">
+      <div class="row">
+        <div class="col-sm">
+          <img src="img/illustration.png" class="img-fluid">
+        </div>
+        <div class="col-sm">
+          <p>
+            <span>Apprends à soulager</span> les symptômes de l'endométriose
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm">
+          <figure>
+            <h2>Accompagner l'endométriose</h2>
+            {% include svg/h2.svg %}
+          </figure>
+          <p>L’endométriose est une maladie de l’appareil reproducteur féminin. Maladie chronique en lien avec le cycle menstruel, un diagnostic d’endométriose peut prendre entre cinq et neuf ans, une honte quand on sait les souffrances qu’elle peut engendrer. Il n’existe actuellement pas de traitement établit pour l’endométriose. La prise en charge peut se faire par une opération (laparoscopie) permettant d’exiser les lésions d’endométriose ainsi que la mise sous ménopause artificielle, la prise de pilule. La prise d’hormones permet dans certains cas de calmer les symptômes mais peut apporter son lot d’effet secondaires. Au dela de ça, l’accompagnement de la maladie est très limité et beaucoup d’endométriosiques vont chercher des réponses auprès de médecines douces, de blogs, livres,… Le but est de mieux vivre leurs symptômes au jour le jour ou tout simplement de trouver une communauté et favoriser les échanges.</p>
+        </div>
+      </div>
+    </div>
+
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
