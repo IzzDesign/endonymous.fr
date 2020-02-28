@@ -1,0 +1,47 @@
+---
+previous: /pages/savoir/savoir.html
+art1: pages/lien-adenomyose.html
+art2: pages/lien-bouger.html
+---
+{% include head.html %}
+
+    {% include nav.html %}
+	<div class="container">
+		<div class="row">
+			<div class="col-sm text-center">
+				<div class="entete"></div>
+				<span class="h2">Le savoir c'est le pouvoir</span>
+    			<h2 class="title">Les phases du cycle, une question d'hormones.</h2>
+			</div>
+		</div>
+	</div>
+
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<img src="/img/cycle.png" class="img-fluid">
+			</div>
+			{% include back.html %}
+			<div class="col-sm-12">
+				<figure class="cycle">
+					{% include svg/cycle/nouvellelune.svg %}
+					<h3>La nouvelle lune</h3>
+				</figure>
+				<figure class="cycle">
+					{% include svg/cycle/precroissant.svg %}
+					<h3>Le premier quartier</h3>
+				</figure>
+				<figure class="cycle">
+					{% include svg/cycle/pleinelune.svg %}
+					<h3>La pleine lune</h3>
+				</figure>
+				<figure class="cycle">
+					{% include svg/cycle/dercroissant.svg %}
+					<h3>Le dernier quartier</h3>
+				</figure>
+			</div>
+			{% include back.html %}
+		</div>
+		{% include articles.html %}
+	</div>
+    {% include footer.html %}

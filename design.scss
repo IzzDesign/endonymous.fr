@@ -4,6 +4,7 @@
 $violet: #321346;
 $violetclair: #F9F0FF;
 $font:#626262;
+
 html{scroll-behavior: smooth;}
 body{
 	color: $font;
@@ -14,6 +15,8 @@ body{
 	flex-direction: column;
 	p{line-height: 1.8em;}
 }
+
+a:hover{text-decoration: none;}
 
 .landing{
 	background-color: $violet;
@@ -68,25 +71,46 @@ h4{margin-top: 0.5em;}
 	margin-bottom: 3em;
 }
 
-.nav-item:after{
-	content: "";
-	position: absolute;
-	height: 2px;
-	width: 70px;
-	margin-bottom: 0.2em;
-	background-color: $violet;
-	display: block;
-	opacity: 0;
+.nav-item, footer a{
+	text-decoration: none;
+	padding:0.5em 0.2em;
+	background:
+     linear-gradient(
+       to bottom, #fff 0%,
+       #fff 100%
+     );
+	background-position: 0 100%;
+	background-repeat: repeat-x;
+	background-size: 4px 4px;
+	transition: all cubic-bezier(0.215, 0.61, 0.355, 1) 0.5s;
 }
-.nav-item:hover:after, .nav-item:focus:after, .active:after{
-	content: "";
-	position: absolute;
-	height: 2px;
-	width: 70px;
-	margin-bottom: 0.2em;
-	background-color: $violet;
-	display: block;
-	opacity: 1;
+
+.active{
+	text-decoration: none;
+	padding:0.2em 0.2em;
+	background:
+		linear-gradient(
+		to bottom, $violet 0%,
+		$violet 100%
+	);
+	background-position: 0 100%;
+	background-repeat: repeat-x;
+	background-size: 4px 4px;
+	padding:0.5em 0;
+}
+
+.nav-item:hover, .nav-item:focus, footer a:hover, footer a:focus,
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover{
+	color: #fff;
+	text-decoration: none;
+	background:
+     linear-gradient(
+       to bottom, $violet 0%,
+       $violet 100%
+     );
+	background-position: 0 100%;
+	background-repeat: repeat-x;
+	background-size: 4px 50px;
 }
 
 span.h2{
@@ -158,20 +182,66 @@ p{line-height: 1.8em;font-size: 1.1em;}
 	img{max-height: 150px; padding: 0 2em;}
 }
 
-a.button{
-	padding: 0.5em 0.5em;
-	font-family: 'Exo', sans-serif;
-	margin: 0 auto;
-	font-size: 1.2em;
+a.button, button{
+	color: #fff;
+	cursor: pointer;
+	display: block;
+	position: relative;
+	width: max-content;
+	justify-self:center;
 	margin-top: 1em;
+	padding:0.5em 1em;
+	transition: all 0.4s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
+	&:hover{
+		text-shadow: none;
+		text-decoration: none;
+		padding:0.5em 1.5em;
+	}
 	&.dark{
-		background-color: $violet;
-		color: #fff;
+		border: 2px solid $violet;
+		color: $violet;
+		&:hover{
+			color: #fff !important;
+			background:
+				linear-gradient(
+			       to bottom, $violet 0%,
+			       $violet 100%
+			     );
+		}
 	}
 	&.light{
-		background-color: #fff;
-		color: $violet;
+		border: 2px solid #fff;
+		color: #fff;
+		&:hover{
+			color: $violet !important;
+			background:
+				linear-gradient(
+			       to bottom, #fff 0%,
+			       #fff 100%
+			     );
+			}
 	}
+}
+
+p > a.link{
+	color:$violet;
+	text-decoration: none;
+	padding:0.2em 0.2em;
+	background:
+     linear-gradient(
+       to bottom, $violet 0%,
+       $violet 100%
+     );
+	background-position: 0 100%;
+	background-repeat: repeat-x;
+	background-size: 4px 4px;
+	transition: all cubic-bezier(0.215, 0.61, 0.355, 1) 0.5s;
+}
+
+p > a.link:hover,
+p > a.link:focus {
+   color: #fff;
+   background-size: 4px 50px;
 }
 
 ul{
@@ -200,8 +270,46 @@ form{
 	max-width: 600px;
 	margin: 0 auto;
 }
+
+/*Articles*/
+.images-liens div, figure.liens{
+	overflow: hidden;
+	h3,h4{transition: .8s cubic-bezier(0.215, 0.61, 0.355, 1);
+		&:hover{letter-spacing: 0.18em;}
+	}
+	img{
+		-webkit-transform: scale(1);
+		transform: scale(1);
+		-webkit-transition: .8s cubic-bezier(0.215, 0.61, 0.355, 1);
+		transition: .8s cubic-bezier(0.215, 0.61, 0.355, 1);
+		&:hover{
+			-webkit-transform: scale(1.05);
+			transform: scale(1.05);
+		}
+	}
+}
+.back{
+	margin: 1em 0;
+	font-family: 'Exo', sans-serif;
+	font-size: 1.1em;
+	letter-spacing: 0.2em;
+	text-align: left;
+	a{color: $violet;}
+}
+
+figure.cycle{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items:center;
+	h3{margin-top: 0;}
+	svg{
+		width: 120px;
+	}
+}
+
 .footer{margin-top: auto;}
-footer{
+footer,{
 	text-align: center;
 	min-height: 70px;
 	max-width: 1300px;
@@ -216,6 +324,10 @@ footer{
 		flex-direction: row;
 		display: flex;
 		justify-content: space-around;
-		a{color: $violet;}
+		a{
+			color: $violet;
+			transition: all ease-out 0.8s;
+
+		}
 	}
 }

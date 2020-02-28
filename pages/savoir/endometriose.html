@@ -1,4 +1,7 @@
 ---
+previous: /pages/savoir/savoir.html
+art1: pages/lien-adenomyose.html
+art2: pages/lien-bouger.html
 ---
 {% include head.html %}
 
@@ -11,12 +14,15 @@
     			<h2 class="title">Qu'est-ce que l'endométriose ?</h2>
 			</div>
 		</div>
+
 	</div>
 
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12">
+				<img src="/img/endometriose.png" class="img-fluid">
 			</div>
+			{% include back.html %}
 			<div class="col-sm-12">
 				<p>Pour avoir une approche plus complète, voir l’article sur le cycle menstruel.</p>
 				<p>L’endométriose est une maladie de l’appareil reproducteur féminim. Il s’agit d’une anomalie du tissu endométrial ou endomètre qui est la muqueuse interne de l’utérus. L’endométriose est définie par la présence de cellules semblables à de l’endomètre hors de la cavité utérine, qu’on appelle lésions ou nodules d’endométriose et endométriomes dans le cas de lésions sur l’ovaire. Pour des raisons que l’on ignore encore chez environ 10% des femmes ces lésions sont présentes sur l’extérieur de l’utérus ou différents organes. Ces nodules d’endométriose sont dans la majorité des cas présents sur l’extérieur de l’utérus, les ovaires, le cul de sac de Douglas, les ligaments utéro sacrés ; mais aussi l’intestin, la vessie, et le péritoine qui est la poche qui contient les viscères abdominales. Il est possible également de retrouver ces lésions moins fréquemment sur le diaphragme, les poumons,…</p>
@@ -39,13 +45,8 @@
 				<p>Certaines femmes touchées par la maladie ont des difficultés à tomber enceinte, même s’il ne s’agit pas de toutes les femmes.</p>
 				<p>Il existe d’autres symptômes également tels que des règles hémorragiques, des saignements hors des règles,… Pour une liste plus complète, voici l’article du Blog Endonymous Ai-je de l’endométriose ?</p>
 			</div>
+			{% include back.html %}
 		</div>
-		<div class="row">
-			<div class="col-sm-12">
-				<p>Articles liés</p>
-			</div>
-			{% include pages/lien-adenomyose.html %}
-			{% include pages/lien-bouger.html %}
-		</div>
+		{% include articles.html %}
 	</div>
     {% include footer.html %}
