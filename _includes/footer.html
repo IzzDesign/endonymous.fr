@@ -18,10 +18,31 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@15.0.0/dist/smooth-scroll.polyfills.min.js"></script>
 
-    <script type="text/javascript">
-    	const scroll = new SmoothScroll('.white a[href*="#"]', {
-		speed: 800
-		});
-    </script>
+<script>
+const splashElement = document.getElementById('splash');
+const contentElement = document.getElementById('index');
+let isScrollingIntoView = false;
+let lastScroll = 0;
+let timeoutId;
+const listener = function(e) {
+	if(window.scrollY < lastScroll) {
+		console.log("Adding back listener")
+		// We're now scrolling back up, restore the listener
+		isScrollingIntoView = false;
+		lastScroll = window.scrollY;
+		return;
+	}
+  if(!isScrollingIntoView && window.scrollY < splashElement.offsetHeight) {
+		clearTimeout(timeoutId);
+		timeoutId = setTimeout(() => {
+			isScrollingIntoView = true;
+			contentElement.scrollIntoView(true);
+		}, 60);
+	}
+	lastScroll = window.scrollY;
+};
+
+window.addEventListener('scroll', listener);
+</script>
   </body>
 </html>
