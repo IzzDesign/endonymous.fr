@@ -27,16 +27,26 @@ a:hover{text-decoration: none;}
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
+	align-items:center;
 	img{
 		width: 50%;}
 }
 
 h1,h2,h3,h4, span.h2{color:$violet;margin-top:2em;text-align: center;font-family: 'Exo', serif; letter-spacing: 0.15em; text-transform: uppercase;}
+h2{position: inherit;}
 .entete{
-	background-color: $violet;
-	height: 1px;
 	margin: 0 auto;
-	width: 575px;
+	max-width: 575px;
+	position:relative;
+	span.h2{z-index: 0;padding: 0 1em;}
+	.line{
+		background: linear-gradient(to bottom, $violet 50%, transparent 0);
+		height: 1px;
+		z-index: -1;
+		position:absolute;
+		width: 100%;
+		margin-top: 8px;
+	}
 }
 
 h2.title{margin-top: 0.2em;}
@@ -121,7 +131,7 @@ h2:after{
 	content: url('img/h2.svg');
 	display: block;
 	margin: 0 auto;
-	width: 602px;
+	max-width: 602px;
 }
 
 h3{font-size: 1.6em;}
@@ -149,9 +159,7 @@ p{line-height: 1.8em;font-size: 1.1em;}
 	text-transform: uppercase;
 	text-align: center;
 	letter-spacing: 0.2em;
-	align-items: center;
 	.txt{display: grid;align-self: center;}
-	.padding{padding: 2em;}
 	.text-upp{
 		display: grid;
 		align-content: center;
@@ -182,13 +190,18 @@ p{line-height: 1.8em;font-size: 1.1em;}
 	img{max-height: 150px; padding: 0 2em;}
 }
 
-a.button, button{
+.padding0{padding: 0;}
+.padding2{padding: 2em;}
+
+a.button, input.button{
 	color: #fff;
 	cursor: pointer;
 	display: block;
 	position: relative;
 	width: max-content;
 	justify-self:center;
+	text-transform: uppercase;
+	font-family: 'Exo', sans-serif;
 	margin-top: 1em;
 	padding:0.5em 1em;
 	transition: all 0.4s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
@@ -223,6 +236,10 @@ a.button, button{
 	}
 }
 
+input.button{
+	background-color:#fff;
+}
+
 p > a.link{
 	color:$violet;
 	text-decoration: none;
@@ -250,9 +267,46 @@ ul{
 		line-height: 1em;
 		font-size: 1.1em;
 		margin: 1em 0;
-		&:before{
+		&.list:before{
 			display: inline-block;width: 1em;content: "\263E";
 		}
+	}
+}
+
+.info{
+	font-family: 'Exo', sans-serif;
+	font-size: 1.5em;
+	justify-content: center;
+	line-height: 1.2em;
+	padding:0.2em 0.2em 0.7em 0.2em;
+	min-height: 2em;
+}
+.error{
+	color: $violet;
+	display: none;
+	&:before, &:after{
+		content: url('img/fail.svg');
+		display: inline-block;
+		width: 30px;
+	}
+}
+.success{
+	color:$violet;
+	display: none;
+	&:before, &:after{
+		content: url('img/send.svg');
+		display: inline-block;
+		width: 30px;
+	}
+}
+
+.reseaux li svg{
+	width: 50px;
+	height: 50px;
+	padding:0.2em;
+	transition: transform 0.4s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
+	&:hover{
+		transform: scale(1.05);
 	}
 }
 
@@ -269,22 +323,28 @@ ul{
 form{
 	max-width: 600px;
 	margin: 0 auto;
+	input.button{margin: 0 auto;}
+	margin-bottom: 2em;
+	.form-control:focus{
+		border-color:$violetclair;
+		box-shadow:0 0 0 .2rem $violetclair;
+	}
 }
 
 /*Articles*/
-.images-liens div, figure.liens{
+figure.liens{
 	overflow: hidden;
-	h3,h4{transition: .8s cubic-bezier(0.215, 0.61, 0.355, 1);
-		&:hover{letter-spacing: 0.18em;}
-	}
 	img{
 		-webkit-transform: scale(1);
 		transform: scale(1);
 		-webkit-transition: .8s cubic-bezier(0.215, 0.61, 0.355, 1);
 		transition: .8s cubic-bezier(0.215, 0.61, 0.355, 1);
-		&:hover{
-			-webkit-transform: scale(1.05);
-			transform: scale(1.05);
+	}
+	h3,h4{transition: .8s cubic-bezier(0.215, 0.61, 0.355, 1);}
+	&:hover{
+		img{
+		-webkit-transform: scale(1.05);
+		transform: scale(1.05);
 		}
 	}
 }
@@ -324,10 +384,6 @@ footer {
 		flex-direction: row;
 		display: flex;
 		justify-content: space-around;
-		a{
-			color: $violet;
-			transition: all ease-out 0.8s;
-
-		}
+		a{color: $violet;transition: all ease-out 0.5s;}
 	}
 }

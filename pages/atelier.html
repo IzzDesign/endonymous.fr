@@ -6,8 +6,10 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm text-center">
-				<div class="entete"></div>
-				<span class="h2">Atelier</span>
+				<div class="entete">
+					<div class="line"></div>
+					<span class="h2">Atelier</span>
+				</div>
     			<h2 class="title">Journée Atelier à lyon</h2>
 			</div>
 		</div>
@@ -21,37 +23,37 @@
 				<div class="strong">
 					<span>L’atelier s’adresse aux personnes atteintes d’une endométriose.</span>
 				</div>
-				<p>Attention, les conseils qui te seront donnés par les profesionnels lors de cet atelier seront orientés envers les personnes atteintes d’endométriose et peuvent ne pas convenir à toutes les pathologies. Je t’encourage à aller voir un professionnel de santé pour toute question en rapport avec le diagnostic ou la maladie. La section <a href="" class="link">contact</a> est ouverte si tu as des questions à propos de l’atelier. Je te conseille également d’aller lire cet article sur l’utilité de faire un <a href="" class="link">journal d‘observation</a>.</p>
-				<p>Si tu n’habites pas à Lyon mais que tu souhaiterais qu’un atelier ait lieu dans ta ville, n’hésites pas à aller dans la section <a href="" class="link">contact</a> pour me faire part de tes envies et de ta localisation. Tu peux aussi me retrouver sur les réseaux sociaux : Insta, FB, Twitter.</p>
+				<p>Attention, les conseils qui te seront donnés par les profesionnels lors de cet atelier seront orientés envers les personnes atteintes d’endométriose et peuvent ne pas convenir à toutes les pathologies. Je t’encourage à aller voir un professionnel de santé pour toute question en rapport avec le diagnostic ou la maladie. La section <a href="/pages/contact.html" class="link">contact</a> est ouverte si tu as des questions à propos de l’atelier. Je te conseille également d’aller lire cet article sur l’utilité de faire un <a href="" class="link">journal d‘observation</a>.</p>
+				<p>Si tu n’habites pas à Lyon mais que tu souhaiterais qu’un atelier ait lieu dans ta ville, n’hésites pas à aller dans la section <a href="/pages/contact.html" class="link">contact</a> pour me faire part de tes envies et de ta localisation. Tu peux aussi me retrouver sur les réseaux sociaux : Insta, FB, Twitter.</p>
 				<h3>Programme</h3>
 					<div class="text-center">
 						<div class="bloc">
-							<img src="/img/automassage.png">
+							<img src="/img/atelier/kine.png">
 							<h4>Auto-Massages</h4>
 							<p>Ceci est un paragraphe sur les auto-massages.</p>
 							<span>intervenant</span>
 							<p>Clément Berini</p>
 						</div>
 						<div class="bloc">
-							<img src="/img/naturopathie.png">
+							<img src="/img/atelier/alimentation.png">
 							<h4>Alimentation</h4>
 							<p>Ceci est un paragraphe sur l'alimentation.</p>
 							<span>intervenant</span>
 						</div>
 						<div class="bloc">
-							<img src="/img/yoga.png">
+							<img src="/img/atelier/yoga.png">
 							<h4>Yoga</h4>
 							<p>Ceci est un paragraphe sur le yoga.</p>
 							<span>intervenant</span>
 						</div>
 						<div class="bloc">
-							<img src="/img/shiatsu.png">
+							<img src="/img/atelier/shiatsu.png">
 							<h4>Shia-tsu</h4>
 							<p>Ceci est un paragraphe sur le shia-tsu.</p>
 							<span>intervenant</span>
 						</div>
 						<div class="bloc">
-							<img src="/img/meditation.png">
+							<img src="/img/atelier/meditation.png">
 							<h4>Méditation</h4>
 							<p>Ceci est un paragraphe sur la méditation.</p>
 							<span>intervenant</span>
@@ -66,11 +68,9 @@
 						</div>
 					</div>
 				<h3>Date et lieu</h3>
-					<div class="bg violet txt ">
-						<div class="padding text-upp">
-							<p>Prochaine session à lyon</p>
-							<p class="big">à venir</p>
-							<a href="/pages/inscription.html" class="button light">Inscription</a>
+					<div class="bg violet">
+						<div class="col-sm-8 offset-sm-2 txt padding2">
+							{% include preinscription.html %}
 						</div>
 					</div>
 			</div>

@@ -8,12 +8,12 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <a class="nav-item nav-link active" href="/index.html#index">À propos</a>
-        <a class="nav-item nav-link" href="/pages/savoir/savoir.html">Le savoir c'est le pouvoir</a>
-        <a class="nav-item nav-link" href="/pages/controle/controle.html">Reprends le contrôle</a>
-        <a class="nav-item nav-link" href="/pages/atelier.html">Journée Atelier</a>
+        <a class="nav-item nav-link {% if page.url == '/' %}active{% endif %}" href="/index.html#index">À propos</a>
+        <a class="nav-item nav-link {% if page.url == '/pages/savoir/savoir.html' %}active{% endif %}" href="/pages/savoir/savoir.html">Le savoir c'est le pouvoir</a>
+        <a class="nav-item nav-link {% if page.url == '/pages/controle/controle.html' %}active{% endif %}" href="/pages/controle/controle.html">Reprends le contrôle</a>
+        <a class="nav-item nav-link {% if page.url == '/pages/atelier.html' %}active{% endif %}" href="/pages/atelier.html">Journée Atelier</a>
         <a class="nav-item nav-link disabled" href="/pages/inscription.html" tabindex="-1" aria-disabled="true">Inscription</a>
-        <a class="nav-item nav-link" href="/pages/contact.html">Contact</a>
+        <a class="nav-item nav-link {% if page.url == '/pages/contact.html' %}active{% endif %}" href="/pages/contact.html">Contact</a>
       </div>
     </div>
   </nav>
