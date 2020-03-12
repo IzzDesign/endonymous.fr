@@ -1,0 +1,30 @@
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script>
+  $(document).ready(function() {
+    $("#contactform").submit(function (e) {
+
+      e.preventDefault(); // avoid to execute the actual submit of the form.
+      $("#contactform .success").hide();
+      $("#contactform .error").hide();
+
+      var form = $(this);
+      var url = form.attr('action');
+
+      $.ajax({
+        type: "POST",
+        url: url,
+        crossDomain: true,
+        data: form.serialize(), // serializes the form's elements.
+        success: function (data) {
+          console.log('Form success', data);
+          $("#contactform .success").show(200);
+        },
+        error: function (xhr, status, c) {
+          console.log(xhr.responseText);
+          console.log('Form error', xhr, '####', status, '####', c);
+          $("#contactform .error").show(200);
+        }
+      });
+    });
+  });
+</script>
