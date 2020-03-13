@@ -387,3 +387,20 @@ footer {
 		a{color: $violet;transition: all ease-out 0.5s;}
 	}
 }
+@media screen and (max-width: 575px){
+	.bg.violet img,.landing img{display: none;}
+	.txt{padding: 1em;}
+}
+
+@media screen and (max-width: 800px) {
+  .txt{padding-right: 0.5em;}
+	.bg{
+	  .text-upp{
+			p{
+			line-height: 1em;
+			font-size: 0.9em;
+			&.big{font-size: 1.2em;}
+			}}
+		}
+  footer{div{flex-direction: column;}}
+}
