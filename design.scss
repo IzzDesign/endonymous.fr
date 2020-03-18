@@ -264,11 +264,36 @@ p > a.link:focus {
 ul{
 	list-style: none;
 	li{
-		line-height: 1em;
+		line-height: 1.2em;
 		font-size: 1.1em;
 		margin: 1em 0;
 		&.list:before{
 			display: inline-block;width: 1em;content: "\263E";
+		}
+	}
+}
+figure{text-align: center;}
+figure figcaption{
+	font-family: 'Exo', sans-serif;
+	font-size: 1.4em;
+	color:$violet;
+	text-align: center;
+	margin-top: 0.5em;
+}
+
+.sources{
+	margin-top: 1em;
+	span{
+		font-family: 'Exo', sans-serif;
+		font-size: 1.4em;
+		color:$violet;
+	}
+	a{
+		color: $violet;
+		text-decoration: underline;
+		transition: all cubic-bezier(0.215, 0.61, 0.355, 1) 0.5s;
+		&:hover{
+			letter-spacing: 0.02em;
 		}
 	}
 }
@@ -354,7 +379,13 @@ figure.liens{
 	font-size: 1.1em;
 	letter-spacing: 0.2em;
 	text-align: left;
-	a{color: $violet;}
+	a{
+		color: $violet;
+		transition: all cubic-bezier(0.215, 0.61, 0.355, 1) 0.5s;
+		&:hover{
+			letter-spacing: 0.25em;
+		}
+	}
 }
 
 figure.cycle{
