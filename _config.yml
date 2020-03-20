@@ -1,4 +1,7 @@
 title: "Cycliques"
 url: https://cycliques.fr
+
+og_description: Cycliques est un site informatif sur l'endométriose, une maladie chronique gynécologique. Le site présente les bénéfices des médecines douces pour aider à la diminution des douleurs ainsi que la mise en place d'Ateliers autour de l'endométriose sur Lyon.
+
 plugins:
   - jekyll-sitemap
