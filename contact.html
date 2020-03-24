@@ -1,64 +1,62 @@
 ---
+layout: default
 subtitle: Des ateliers de rencontres pour les endométriosiques sont organisés sur Lyon.
 title: Contact
 og_image: /img/cycle.png
 og_twitter_img : https://cycliques.fr/img/twitter-lien.png
 ---
-{% include head.html %}
 
-    {% include nav.html %}
-	<div class="container">
-		<div class="row">
-			<div class="col-sm text-center">
-				<div class="entete">
-					<div class="line"></div>
-					<span class="h2">Contact</span>
-				</div>
-    			<h2 class="title">Prise de contact</h2>
-			</div>
-		</div>
-	</div>
+<div class="container">
+  <div class="row">
+    <div class="col-sm text-center">
+      <div class="entete">
+        <div class="line"></div>
+        <span class="h2">Contact</span>
+      </div>
+        <h2 class="title">Prise de contact</h2>
+    </div>
+  </div>
+</div>
 
-	<div class="container">
-		<form action="https://neamar.fr/email.php" accept-charset="utf-8" onsubmit="document.getElementById('protection').value = 2" method="POST" id="contactform">
-		  <div class="form-group">
-		    <label for="email">Email</label>
-		    <input type="email" class="form-control" id="email" placeholder="Email" name="_replyto" autofocus required>
-		    <input type="hidden" name="_to" value="contact@cycliques.fr" />
-		    <input type="hidden" name="_subject" value="Contact via site cycliques.fr" />
-		    <input type="hidden" name="protection" id="protection" value="1" />
-		  </div>
-		  <div class="form-group">
-		    <label for="message">Message</label>
-		    <textarea class="form-control" id="message" rows="7" name="message"></textarea>
-		  </div>
-		  <div class="info">
-		  	<div class="success">
-		        Votre message a bien été envoyé !
-		      </div>
-		      <div class="error">
-		        Une erreur s'est produite à l'envoi de votre mail !
-		      </div>
-		  </div>
-		  <input class="button dark" type="submit" value="Envoyer"/>
-		</form>
-	</div>
+<div class="container">
+  <form action="https://neamar.fr/email.php" accept-charset="utf-8" onsubmit="document.getElementById('protection').value = 2" method="POST" id="contactform">
+    <div class="form-group">
+      <label for="email">Email</label>
+      <input type="email" class="form-control" id="email" placeholder="Email" name="_replyto" autofocus required>
+      <input type="hidden" name="_to" value="contact@cycliques.fr" />
+      <input type="hidden" name="_subject" value="Contact via site cycliques.fr" />
+      <input type="hidden" name="protection" id="protection" value="1" />
+    </div>
+    <div class="form-group">
+      <label for="message">Message</label>
+      <textarea class="form-control" id="message" rows="7" name="message"></textarea>
+    </div>
+    <div class="info">
+      <div class="success">
+          Votre message a bien été envoyé !
+        </div>
+        <div class="error">
+          Une erreur s'est produite à l'envoi de votre mail !
+        </div>
+    </div>
+    <input class="button dark" type="submit" value="Envoyer"/>
+  </form>
+</div>
 
-	<div class="container">
-		<div class="row">
-			<div class="col-sm-4">
-				<img src="/img/contact.png" class="img-fluid" alt="femme cheveux courts" title="Femme cheveux courts">
-			</div>
-			<div class="col-sm text-center">
-				<h4>Réseaux sociaux</h4>
-				<ul class="reseaux">
-					<li><a href="">{% include svg/instagram.svg %}</a></li>
-					<li><a href="">{% include svg/facebook.svg %}</a></li>
-					<li><a href="">{% include svg/twitter.svg %}</a></li>
-				</ul>
-			</div>
-		</div>
-	</div>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <img src="/img/contact.png" class="img-fluid" alt="femme cheveux courts" title="Femme cheveux courts">
+    </div>
+    <div class="col-sm text-center">
+      <h4>Réseaux sociaux</h4>
+      <ul class="reseaux">
+        <li><a href="">{% include svg/instagram.svg %}</a></li>
+        <!-- <li><a href="">{% include svg/facebook.svg %}</a></li> -->
+        <li><a href="">{% include svg/twitter.svg %}</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
 {% assign jquery_loaded = true %}
 {% include script-contact.html %}
-{% include footer.html %}
