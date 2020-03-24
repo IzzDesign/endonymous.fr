@@ -1,9 +1,5 @@
-<!doctype html>
-<html>
-  {% include head.html %}
-
-  <body>
-    {% if page.url == '/' %}
+{% include head.html %}
+  {% if page.url == '/' %}
     {% include landingpage.html %}
     <div id="index" class="scroll">
         {% include nav.html %}
@@ -13,6 +9,4 @@
       {% include nav.html %}
       {{ content }}
   {% endif %}
-  {% include footer.html %}
-  </body>
-</html>
+{% include footer.html %}
