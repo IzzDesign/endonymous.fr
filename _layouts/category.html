@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm text-center">
+      <div class="entete">
+        <div class="line"></div>
+        <span class="h2">{{ page.title }}</span>
+      </div>
+        <h2 class="title">Articles</h2>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    {% assign sorted_articles = site.pages | sort: 'order' %}
+      {% for p in sorted_articles %}
+        {% if p.category == page.title %}
+          <div class="col-sm-6">
+            <a href="{{ p.url }}">
+              <figure class="liens">
+                <img src="{{ p.og_image }}" class="img-fluid" alt="{{ p.alt_img }}" title="{{ p.title_img }}">
+                <h3>{{ p.title }}</h3>
+              </figure>
+            </a>
+          </div>
+          {% endif %}
+        {% endfor %}
+  </div>
+</div>
