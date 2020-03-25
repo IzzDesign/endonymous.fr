@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm text-center">
+      <div class="entete">
+        <div class="line"></div>
+        <span class="h2">{{ page.category }}</span>
+      </div>
+        <h2 class="title">{{ page.title }}</h2>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      <img src="{{ page.og_image }}" class="img-fluid" alt="{{ page.alt_img }}" title="{{ page.title_img }}">
+    </div>
+    {% include back.html %}
+      {{ content }}
+      {% include back.html %}
+  </div>
+  {% include articles.html %}
+</div>
