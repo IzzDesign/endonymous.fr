@@ -50,7 +50,7 @@ h2{position: inherit;}
 }
 
 h2.title{margin-top: 0.2em;}
-h4{margin-top: 0.5em;}
+h4{margin: 1.2em 0;}
 h5{font-size: 1.1em; text-align: left;}
 
 .logo{
@@ -283,21 +283,26 @@ figure figcaption{
 	margin-top: 0.5em;
 }
 
-.sources{
+a.footnote{font-weight: 700; color: $violet;text-decoration: underline;}
+.sources, .footnotes{
 	margin-top: 1em;
-	span{
+	h4{
 		font-family: 'Exo', sans-serif;
 		font-size: 1.4em;
 		color:$violet;
+		text-align: left;
 	}
 	a{
 		color: $violet;
 		text-decoration: underline;
 		transition: all cubic-bezier(0.215, 0.61, 0.355, 1) 0.5s;
+		line-height: 1em;
+		font-size: 1em;
 		&:hover{
 			letter-spacing: 0.02em;
 		}
 	}
+	p{margin: 0;}
 }
 
 .info{
