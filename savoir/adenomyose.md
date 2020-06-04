@@ -24,7 +24,7 @@ L’**adénomyose** c’est la présence de cellules semblables à de l’endom�
 <h3>Quels sont les symptômes de l'Adénomyose ?</h3>
 Les personnes souffrant d’adényomose peuvent souffrir de **douleurs liées au cycle** (dysménorrhées), de **règles longues et hémorragiques** (ménorragies) et de **saignements en dehors des règles** (métrorragie).
 <div class="col-sm-10 offset-sm-1 sources">
-  <span>Sources</span>
+  <h4>Sources</h4>
   <ul>
     <li class="list"><a href="">Endofrance Adénomyose</a></li>
   </ul>

@@ -48,7 +48,7 @@ Certaines femmes touchées par la maladie ont des **difficultés à tomber encei
 #### Saignements et autres symptômes
 Il existe d’autres symptômes également, tels que des **règles hémorragiques**, des **saignements** hors des règles,… Pour une liste plus complète, voici <a href="https://endonymous.fr/article/2018/10/14/l-endometriose-symptomes.html" class="link">l’article du Blog Endonymous Ai-je de l’endométriose ?</a>
 <div class="col-sm-10 offset-sm-1 sources">
-  <span>Sources</span>
+  <h4>Sources</h4>
   <ul>
     <li class="list">The doctor will see you now, Tamer Seckin MD, 2016</li>
     <li class="list">Nature Reviews : Endometriosis, K. T. Zondervan, C. M. Becker, K. Koga, S. A. Missmer, R. N. Taylor and P. Vigano, 2018</li>

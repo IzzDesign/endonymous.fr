@@ -57,7 +57,7 @@ _(Cet article n'est pas sponsorisé)_.
 Après deux ans d’utilisation de protections lavables, je remarque une **absence de mycose et cystites** alors que ce sont des maux qui étaient plus réguliers (une à deux fois par an). Je constate aussi que je n’ai plus de taches, la grande différence à été notamment la nuit car je tachais beaucoup mes draps. Pour moi, c’est très positif. Je sais également que je pollue moins et que je protège ma santé en **évitant les produits chimiques** présents dans les tampons et serviettes jetables. Dernière chose, même si l’investissement initial est conséquent, je sais que je n’aurais plus à débourser d’argent pendant au moins les cinq prochaines années pour mes protections hygiéniques.
   
 <div class="col-sm-10 offset-sm-1 sources">
-  <span>Sources</span>
+  <h4>Sources</h4>
   <ul>
     <li class="list"><a href="https://www.lemonde.fr/les-decodeurs/article/2019/07/02/precarite-menstruelle-combien-coutent-ses-regles-dans-la-vie-d-une-femme_5484140_4355770.html">Précarité menstruelle : combien coûtent les règles dans la vie d’une femme ?, Le monde 2019.</a></li>
     <li class="list"><a href="http://www.aly-abbara.com/livre_gyn_obs/termes/adherences.html">La culotte menstruelle: une vraie révolution?, Cheek Magazine 2017</a></li>

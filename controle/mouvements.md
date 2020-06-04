@@ -30,7 +30,7 @@ Le méthode **Feldenkrais** est une méthode d’auto-éducation et de développ
 ### Automassages
 Les **massages** ou **auto massages** ont énormément de bienfaits en plus d’assouplir à terme les cicatrices et <a href="/savoir/adherences.html" class="link">adhérences</a>. Les massages abdominaux vont stimuler l’activité intestinale et **faciliter la digestion**, **diminuer les ballonnements** et aider contre la **constipation**. Ils vont aider à apaiser et calmer.  Ils vont améliorer la **circulation du sang, de l’oxygène**. Les massages du diaphragme vont permettre de détendre un muscle important pour notre respiration et le bon déroulement de la digestion. Psychologiquement ils aident à **reprendre confiance en soi** et se sentir **actrice de son bien-être**.
 <div class="col-sm-10 offset-sm-1 sources">
-  <span>Sources</span>
+  <h4>Sources</h4>
   <ul>
     <li class="list">Endo&Sexo Avoir une sexualité épanouie avec une endométriose, Marie-Rose Galès, 2019.</li>
     <li class="list">Endometriosis, the experts’ guide to treat, manage and live well with your symptoms, Pr Andrew Horne & Carol Pearson, 2018.</li>

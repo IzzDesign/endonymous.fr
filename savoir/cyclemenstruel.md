@@ -57,7 +57,7 @@ Si l’ovule n’a pas été fécondé ou si l’implantation n’a pas eu lieu,
   </figure>
 </div>
 <div class="col-sm-10 offset-sm-1 sources">
-  <span>Sources</span>
+  <h4>Sources</h4>
   <ul>
     <li class="list">Cycle féminin et contraceptions naturelles, Audrey Guillermaud, 2019</li>
     <li class="list"><a href="https://www.yourperiod.ca/fr/normal-periods/menstrual-cycle-basics/">Your Period</a></li>

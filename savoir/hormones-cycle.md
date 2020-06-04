@@ -37,7 +37,7 @@ Comme la **pleine Lune**, tu brilles dans la nuit. **Pleins projecteurs sur toi*
 Le **dernier quartier** est celui du retrait de la lune. Fini l’effervescence et les envies de gloire, c’est le moment de l’**introspection**, de se retirer **sereinement** et de réfléchir plus tranquillement à tes dernières idées. L’hormone dominante est la progestérone, elle a un effet **apaisant**. C’est le bon moment pour **faire le tri** et **réfléchir** plus posément à toutes les idées et créations que tu as eu pendant les deux phases précédentes. Tu peux profiter de cette période plus calme pour faire un **bilan** sur toi et sur tes envies profondes.
 Il peut s’agir d’une phase qui s’associe à une **baisse de moral**, un **léger spleen** surtout en fin de phase et à l’arrivée des règles. Près de 80% des femmes peuvent ressentir des troubles physiques (rétention d’eau, ballonnements, maux de tête, fatigue importante, gonflement des seins…) et psychiques (humeur dépressive, irritabilité,…). Cette baisse de moral est induite par la baisse d’œstrogènes puisque cette hormone a une action sur la synthèse de sérotonine, impliquée dans la gestion des humeurs et associée à l'état de bonheur. Pour 30% des femmes, on parle de **syndrome prémenstruel** car ces symptômes sont plus sévères et pour 5% d’entre elles, ils induisent un véritable handicap : on parle de **dysphorie prémenstruelle**.
 <div class="col-sm-10 offset-sm-1 sources">
-  <span>Sources</span>
+  <h4>Sources</h4>
   <ul>
     <li class="list">Cycle féminin et contraceptions naturelles, Audrey Guillermaud, 2019</li>
     <li class="list"><a href="http://www.slate.fr/story/165632/le-cycle-menstruel-influe-sur-le-cerveau-des-femmes">Slate : Le cycle menstruel influe sur le cerveau des femmes</a></li>
