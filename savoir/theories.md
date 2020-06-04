@@ -1,7 +1,7 @@
 ---
 layout: articles
 order: 65
-subtitle: Les théories de l'endométriose
+subtitle: À quoi est due l'endométriose:&nbsp;?
 title: Les théories de développement de l'endométriose
 category: Le savoir c'est le pouvoir
 alt_img: femme gynécologie endometriose theories mecanisme
