@@ -27,9 +27,9 @@ Il s’agit d’un **tissu fibreux** pouvant ressembler à une **toile d’araig
   </figure>
 Dans le cas de l’endométriose, les adhérences peuvent survenir à cause :
   <ul>
-    <li class="list">de **l’inflammation des tissus** due à la maladie (l’endométriose étant une maladie inflammatoire).</li>
-    <li class="list">de l'inflammation due à la **présence de liquide**, ici du **sang** dans l’abdomen (endométriomes qui sont des kystes sanguins)</li>
-    <li class="list">de la **chirurgie endométriosique** par laparoscopie. On parle alors d’ **adhérences post-opératoires** et ce ne sont pas les mêmes types d’adhérences que les adhérences post-inflammatoires.</li>
+    <li class="list">de <b>l’inflammation des tissus</b> due à la maladie (l’endométriose étant une maladie inflammatoire).</li>
+    <li class="list">de l'inflammation due à la <b>présence de liquide</b>, ici du <b>sang</b> dans l’abdomen (endométriomes qui sont des kystes sanguins)</li>
+    <li class="list">de la <b>chirurgie endométriosique</b> par laparoscopie. On parle alors d’ <b>adhérences post-opératoires</b> et ce ne sont pas les mêmes types d’adhérences que les adhérences post-inflammatoires.</li>
   </ul>
 Dans un stade très avancé d’endométriose, ces adhérences peuvent aller jusqu’à **modifier l’anatomie pelvienne** et entraîner des complications gynécologiques telles que des **douleurs pelviennes** qui vont survenir par la **mise en tension** de certains organes abdomino-pelvien par étirement, fixation. La **qualité de vie et la vie sexuelle** de la patiente peuvent être gravement impactées. Elles peuvent également être une cause d’**infertilité**, par exemple en perturbant la captation et la migration des ovules vers les trompes utérines. Au niveau digestif, elles peuvent initier le blocage partiel ou complet de l’intestin, créant une **occlusion intestinale**.
 Ces adhérences peuvent se **renforcer avec le temps** et créer des douleurs là où il n’y en avait pas. De plus, les tissus pris entre les lésions d’endométriose et les adhérences vont peu à peu **perdre leur mobilité**, créant par manque de mouvement des tissus voisins une réaction en chaîne pouvant conduire à l’**immobilisation du pelvis**.
