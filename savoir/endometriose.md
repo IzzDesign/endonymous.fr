@@ -27,7 +27,7 @@ Ces différents stades d’endométriose sont souvent utilisés par les médecin
     <img src="/img/schema/stades.png" class="img-fluid" alt="schema endometriose stades adherence uterus, colon vessie lesions endometriome" title="Les quatres stades d'endométriose">
     <figcaption>Les quatre stades d'endométriose</figcaption>
   </figure>
-<ul >
+<ul markdown="1">
   <li class="list">**Stade 1 :** 1 à 5 points, Lésions superficielles</li>
   <li class="list">**Stade 2 :** 5 à 15 points, Lésions superficielles, quelques lésions profondes ou adhérences.</li>
   <li class="list">**Stade 3 :** 16 à 40 points, Lésions superficielles, probable présence d’endométriome ou de lésions profondes ou des adhérences denses.</li>
