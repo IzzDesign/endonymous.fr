@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm text-center">
+      <div class="entete">
+        <div class="line"></div>
+        <span class="h2">{{ page.category }}</span>
+      </div>
+        <h2 class="title">{{ page.theme }}</h2>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      {% include back-bibliography.html %}
+      <figure class="cycle">
+        <img src="/img/svg/livre.svg">
+        <h3>{{ page.title }}</h3>
+        <p>{{ page.author }}</p>
+      </figure>
+      {{ content }}
+      {% include back-bibliography.html %}
+    </div>
+  </div>
+  {% include addthis.html %}
+  {% include biblio-next.html %}
+</div>

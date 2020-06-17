@@ -1,0 +1,13 @@
+<figure class="cycle">
+  <img src="/img/svg/livre.svg">
+  <h3>{{ include.subcategory }}</h3>
+</figure>
+
+{% for p in site.pages %}
+  {% if p.subcategory == include.subcategory %}
+  <div class="biblio-list">
+    <a href="{{ p.url }}">{{ p.title }}</a>
+    <p>{{ p.author }}</p>
+  </div>
+  {% endif %}
+{% endfor %}

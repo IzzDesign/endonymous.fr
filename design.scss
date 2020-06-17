@@ -4,13 +4,14 @@
 $violet: #321346;
 $violetclair: #F9F0FF;
 $font:#626262;
+$body-font:'PT serif', serif;
 
 html{
 	scroll-behavior: smooth;
 }
 body{
 	color: $font;
-	font-family: 'PT serif', serif;
+	font-family: $body-font;
 	line-height: 1em;
 	min-height: 100vh;
 	display: flex;
@@ -403,9 +404,100 @@ figure.cycle{
 	align-items:center;
 	h3{margin-top: 0;}
 	img{
-		width: 180px;
+		width: 250px;
 	}
 }
+
+blockquote{
+	background-color: $violet;
+	border-radius: 10px;
+	margin: 3em 0;
+}
+blockquote p{
+	margin: 0 auto;
+	padding:1em 0 3em 0;
+	color:#fff;
+	width: 90%;
+	font-family: 'Exo';
+	line-height: 2.1em;
+}
+
+blockquote:before{
+	content: '«';
+	font-size:9em;
+	font-family: 'Exo';
+	font-weight: 900;
+	color: #fff;
+	height: auto;
+}
+
+blockquote:after{
+	content: '»';
+	font-size:9em;
+	font-family: 'Exo';
+	font-weight: 900;
+	color: #fff;
+	float: right;
+	bottom:30px;
+	position:relative;
+}
+
+.cycle p{
+	font-size: 1.1em;
+	color: $violet;
+	font-family: 'Exo';
+	font-weight: 400;
+}
+
+.livres img{width: 200px;}
+.biblio-list{
+	margin: 2em 0;
+	text-align: center;
+	a{
+		font-size: 1.5em;
+		font-weight: 600;
+		color: $violet;
+		transition: all cubic-bezier(0.215, 0.61, 0.355, 1) 0.5s;
+		text-decoration: underline;
+	}
+	p{
+		font-size: 1.1em;
+		padding-top: 0.5em;
+	}
+}
+.biblio-list:after{
+	content: '○';
+	display: block;
+	font-size: 1.5em;
+	margin: 1em 0 2em 0;
+}
+.biblio-list a:hover{letter-spacing: 0.02em;}
+
+.biblio-next a{
+	display: inline-flex;
+	flex-direction: row;
+	width: 100%;
+	min-height: 110px;
+	align-items:center;
+	h4{text-align: left;font-size: 1.3em;transition: all cubic-bezier(0.215, 0.61, 0.355, 1) 0.5s; margin: 0;}
+	img{width: 100px;transition: all cubic-bezier(0.215, 0.61, 0.355, 1) 0.5s;}
+	p{
+		font-size: 1em;
+		color: $font;
+		font-family: $body-font;
+		text-transform: none;
+		text-align: left;
+		margin:0;
+		}
+}
+
+.biblio-next a:hover h4{
+	text-decoration: underline;
+	text-decoration-color: #82618F;
+	color: #82618F;
+}
+
+.biblio-next a:hover img{width: 110px;}
 
 .footer{margin-top: auto;}
 footer {
