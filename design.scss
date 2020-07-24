@@ -19,7 +19,8 @@ body{
 	p{line-height: 1.8em;}
 }
 
-a:hover{text-decoration: none;}
+a{color: $violet; text-decoration: underline;font-weight: 600;}
+a:hover{text-decoration: none;color: $violet;font-weight: 600;}
 
 .landing{
 	background-color: $violet;
@@ -81,10 +82,13 @@ h5{font-size: 1.1em; text-align: left;}
 	color: $violet;
 	letter-spacing:0.15em;
 	margin-bottom: 3em;
+	font-weight: 300;
+	text-decoration: none;
 }
 
 .nav-item, footer a{
 	text-decoration: none;
+	font-weight: 300;
 	padding:0.5em 0.2em;
 	background:
      linear-gradient(
@@ -95,6 +99,7 @@ h5{font-size: 1.1em; text-align: left;}
 	background-repeat: repeat-x;
 	background-size: 4px 4px;
 	transition: all cubic-bezier(0.215, 0.61, 0.355, 1) 0.5s;
+	&:hover{font-weight: 300;}
 }
 
 .active{
@@ -114,6 +119,7 @@ h5{font-size: 1.1em; text-align: left;}
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover{
 	color: #fff;
 	text-decoration: none;
+	font-weight: 300;
 	background:
      linear-gradient(
        to bottom, $violet 0%,
@@ -135,6 +141,7 @@ h2:after{
 	max-width: 602px;
 }
 
+a.title-a {text-decoration: none;}
 h3{font-size: 1.6em;}
 h3:after{
 	content: url('img/h3.svg');
@@ -204,14 +211,17 @@ a.button, input.button{
 	width: max-content;
 	justify-self:center;
 	text-transform: uppercase;
+	text-decoration: none;
 	font-family: 'Exo', sans-serif;
 	margin-top: 1em;
 	padding:0.5em 1em;
 	transition: all 0.4s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
+	font-weight: 300;
 	&:hover{
 		text-shadow: none;
 		text-decoration: none;
 		padding:0.5em 1.5em;
+		font-weight: 300;
 	}
 	&.dark{
 		border: 2px solid $violet;
@@ -245,6 +255,7 @@ input.button{
 
 p > a.link{
 	color:$violet;
+	font-weight: 300;
 	text-decoration: none;
 	padding:0.2em 0.2em;
 	background:
@@ -262,6 +273,7 @@ p > a.link:hover,
 p > a.link:focus {
    color: #fff;
    background-size: 4px 50px;
+   font-weight: 300;
 }
 
 ul{
@@ -270,6 +282,7 @@ ul{
 		line-height: 1.2em;
 		font-size: 1.1em;
 		margin: 1em 0;
+		a, a:hover{font-weight: 300;}
 		&.list:before{
 			display: inline-block;width: 1em;content: "\263E";
 		}
@@ -391,7 +404,10 @@ figure.liens{
 	a{
 		color: $violet;
 		transition: all cubic-bezier(0.215, 0.61, 0.355, 1) 0.5s;
+		font-weight: 300;
+		text-decoration: none;
 		&:hover{
+			font-weight: 300;
 			letter-spacing: 0.25em;
 		}
 	}
