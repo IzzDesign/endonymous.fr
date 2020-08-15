@@ -523,6 +523,72 @@ blockquote:after{
 
 .biblio-next a:hover img{width: 110px;}
 
+.interview{
+	display: flex;
+	flex-direction: row;
+	align-content:center;
+	background-color:$violet;
+	border-radius:25px;
+	text-align: center;
+	img{}
+	h4{color: #fff;letter-spacing: 0.25em; font-size: 1.7em}
+	p{
+	color:#fff;
+	font-weight: 500;
+	font-family: 'Exo';
+	line-height: 1.5em;
+	letter-spacing: 0.4em;
+	font-size: 1.1em;
+	}
+	p:before{
+	content: '«';
+	font-size:1.5em;
+	font-family: 'Exo';
+	font-weight: 500;
+	color: #fff;
+	height: auto;
+	}
+	p:after{
+		content: '»';
+		font-size:1.5em;
+		font-family: 'Exo';
+		font-weight: 500;
+		color: #fff;
+		position:relative;
+	}
+	.resum{font-size: 1em;letter-spacing: 0.08em;}
+	.resum:before,.resum:after{display: none;}
+}
+.plante-left{
+	position: absolute;
+	bottom:0;
+	left: -55px;
+}
+.plante-right{
+	position: absolute;
+	bottom:0;
+	right: -55px;
+}
+.q{
+	color:$violet;
+	font-weight: 500;
+	font-family: 'Exo';
+	line-height: 1.8em;
+	letter-spacing: 0.1em;
+	font-size: 1.2em;
+	margin: 1em 0 0.5em 0;
+}
+
+.btn-secondary{
+	padding:0;
+	background-color:#fff;
+	border:none;
+	color: $font;
+	text-decoration:underline;
+	font-size: 1em;
+	vertical-align: baseline;
+}
+
 .footer{margin-top: auto;}
 footer {
 	text-align: center;
@@ -547,6 +613,7 @@ footer {
 	.landing img{width: 100%;}
 	.txt{padding: 1em;}
 	.white{display: none;}
+	.interview{h4{font-size: 1.1em;}p{font-size: 1em;letter-spacing:0.2em;&:before,&:after{font-size: 1em;}}}
 }
 
 @media screen and (max-width: 991px){
@@ -556,6 +623,9 @@ footer {
 		order: 2;
 		img{max-height: 300px; position: absolute;bottom: 0;left: 0;}
 	}
+	
+	.interview{p{padding:0.2em;&:before,&:after{font-size: 1em;}}}
+	.plante-left, .plante-right{display: none;}
 	footer{margin:0;}
 }
 

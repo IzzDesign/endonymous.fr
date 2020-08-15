@@ -1,0 +1,57 @@
+---
+layout: default
+subtitle: Des ateliers de rencontres pour les endométriosiques sont organisés sur Lyon.
+title: Témoignages et tranches de vie
+category: Reprends le contrôle
+og_image: /img/cycle.png
+og_twitter_img : https://cycliques.fr/img/twitter-lien.png
+previous: /controle/controle.html
+order: 85
+articles:
+  - /controle/temoigner-creer.html
+  - /controle/adherences.html
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm text-center">
+      <div class="entete">
+        <div class="line"></div>
+        <span class="h2">{{ page.category }}</span>
+      </div>
+        <h2 class="title">{{ page.title }}</h2>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      {% include back-interview.html %}
+        {% for p in site.pages %}
+          {% if p.category == "interview" %}
+            <a href="{{ p.url }}">
+            	<div class="interview">
+					<div class="row">
+						<div class="col-lg-4 order-md-1">
+							<img src="/img/interview/left.png" class="plante-left img-fluid">
+							<img src="{{ p.og_image }}" class="img-fluid">
+						</div>
+						<div class="col-lg-7 order-md-3">
+							<h4>{{ p.title }}</h4>
+							<p>{{ p.quote }}</p>
+						</div>
+						<div class="col-lg-1 order-2 order-lg-3">
+							<img src="/img/interview/right.png" class="plante-right">
+						</div>
+					</div>
+            	</div>
+          	</a>
+          {% endif %}
+        {% endfor %}
+      {% include back-interview.html %}
+    </div>
+  </div>
+  {% include addthis.html %}
+  {% include articles.html %}
+</div>
