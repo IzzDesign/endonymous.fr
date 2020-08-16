@@ -531,14 +531,18 @@ blockquote:after{
 	background-color:$violet;
 	border-radius:25px;
 	text-align: center;
-	img{}
-	h4{color: #fff;letter-spacing: 0.25em; font-size: 1.7em}
+	h4{
+		color: #fff;
+		letter-spacing: 0.25em;
+		font-size: 1.7em;
+		transition: all cubic-bezier(0.215, 0.61, 0.355, 1) 0.5s;
+	}
 	p{
 	color:#fff;
 	font-weight: 500;
 	font-family: 'Exo';
 	line-height: 1.5em;
-	letter-spacing: 0.4em;
+	letter-spacing: 0.2em;
 	font-size: 1.1em;
 	}
 	p:before{
@@ -560,24 +564,34 @@ blockquote:after{
 	.resum{font-size: 1em;letter-spacing: 0.08em;}
 	.resum:before,.resum:after{display: none;}
 }
+
+a .interview:hover{
+	h4{text-decoration: underline;}
+	.plante-left{left:-60px;}
+	.plante-right{right:-60px;}
+	}
+
 .plante-left{
 	position: absolute;
 	bottom:0;
 	left: -55px;
+	transition: all cubic-bezier(0.215, 0.61, 0.355, 1) 0.5s;
 }
 .plante-right{
 	position: absolute;
 	bottom:0;
 	right: -55px;
+	transition: all cubic-bezier(0.215, 0.61, 0.355, 1) 0.5s;
 }
+
 .q{
 	color:$violet;
 	font-weight: 500;
 	font-family: 'Exo';
 	line-height: 1.8em;
 	letter-spacing: 0.1em;
-	font-size: 1.2em;
-	margin: 1em 0 0.5em 0;
+	font-size: 1.4em;
+	margin: 2em 0 0.7em 0;
 }
 
 .pop, a:not([href]){
