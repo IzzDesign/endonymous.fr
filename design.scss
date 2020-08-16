@@ -1,4 +1,5 @@
 ---
+
 ---
 
 $violet: #321346;
@@ -579,14 +580,10 @@ blockquote:after{
 	margin: 1em 0 0.5em 0;
 }
 
-.btn-secondary{
-	padding:0;
-	background-color:#fff;
-	border:none;
-	color: $font;
-	text-decoration:underline;
-	font-size: 1em;
-	vertical-align: baseline;
+.pop, a:not([href]){
+	text-decoration: underline dotted;
+	color: $violet;
+
 }
 
 .footer{margin-top: auto;}
