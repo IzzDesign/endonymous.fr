@@ -226,7 +226,7 @@ a.button, input.button{
 	padding:0.5em 1em;
 	transition: all 0.4s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
 	font-weight: 300;
-	&:hover{
+	&:hover, &:focus, &:focus-within{
 		text-shadow: none;
 		text-decoration: none;
 		padding:0.5em 1.5em;
@@ -256,6 +256,7 @@ a.button, input.button{
 			     );
 			}
 	}
+	&.bio{font-weight: 500; margin: 0 auto;}
 }
 
 input.button{
@@ -599,6 +600,8 @@ a .interview:hover{
 	color: $violet;
 
 }
+
+.center{align-items: center;}
 
 .footer{margin-top: auto;}
 footer {
