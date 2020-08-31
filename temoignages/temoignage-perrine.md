@@ -18,9 +18,10 @@ J’ai **beaucoup relativisé mes douleurs,** parce qu’à travers le discours 
 
 C’est juste avant de partir à l’étranger que j’ai consulté un dernier gynécologue qui distinguait des petites « traces » sur l’IRM qu’il ne pouvait pas expliquer. Sans rien affirmer, il **m’a mentionné l’existence de l’endométriose,** m’expliquant que mes symptômes ressemblaient à ceux de la maladie.
 
+<div class="deco"><img src="/img/interview/plante.svg"></div>
 <p class="q">C’est la première fois que tu entendais le mot endométriose ?</p>
-
 Non, cela faisait plusieurs fois que j’en entendais parler sans vraiment savoir ce que c’était, mais la discussion avec ce gynécologue m’a fait un **déclic.** J’ai réalisé que j’étais malade et qu’aucun de ces médecins n’avaient de **solutions pertinentes à m’apporter.** Alors j’ai commencé à m’intéresser plus sérieusement à la question.
+
 
 <p class="q">Comment t’es tu renseignée sur la maladie ?</p>
 
@@ -33,6 +34,8 @@ Finalement, j’ai fini par trouver ces traitements aussi invasifs, précaires e
 <p class="q">Ça a été comment moralement de lire tous ces témoignages qui laissaient peu d’espoir ?</p>
 
 Ce n’étais pas évident, d’autant qu’à l’époque, je gardais tout ça pour moi. Je ne voulais pas inquiéter mes proches. Puis j’avais en tête que les gens ne connaissaient pas cette maladie et qu’ils ne la comprendraient peut-être pas. Comme je n’avais pas de validation claire de la part du corps médical, je craignais certainement **que l’on ne me prenne pas au sérieux.** J’avais aussi inconsciemment l’envie d’être perçu comme quelqu’un de solide, qui ne se plaint pas, donc c’était compliqué de m’avouer à moi-même ou aux autres que j’étais malade. À ce moment là j’en parlais à très peu de gens, juste quelques amies proches. Et puis je ne rentrais pas vraiment dans les détails, ça s’arrêtait souvent à : « J’ai mal au ventre, je pense que j’ai de l’endométriose, je suis entrain de me renseigner là-dessus ».
+
+<div class="deco"><img src="/img/interview/plante2.svg"></div>
 
 <p class="q">Qu’est ce que tu as décidé de faire après avoir lu tous ces témoignages ?</p>
 
@@ -56,6 +59,8 @@ Le corps qui part complètement en vrille, ça a duré quelques mois pendant les
 À ce moment là, j’ai commencé tous les matins et soirs de manière obsessionnelle à lire toutes les sources possibles sur la maladie et la guérison. J’ai lu énormément d’articles, de livres et vu pas mal de documentaires : sur l’alimentation anti-inflammatoire, les perturbateurs endocrinien, l’équilibre hormonal, la régénération cellulaire, la guérison naturelle ou même des choses plus spirituelles… J’ai commencé à m’intéresser à pleins de sujets et j’ai initié de **très grosses prises de conscience.**
 J’ai aussi intégré **un groupe Facebook sur l’endométriose** et la santé au naturel. J’ai découvert un tas de femmes qui n’avaient plus de symptômes en suivant les principes de la santé naturelle. Ce groupe a été précieux pendant tout mon processus. De nombreuses femmes y partageaient leurs recettes, lectures, découvertes, documentaires… et tout ce qui pouvait les aider au quotidien à diminuer leurs douleurs. Je continuais à m’informer tous les jours. **Des témoignages de femmes se disant asymptomatiques,** apparaissaient de plus en plus souvent dans le fil des discussions, ce qui me confortait dans l’idée **qu’il était possible d’améliorer sa condition.**
 
+<div class="deco"><img src="/img/interview/plante3.svg"></div>
+
 <p class="q">Comment tu t’es sentie face à ces différentes lectures ? Qu’est-ce que tu en pensais ? Cela a tout de suite fait écho ou tu as un côté cartésien qui te rendait dubitative face à ces réponses ?</p>
 
 À certaines lectures, j’étais assez sceptique. Par exemple, certains articles conseillaient de se débarrasser des produits avec des perturbateurs endocriniens, mais je doutais qu’un changement qui me paraissait si anodin puisse diminuer mes symptômes. Je voulais une solution plus globale, instantanée et radicale. Tout comme je ne voyais pas encore que les causes de la maladie étaient multiples, **je ne comprenais pas encore qu’il s’agissait d’un travail qui allait devoir se faire à plusieurs niveaux,** de la salle de bain, jusqu’à mon assiette et de mon activité sportive à mon activité mentale. Ce ne sont pas des choses que j’ai mis en place de suite, j’ai eu besoin de temps pour digérer toute cette information.
@@ -74,7 +79,7 @@ Tous ces changements ont été assez drastiques. Chez moi, j’ai pris de grands
 J’ai aussi ajouté beaucoup de plantes dans mon alimentation et mes boissons. J’avais eu beaucoup d’intérêt pour les **plantes médicinales** dans mes différentes lectures, j’avais appris leurs bienfaits et j’avais noté celles qui pouvaient me servir le plus. J’avais acheté de quoi faire de la <a data-toggle="popover" data-placement="top" data-trigger="hover" title="Gemmothérapie" data-content="Utilisation à des fins médicales de dilutions infinitésimales de tissus végétaux jeunes (bourgeons).(Larousse)" class="pop">gemmothérapie</a>, des tisanes, puis plus tard, j’ai fait mon propre potager de plantes médicinales.
 
 J’ai également intégré le <a data-toggle="popover" data-placement="top" data-trigger="hover" title="Jeûne" data-content="Arrêt total de l'alimentation, avec maintien ou non de la consommation d'eau. (Larousse)" class="pop">jeûne</a>. J’avais lu que lorsqu’on se nourrit, le corps passe la majeure partie de son énergie à digérer et que lorsqu’il digère, il ne peut pas mettre de l’énergie à la détoxification ou à la régénération cellulaire. J’ai donc commencé petit à petit à faire des jeûnes soit intermittents, soit plus stricts avant les règles ou avant l’ovulation. C’est aussi un moyen de ne pas rajouter une inflammation digestive sur une inflammation menstruelle puisque le corps est déjà hyper inflammé à ce moment là.
-
+<div class="deco"><img src="/img/interview/plante2.svg"></div>
 <p class="q">Tu as senti des changements notables avec l’intégration du jeun ?</p>
 
 Clairement ! Si le changement d’alimentation a permis de diminuer les douleurs liées à la digestion et aux reins, le jeune a permis de diminuer mes douleurs menstruelles. Comme j'ai commencé le jeûne quelques mois après mon nouveau régime, j’ai pu sentir que j’avais immédiatement réduit mes douleurs, autant au moment de l’ovulation qu’au moment des règles.
@@ -110,6 +115,8 @@ Globalement, je me sentais en forme, j’avais retrouvé ma vitalité et mon én
 
 Une fois que j’ai arrêté la pilule, pendant ma période d’ovulation, ça me tirait dans le ventre, mais j’étais capable de continuer des activités, j’étais **fonctionnelle.** Les règles étaient toujours un peu plus douloureuses, mais ça arrivait à des jours bien précis. J’étais capable de me préparer, **de préparer mon corps** et de calmer le rythme à ces moments.
 
+<div class="deco"><img src="/img/interview/plante3.svg"></div>
+
 <p class="q">Ça t’a poussée à t’intéresser à ton cycle menstruel ?</p>
 
 Oui, avant d’arrêter la pilule je me suis beaucoup intéressée à l’étude du **cycle et à la symptothermie.** J’étais prête à faire le changement et à fonctionner avec la <a data-toggle="popover" data-placement="top" data-trigger="hover" title="Symptothermie" data-content="La méthode symptothermique ou Symptothermie est une méthode de planification familiale naturelle qui complète la méthode des températures. (Wikipédia)" class="pop">symptothermie</a>, une application, un thermomètre, l’auto-observation des indices de fertilité…
@@ -140,6 +147,8 @@ Quand tu te fais toujours passer après quelque chose, **tu n’es pas en train 
 
 Comme j’étais dans ce processus de m’accorder plus de temps et de me créer un environnement sain et qui me fasse vibrer tous les jours, **j’ai pris de la distance avec les choses ou les personnes qui ne m’apportaient pas de la joie, du bien être ou de la bienveillance.** J’apprends à **mettre des limites** dans mes relations, au travail, dans mes activités, dans mon emploi du temps… J’apprends à équilibrer tout ça pour créer une harmonie. Si ça peut être évident pour certaines personnes, c’est tout un apprentissage pour moi.
 
+<div class="deco"><img src="/img/interview/plante2.svg"></div>
+
 <p class="q">Est-ce que justement changer l’alimentation et se sentir mieux dans son corps n’aide pas aussi au niveau mental et émotionnel ?</p>
 
 Oui, c’est vrai et prouvé cliniquement que si tu manges bien, tu vas mieux mentalement. Des études ont montré que quelqu’un avec un bon microbiote est mieux dans sa tête. C’est notre deuxième cerveau, tout est lié, c’est sûr. 
@@ -154,3 +163,5 @@ Non, pas du tout ! Aujourd’hui j’ai l’impression d’avoir **un corps puis
 Je pense que l’on ne pourra pas guérir les maladies auto-immunes ou chroniques, en “luttant contre la maladie”. C’est malheureusement la logique de la médecine allopathique, de ne pas prendre en compte les causes de la maladie et de vouloir directement faire taire les symptômes à grands coups de médicaments ou d’opération. Quand tu comprends que la “mal-à-dit” est le système d’alerte du corps et sa manière de se détoxifier et de se régénérer, alors là tu peux commencer à travailler en équipe avec lui et à l’aider à y arriver. **L'organisme est une merveilleuse machine qui sait prendre soin d'elle-même,** naturellement et dont les principes sont plus intelligents que nous.
 
 Tous ces facteurs de santé : l’alimentation vivante, la gestion émotionnelle, le fonctionnement du cycle et du système hormonal de la femme, la dangerosité des polluants et des perturbateurs endocriniens, l’écoute de son corps, la bienveillance envers soi... **devraient être enseignés à l’école.** Ils sont bien plus nécessaires que le théorème de pythagore ou le calcul du PIB pour se créer une belle vie.
+
+<div class="deco"><img src="/img/interview/plante.svg"></div>
