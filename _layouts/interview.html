@@ -20,11 +20,11 @@ layout: default
       {% include back-interview.html %}
       <div class="interview">
         <div class="row">
-          <div class="col-lg-4 order-md-1">
+          <div class="col-lg-4 col-sm-4">
             <img src="/img/interview/left.png" class="plante-left img-fluid">
             <img src="{{ page.og_image }}" class="img-fluid">
           </div>
-          <div class="col-lg-6 order-md-3">
+          <div class="col-lg-6 col-sm-7">
             <h4>{{ page.title }}</h4>
             <p class="resum">{{ page.subtitle }}</p>
           </div>
@@ -33,6 +33,7 @@ layout: default
           </div>
         </div>
       </div>
+      <div class="deco-mini"><img src="/img/interview/plante.svg"></div>
       {{ content }}
       {% include back-interview.html %}
     </div>

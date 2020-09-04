@@ -22,7 +22,6 @@ body{
 
 .container{display: flex;flex-direction: column;}
 
-a{color: $violet; text-decoration: underline;font-weight: 600;}
 a:hover{text-decoration: none;color: $violet;font-weight: 600;}
 
 .landing{
@@ -82,6 +81,7 @@ h5{font-size: 1.1em; text-align: left;}
 .navbar-expand-lg .navbar-nav{
 	justify-content:space-evenly;
 	flex-grow:1;
+	font-size: 1em;
 }
 
 .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link{
@@ -530,7 +530,7 @@ blockquote:after{
 	flex-direction: row;
 	align-content:center;
 	background-color:$violet;
-	border-radius:25px;
+	border-radius:15px;
 	text-align: center;
 	h4{
 		color: #fff;
@@ -545,6 +545,7 @@ blockquote:after{
 	line-height: 1.5em;
 	letter-spacing: 0.2em;
 	font-size: 1.1em;
+	padding:1em;
 	}
 	p:before{
 	content: '«';
@@ -552,7 +553,7 @@ blockquote:after{
 	font-family: 'Exo';
 	font-weight: 500;
 	color: #fff;
-	height: auto;
+	padding-right:0.4em;
 	}
 	p:after{
 		content: '»';
@@ -561,6 +562,7 @@ blockquote:after{
 		font-weight: 500;
 		color: #fff;
 		position:relative;
+		padding-right:0.4em;
 	}
 	.resum{font-size: 1em;letter-spacing: 0.08em;}
 	.resum:before,.resum:after{display: none;}
@@ -595,6 +597,7 @@ a .interview:hover{
 	margin: 2em 0 0.7em 0;
 }
 .deco{text-align:center;img{width: 100px;}}
+.deco-mini{text-align:center;img{width: 50px;}}
 
 .pop, a:not([href]){
 	text-decoration: underline dotted;
@@ -623,12 +626,14 @@ footer {
 		a{color: $violet;transition: all ease-out 0.5s;}
 	}
 }
-@media screen and (max-width: 575px){
-	.violet.padding0 img{display: none;}
-	.landing img{width: 100%;}
-	.txt{padding: 1em;}
-	.white{display: none;}
-	.interview{h4{font-size: 1.1em;}p{font-size: 1em;letter-spacing:0.2em;&:before,&:after{font-size: 1em;}}}
+@media screen and (min-width: 575px) {
+	a{color: $violet; text-decoration: underline;font-weight: 600;}
+	.deco-mini{display: none;}
+}
+
+@media screen and (max-width: 1200px) {
+ 	.landing{height: auto;}
+	.navbar-expand-lg .navbar-nav{font-size: 0.8em;}
 }
 
 @media screen and (max-width: 991px){
@@ -642,10 +647,7 @@ footer {
 	.interview{p{padding:0.2em;&:before,&:after{font-size: 1em;}}}
 	.plante-left, .plante-right{display: none;}
 	footer{margin:0;}
-}
-
-@media screen and (max-width: 1200px) {
-  .landing{height: auto;}
+	.navbar-light .navbar-nav .nav-link,{margin-bottom: 0;}
 }
 
 @media screen and (max-width: 800px) {
@@ -660,3 +662,32 @@ footer {
 		}
   footer{div{flex-direction: column;}}
 }
+
+@media screen and (min-width: 575px) and (max-width: 777px) {
+	.interview{
+		h4{font-size: 1.2em; margin-bottom: 0.5em;}
+		p,.resum{font-size: 0.9em;}
+		.resum{margin: 0;}
+	}
+}
+
+@media screen and (max-width: 575px) {
+	.violet.padding0 img{display: none;}
+	.landing img{width: 100%;}
+	.txt{padding: 1em;}
+	.white{display: none;}
+	.interview{h4{font-size: 1.1em;}p{font-size: 1em;letter-spacing:0.2em;&:before,&:after{font-size: 1em;}}}
+	.back{font-size: 0.8em;}
+	.q{margin-top: 1em;}
+	h2{font-size: 1.5em;}
+	h3, .bg .text-upp p.sobig{font-size: 1.3em;}
+	h4{font-size: 1.1em;}
+	a > div.interview{text-decoration: none;}
+	.interview{
+		background-color:#fff;
+		img{width: 200px;}
+		p{margin: 0 auto; color: $violet; &:before, &:after{color: $violet;}} h4{color: $violet;}}
+		.resum{font-size:0.9em;}
+	.deco-mini{display: block;}
+	}
+  .landing{display: none;}

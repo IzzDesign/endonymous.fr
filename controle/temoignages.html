@@ -32,21 +32,22 @@ articles:
           {% if p.category == "interview" %}
             <a href="{{ p.url }}">
             	<div class="interview">
-					<div class="row">
-						<div class="col-lg-4 order-md-1">
-							<img src="/img/interview/left.png" class="plante-left img-fluid">
-							<img src="{{ p.og_image }}" class="img-fluid">
-						</div>
-						<div class="col-lg-6 order-md-3">
-							<h4>{{ p.title }}</h4>
-							<p>{{ p.quote }}</p>
-						</div>
-						<div class="col-lg-1 offset-lg-1 order-2 order-lg-3">
-							<img src="/img/interview/right.png" class="plante-right">
-						</div>
-					</div>
+      					<div class="row">
+      						<div class="col-lg-4 col-md-4">
+      							<img src="/img/interview/left.png" class="plante-left img-fluid">
+      							<img src="{{ p.og_image }}" class="img-fluid">
+      						</div>
+      						<div class="col-lg-6 col-md-7">
+      							<h4>{{ p.title }}</h4>
+      							<p>{{ p.quote }}</p>
+      						</div>
+      						<div class="col-lg-1 offset-lg-1 order-2 order-lg-3">
+      							<img src="/img/interview/right.png" class="plante-right">
+      						</div>
+      					</div>
             	</div>
           	</a>
+            <div class="deco-mini"><img src="/img/interview/plante.svg"></div>
           {% endif %}
         {% endfor %}
       {% include back-interview.html %}
