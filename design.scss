@@ -54,7 +54,10 @@ h2{position: inherit;}
 }
 
 h2.title{margin-top: 0.2em;}
-h4{margin: 1.2em 0;}
+h4{
+	margin: 1.2em 0;
+	&.list{font-size:1em; text-align:center;}
+}
 h5{font-size: 1.1em; text-align: left;}
 
 .logo{
@@ -378,7 +381,7 @@ a.footnote{font-weight: 700; color: $violet;text-decoration: underline;}
 	}
 }
 form{
-	max-width: 600px;
+	width: 600px;
 	margin: 0 auto;
 	input.button{margin: 0 auto;}
 	margin-bottom: 2em;
@@ -660,6 +663,7 @@ footer {
 			&.big{font-size: 1.2em;}
 			}}
 		}
+		form{width:300px;}
   footer{div{flex-direction: column;}}
 }
 
