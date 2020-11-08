@@ -51,7 +51,7 @@
     </div>
     <div></div>
     <div id="sib-container" class="sib-container--large sib-container--vertical" style="text-align:center; background-color:rgba(255,255,255,1); max-width:540px; border-radius:3px; border-width:1px; border-color:#835a7c; border-style:solid;">
-      <form id="sib-form" method="POST" action="https://d41ad119.sibforms.com/serve/MUIEAMGrDqlFKZzwE5pHCwvzSw1b9hXeXEKuw_nCsa0SiC6XJvsF_fi3w9hPK2FyhTf7YKPghDton3QM84sN-_jGcOj_aSqTQlPT1cVUeBYvAILU8QUIG130cCHnBkDVHwC48X4KVVK_E6DUw8498o9wsUwDyLFzVUdFaRlflYIzBhAPkFkYFh0qVoHvrxrysB6FoOt9XfB--d1-"
+      <form id="sib-form" method="POST" action="https://d41ad119.sibforms.com/serve/MUIEALd-UF_hM8MAOg-Iu6GhYGulRwdLh_YctX7x-wBitVA9pd1Okzy5O_Jfim2E4eThLW5L1QLm6u_97f-0l8A7Ot-xMA1pM-dc54NDzh30AwnfkxhIsb1pMO_EkLnpF70tEhwh9LeIvDvMKd5oe9u1LEqSPkp-hU29wDnwrZvA4FLnC6ROBJMqR9N0aKHhDzLBxX87XobuQ73E"
         data-type="subscription">
         <div style="padding: 8px 0;">
           <div class="sib-form-block" style="font-size:16px; text-align:left; font-family:&quot;Exo&quot;, sans-serif; color:#3C4858; background-color:transparent;">
@@ -85,7 +85,7 @@
                 </div>
               </div>
 
-              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Exo&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
               </label>
             </div>
           </div>
@@ -100,7 +100,7 @@
                 </div>
               </div>
 
-              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Exo&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
               </label>
             </div>
           </div>
@@ -112,7 +112,7 @@
                 <div class="entry__choice">
                   <label>
                     <input type="checkbox" class="input_replaced" value="1" id="OPT_IN" name="OPT_IN" />
-                    <span class="checkbox checkbox_tick_positive"></span><span style="font-size:14px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;"><p>J'accepte de recevoir vos e-mails et confirme avoir pris connaissance de votre politique de confidentialité et mentions légales.</p></span>                    </label>
+                    <span class="checkbox checkbox_tick_positive"></span><span style="font-size:14px; text-align:left; font-family:&quot;Exo&quot;, sans-serif; color:#3C4858; background-color:transparent;"><p>J'accepte de recevoir vos e-mails et confirme avoir pris connaissance de votre politique de confidentialité et mentions légales.</p></span>                    </label>
                 </div>
               </div>
               <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Exo&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
@@ -124,7 +124,21 @@
           </div>
         </div>
         <div style="padding: 8px 0;">
-          <div class="g-recaptcha" data-sitekey="6LfzhOAZAAAAAOw5C5gHmEbhlXXGJ7ru46E8kZ0I" data-callback="invisibleCaptchaCallback" data-size="invisible" onclick="executeCaptcha"></div>
+          <div class="sib-captcha sib-form-block">
+            <div class="form__entry entry_block">
+              <div class="form__label-row ">
+                <script>
+                  function handleCaptchaResponse() {
+                    var event = new Event('captchaChange');
+                    document.getElementById('sib-captcha').dispatchEvent(event);
+                  }
+                </script>
+                <div class="g-recaptcha sib-visible-recaptcha" id="sib-captcha" data-sitekey="6LfzhOAZAAAAAOw5C5gHmEbhlXXGJ7ru46E8kZ0I" data-callback="handleCaptchaResponse"></div>
+              </div>
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+              </label>
+            </div>
+          </div>
         </div>
         <div style="padding: 8px 0;">
           <div class="sib-form__declaration">
@@ -141,7 +155,7 @@
                 <use xlink:href="#svgIcon-sphere"></use>
               </svg>
             </div>
-            <p style="font-size:14px; text-align:left; font-family:&quot;Exo&quot;, sans-serif; color:#687484; background-color:transparent;">
+            <p style="font-size:14px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#687484; background-color:transparent;">
               Nous utilisons Sendinblue en tant que plateforme marketing. En soumettant ce formulaire, vous reconnaissez que les informations que vous allez fournir seront transmises à Sendinblue en sa qualité de processeur de données; et ce conformément à ses
               <a
                 target="_blank" class="clickable_link" href="https://fr.sendinblue.com/legal/termsofuse/">conditions générales d'utilisation</a>.
@@ -151,7 +165,7 @@
         </div>
         <div style="padding: 8px 0;">
           <div class="sib-form-block" style="text-align: left">
-            <button class="sib-form-block__button sib-form-block__button-with-loader" style="font-size:16px; text-align:left; font-weight:700; font-family:&quot;Exo&quot;, sans-serif; color:#FFFFFF; background-color:#321346; border-radius:3px; border-width:0px;"
+            <button class="sib-form-block__button sib-form-block__button-with-loader" style="font-size:16px; text-align:left; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#FFFFFF; background-color:#321346; border-radius:3px; border-width:0px;"
               form="sib-form" type="submit">
               <svg class="icon clickable__icon progress-indicator__icon sib-hide-loader-icon" viewBox="0 0 512 512">
                 <path d="M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z"
