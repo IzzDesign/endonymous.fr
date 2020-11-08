@@ -1,0 +1,50 @@
+---
+layout: default
+subtitle: Des ateliers de rencontres pour les endométriosiques sont organisés sur Lyon.
+title: Cycliques
+og_image: /img/cycle.png
+og_twitter_img : https://cycliques.fr/img/twitter-lien.png
+---
+
+<div class="container">
+	<div class="row">
+	    <div class="col-sm text-center">
+        <div class="bg violet">
+          <div class="col-sm-10 offset-sm-1 txt padding2">
+            <div class="text-upp">
+              <p>Merci de ton inscription à notre</p>
+              <p class="big">newsletter !</p>
+            </div>
+          </div>
+        </div>
+    </div>
+	</div>
+  <div class="row">
+    <div class="col-sm text-center">
+      <div class="col-sm-10 offset-sm-1 txt padding2">
+        <div class="text-upp">
+          <p class="classie">Tu peux nous suivre sur Instagram pour être au courant de toutes les actus :</p>
+          <ul class="reseaux">
+            <li><a href="https://www.instagram.com/cycliques/">{% include svg/instagram.svg %}</a></li>
+          </ul>
+          <p class="classie">Si tu veux en savoir plus sur notre contenu, voici tous nos articles présents sur le site :</p>
+        </div>
+      </div>
+  </div>
+  </div>
+  <div class="row">
+    {% assign sorted_articles = site.pages | sort: 'order' %}
+      {% for p in sorted_articles %}
+        {% if p.category == "Le savoir c'est le pouvoir" or p.category == "Reprends le contrôle" %}
+          <div class="col-sm-4">
+            <a href="{{ p.url }}" class="title-a">
+              <figure class="liens">
+                <img src="{{ p.og_image }}" class="img-fluid" alt="{{ p.alt_img }}" title="{{ p.title_img }}">
+                <h4 class="list">{{ p.title }}</h4>
+              </figure>
+            </a>
+          </div>
+          {% endif %}
+        {% endfor %}
+  </div>
+</div>

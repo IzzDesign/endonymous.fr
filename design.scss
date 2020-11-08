@@ -36,7 +36,8 @@ a:hover{text-decoration: none;color: $violet;font-weight: 600;}
 		width: 50%;}
 }
 
-h1,h2,h3,h4,h5,span.h2{color:$violet;margin-top:2em;text-align: center;font-family: 'Exo', serif; letter-spacing: 0.15em; text-transform: uppercase;}
+h1,h2,h3,h4,h5,span.h2,p.classie{color:$violet;margin-top:2em;text-align: center;font-family: 'Exo', serif; letter-spacing: 0.15em; text-transform: uppercase;}
+p.classie{margin-top: 0;}
 h2{position: inherit;}
 .entete{
 	margin: 0 auto;
