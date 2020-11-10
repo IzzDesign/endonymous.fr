@@ -630,6 +630,26 @@ footer {
 		a{color: $violet;transition: all ease-out 0.5s;}
 	}
 }
+
+.endobujo{
+	img.id{width: 200px; display:flex;margin: 0 auto;}
+	.appear{
+		margin: 0 auto;
+		visibility: hidden;
+  		animation: imgappear 0.8s cubic-bezier(0,1,.65,1) 0.5s forwards;
+	}
+	.profil{
+		img{width: 60%;}
+		p{font-size: 1em;line-height: 1.6em;}
+	}
+}
+
+@keyframes imgappear{
+  0%    {width:95%; visibility: hidden;}
+  50%	{width: 100%;}
+  100%  {width:95%; visibility: visible;}
+}
+
 @media screen and (min-width: 575px) {
 	a{color: $violet; text-decoration: underline;font-weight: 600;}
 	.deco-mini{display: none;}
