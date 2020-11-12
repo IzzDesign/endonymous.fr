@@ -636,7 +636,7 @@ footer {
 	.appear{
 		margin: 0 auto;
 		visibility: hidden;
-  		animation: imgappear 0.8s cubic-bezier(0,1,.65,1) 0.5s forwards;
+  		animation: imgappear 0.8s cubic-bezier(0,1,.65,1) 0.8s forwards;
 	}
 	.profil{
 		img{width: 60%;}
@@ -645,9 +645,9 @@ footer {
 }
 
 @keyframes imgappear{
-  0%    {width:95%; visibility: hidden;}
+  0%    {width:90%; visibility: hidden;}
   50%	{width: 100%;}
-  100%  {width:95%; visibility: visible;}
+  100%  {width:90%; visibility: visible;}
 }
 
 @media screen and (min-width: 575px) {
