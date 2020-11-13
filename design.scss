@@ -187,6 +187,7 @@ p{line-height: 1.8em;font-size: 1.1em;}
 		display: grid;
 		align-content: center;
 		margin: 0.5em 0;
+		&.first{color: $violet;margin-top: 1em;}
 		p{
 		line-height: 1.1em;
 		font-size: 1.2em;
@@ -195,6 +196,7 @@ p{line-height: 1.8em;font-size: 1.1em;}
 		&.big{
 			font-weight: 500;
 			font-size: 1.5em;
+			margin-top: 0.5em;
 			}
 		&.sobig{font-size: 2em;font-weight: 500; color: $violet;}
 		}
@@ -261,6 +263,7 @@ a.button, input.button{
 			}
 	}
 	&.bio{font-weight: 500; margin: 0 auto; margin-bottom: 1.4em;}
+
 }
 
 input.button{
@@ -631,8 +634,8 @@ footer {
 	}
 }
 
+.id{width: 200px; display:flex;margin: 0 auto;}
 .endobujo{
-	img.id{width: 200px; display:flex;margin: 0 auto;}
 	.appear{
 		margin: 0 auto;
 		visibility: hidden;
