@@ -4,8 +4,10 @@
 {% endif %}
 {% if page.subtitle %}
   <meta content="{{ page.subtitle }}" property="og:description" />
+  <meta content="{{ page.subtitle }}" name="description" />
   {% else %}
   <meta content="{{ site.og_description }}" property="og:description" />
+  <meta content="{{ site.og_description }}" name="description" />
 {% endif %}
 {% if page.subtitle %}
   <meta content="{{ page.title }}" property="og:title" />
