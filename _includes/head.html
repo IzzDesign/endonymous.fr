@@ -45,7 +45,10 @@
         {% if page.title == "Home" %}
             {{site.title}}
         {% else %}
+          {% if page.second_title %}
             {{page.title}} &middot; {{page.second_title}}
+          {% else %}
+          {{page.title}} &middot; {{site.title}}
         {% endif %}
     </title>
   </head>
