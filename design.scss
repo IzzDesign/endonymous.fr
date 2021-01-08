@@ -2,7 +2,9 @@
 
 ---
 
-$violet: #321346;
+$violet-matthieu: #321346;
+$violet-amelie: #B09DBC;
+$violet-louise: #D8CBDF;
 $violetclair: #F9F0FF;
 $font:#626262;
 $body-font:'PT serif', serif;
@@ -22,10 +24,11 @@ body{
 
 .container{display: flex;flex-direction: column;}
 
-a:hover{text-decoration: none;color: $violet;font-weight: 600;}
+a:hover{text-decoration: none;color: $violet-matthieu;font-weight: 600;}
 
 .landing{
-	background-color: $violet;
+	background: right / contain no-repeat url("../img/accueil-endobujo.svg"),
+            left / contain no-repeat $violet-louise url("../img/accueil-endobujo2.svg");
 	height: 100vh;
 	text-align: center;
 	display: flex;
@@ -33,10 +36,29 @@ a:hover{text-decoration: none;color: $violet;font-weight: 600;}
 	justify-content: center;
 	align-items:center;
 	img{
-		width: 50%;}
+		position:absolute;
+		top: 5em;
+		right: 200em;
+		&.sticker{width:270px;top: 20em;}
+		&.decal{
+  			animation: blockdecal 1.2s cubic-bezier(0,1,.65,1) 0.5s forwards;
+		}
+	}
+	.intern{display: flex;flex-direction: row;}
+	.text-accueil{
+		position: absolute;
+		right: -100em;
+  		animation: blockdecal-left 1.2s cubic-bezier(0,1,.65,1) 0.5s forwards;
+		.text-upp{
+			margin: 0 auto;
+			width: 60%;
+			color: #fff;
+			.big{font-size: 2em;}
+		}
+	}
 }
 
-h1,h2,h3,h4,h5,span.h2,p.classie{color:$violet;margin-top:2em;text-align: center;font-family: 'Exo', serif; letter-spacing: 0.15em; text-transform: uppercase;}
+h1,h2,h3,h4,h5,span.h2,p.classie{color:$violet-matthieu;margin-top:2em;text-align: center;font-family: 'Exo', serif; letter-spacing: 0.15em; text-transform: uppercase;}
 p.classie{margin-top: 0;}
 h2{position: inherit;}
 .entete{
@@ -45,7 +67,7 @@ h2{position: inherit;}
 	position:relative;
 	span.h2{z-index: 0;padding: 0 1em;}
 	.line{
-		background: linear-gradient(to bottom, $violet 50%, transparent 0);
+		background: linear-gradient(to bottom, $violet-matthieu 50%, transparent 0);
 		height: 1px;
 		z-index: -1;
 		position:absolute;
@@ -92,7 +114,7 @@ h5{font-size: 1.1em; text-align: left;}
 	text-transform: uppercase;
 	font-family: 'Exo', sans-serif;
 	margin-right: 0.2em;
-	color: $violet;
+	color: $violet-matthieu;
 	letter-spacing:0.15em;
 	margin-bottom: 3em;
 	font-weight: 300;
@@ -119,8 +141,8 @@ h5{font-size: 1.1em; text-align: left;}
 	text-decoration: none;
 	background:
 		linear-gradient(
-		to bottom, $violet 0%,
-		$violet 100%
+		to bottom, $violet-matthieu 0%,
+		$violet-matthieu 100%
 	);
 	background-position: 0 100%;
 	background-repeat: repeat-x;
@@ -135,8 +157,8 @@ h5{font-size: 1.1em; text-align: left;}
 	font-weight: 300;
 	background:
      linear-gradient(
-       to bottom, $violet 0%,
-       $violet 100%
+       to bottom, $violet-matthieu 0%,
+       $violet-matthieu 100%
      );
 	background-position: 0 100%;
 	background-repeat: repeat-x;
@@ -169,7 +191,7 @@ p{line-height: 1.8em;font-size: 1.1em;}
 	span{
 		font-family: 'Exo', sans-serif;
 		font-size: 1.2em;
-		background-color: $violet;
+		background-color: $violet-matthieu;
 		color: #fff;
 		padding: 0 2em;
 		line-height: 1.5em;
@@ -187,7 +209,7 @@ p{line-height: 1.8em;font-size: 1.1em;}
 		display: grid;
 		align-content: center;
 		margin: 0.5em 0;
-		&.first{color: $violet;margin-top: 1em;}
+		&.first{color: $violet-matthieu;margin-top: 1em;}
 		p{
 		line-height: 1.1em;
 		font-size: 1.2em;
@@ -198,21 +220,26 @@ p{line-height: 1.8em;font-size: 1.1em;}
 			font-size: 1.5em;
 			margin-top: 0.5em;
 			}
-		&.sobig{font-size: 2em;font-weight: 500; color: $violet;}
+		&.sobig{font-size: 2em;font-weight: 500; color: $violet-matthieu;}
 		}
 	}
 }
 
 .violet{
-	background-color: $violet;
+	background-color: $violet-matthieu;
 	color: #fff;
 }
 
 .clair{
 	background-color: $violetclair;
 	margin-top: 2em;
-	color: $violet;
+	color: $violet-matthieu;
 	img{max-height: 150px; padding: 0 2em;}
+}
+
+.profil{
+	img{width: 60%;}
+	p{font-size: 1em;line-height: 1.6em;}
 }
 
 .padding0{padding: 0;}
@@ -239,14 +266,14 @@ a.button, input.button{
 		font-weight: 300;
 	}
 	&.dark{
-		border: 2px solid $violet;
-		color: $violet;
+		border: 2px solid $violet-matthieu;
+		color: $violet-matthieu;
 		&:hover{
 			color: #fff !important;
 			background:
 				linear-gradient(
-			       to bottom, $violet 0%,
-			       $violet 100%
+			       to bottom, $violet-matthieu 0%,
+			       $violet-matthieu 100%
 			     );
 		}
 	}
@@ -254,7 +281,7 @@ a.button, input.button{
 		border: 2px solid #fff;
 		color: #fff;
 		&:hover{
-			color: $violet !important;
+			color: $violet-matthieu !important;
 			background:
 				linear-gradient(
 			       to bottom, #fff 0%,
@@ -271,14 +298,14 @@ input.button{
 }
 
 p > a.link{
-	color:$violet;
+	color:$violet-matthieu;
 	font-weight: 300;
 	text-decoration: none;
 	padding:0.2em 0.2em;
 	background:
      linear-gradient(
-       to bottom, $violet 0%,
-       $violet 100%
+       to bottom, $violet-matthieu 0%,
+       $violet-matthieu 100%
      );
 	background-position: 0 100%;
 	background-repeat: repeat-x;
@@ -295,6 +322,7 @@ p > a.link:focus {
 
 ul{
 	list-style: none;
+	padding:0;
 	li{
 		line-height: 1.2em;
 		font-size: 1.1em;
@@ -309,22 +337,22 @@ figure{text-align: center;}
 figure figcaption{
 	font-family: 'Exo', sans-serif;
 	font-size: 1.4em;
-	color:$violet;
+	color:$violet-matthieu;
 	text-align: center;
 	margin-top: 0.5em;
 }
 
-a.footnote{font-weight: 700; color: $violet;text-decoration: underline;}
+a.footnote{font-weight: 700; color: $violet-matthieu;text-decoration: underline;}
 .sources, .footnotes{
 	margin-top: 1em;
 	h4{
 		font-family: 'Exo', sans-serif;
 		font-size: 1.4em;
-		color:$violet;
+		color:$violet-matthieu;
 		text-align: left;
 	}
 	a{
-		color: $violet;
+		color: $violet-matthieu;
 		text-decoration: underline;
 		transition: all cubic-bezier(0.215, 0.61, 0.355, 1) 0.5s;
 		line-height: 1em;
@@ -345,7 +373,7 @@ a.footnote{font-weight: 700; color: $violet;text-decoration: underline;}
 	min-height: 2em;
 }
 .error{
-	color: $violet;
+	color: $violet-matthieu;
 	display: none;
 	&:before, &:after{
 		content: url('img/fail.svg');
@@ -354,7 +382,7 @@ a.footnote{font-weight: 700; color: $violet;text-decoration: underline;}
 	}
 }
 .success{
-	color:$violet;
+	color:$violet-matthieu;
 	display: none;
 	&:before, &:after{
 		content: url('img/send.svg');
@@ -378,7 +406,7 @@ a.footnote{font-weight: 700; color: $violet;text-decoration: underline;}
 	text-align: center;
 	span{
 		font-size: 1.2em;
-		color: $violet;
+		color: $violet-matthieu;
 		font-family: 'Exo', sans-serif;
 		font-weight: 500;
 		letter-spacing: 0.2em;
@@ -419,7 +447,7 @@ figure.liens{
 	letter-spacing: 0.2em;
 	text-align: left;
 	a{
-		color: $violet;
+		color: $violet-matthieu;
 		transition: all cubic-bezier(0.215, 0.61, 0.355, 1) 0.5s;
 		font-weight: 300;
 		text-decoration: none;
@@ -442,7 +470,7 @@ figure.cycle{
 }
 
 blockquote{
-	background-color: $violet;
+	background-color: $violet-matthieu;
 	border-radius: 10px;
 	margin: 3em 0;
 }
@@ -477,7 +505,7 @@ blockquote:after{
 
 .cycle p{
 	font-size: 1.1em;
-	color: $violet;
+	color: $violet-matthieu;
 	font-family: 'Exo';
 	font-weight: 400;
 }
@@ -489,7 +517,7 @@ blockquote:after{
 	a{
 		font-size: 1.5em;
 		font-weight: 600;
-		color: $violet;
+		color: $violet-matthieu;
 		transition: all cubic-bezier(0.215, 0.61, 0.355, 1) 0.5s;
 		text-decoration: underline;
 	}
@@ -536,7 +564,7 @@ blockquote:after{
 	display: flex;
 	flex-direction: row;
 	align-content:center;
-	background-color:$violet;
+	background-color:$violet-matthieu;
 	border-radius:15px;
 	text-align: center;
 	h4{
@@ -595,7 +623,7 @@ a .interview:hover{
 }
 
 .q{
-	color:$violet;
+	color:$violet-matthieu;
 	font-weight: 500;
 	font-family: 'Exo';
 	line-height: 1.8em;
@@ -603,12 +631,12 @@ a .interview:hover{
 	font-size: 1.4em;
 	margin: 2em 0 0.7em 0;
 }
-.deco{text-align:center;img{width: 100px;}}
+.deco{text-align:center;img{width: 150px;}}
 .deco-mini{text-align:center;img{width: 50px;}}
 
 .pop, a:not([href]){
 	text-decoration: underline dotted;
-	color: $violet;
+	color: $violet-matthieu;
 
 }
 
@@ -630,37 +658,48 @@ footer {
 		flex-direction: row;
 		display: flex;
 		justify-content: space-around;
-		a{color: $violet;transition: all ease-out 0.5s;}
+		a{color: $violet-matthieu;transition: all ease-out 0.5s;}
 	}
 }
 
 .id{width: 200px; display:flex;margin: 0 auto;}
 .endobujo{
+	background: no-repeat url('/img/endobujo/fond-endobujo.png');
 	.appear{
 		margin: 0 auto;
 		visibility: hidden;
   		animation: imgappear 0.8s cubic-bezier(0,1,.65,1) 0.8s forwards;
 	}
-	.profil{
-		img{width: 60%;}
-		p{font-size: 1em;line-height: 1.6em;}
-	}
 }
 
 @keyframes imgappear{
-  0%    {width:90%; visibility: hidden;}
-  50%	{width: 100%;}
-  100%  {width:90%; visibility: visible;}
+	0%    {width:90%; visibility: hidden;}
+	100%  {width:100%; visibility: visible;}
+}
+
+@keyframes blockdecal{
+	0% {right: 200em;}
+	30%{right: 48em;}
+	100%{right: 50em;}
+}
+
+@keyframes blockdecal-left{
+	0% {right: -100em;}
+	30%{right: 2em;}
+	100%{right: 0;}
 }
 
 @media screen and (min-width: 575px) {
-	a{color: $violet; text-decoration: underline;font-weight: 600;}
+	a{color: $violet-matthieu; text-decoration: underline;font-weight: 600;}
 	.deco-mini{display: none;}
 }
 
 @media screen and (max-width: 1200px) {
- 	.landing{height: auto;}
 	.navbar-expand-lg .navbar-nav{font-size: 0.8em;}
+}
+
+@media screen and (max-width: 1700px) {
+	.landing{display: none;}
 }
 
 @media screen and (max-width: 991px){
@@ -714,8 +753,7 @@ footer {
 	.interview{
 		background-color:#fff;
 		img{width: 200px;}
-		p{margin: 0 auto; color: $violet; &:before, &:after{color: $violet;}} h4{color: $violet;}}
+		p{margin: 0 auto; color: $violet-matthieu; &:before, &:after{color: $violet-matthieu;}} h4{color: $violet-matthieu;}}
 		.resum{font-size:0.9em;}
 	.deco-mini{display: block;}
 	}
-  .landing{display: none;}
