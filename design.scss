@@ -28,30 +28,24 @@ a:hover{text-decoration: none;color: $violet-matthieu;font-weight: 600;}
 
 .landing{
 	background: right / contain no-repeat url("../img/accueil-endobujo.svg"),
-            left / contain no-repeat $violet-louise url("../img/accueil-endobujo2.svg");
+            left /  contain no-repeat $violet-louise url("../img/accueil-endobujo2.svg");
+   	background-size:cover;
 	height: 100vh;
 	text-align: center;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items:center;
-	img{
-		position:absolute;
-		top: 5em;
-		right: 200em;
-		&.sticker{width:270px;top: 20em;}
-		&.decal{
-  			animation: blockdecal 1.2s cubic-bezier(0,1,.65,1) 0.5s forwards;
+	.decal{
+		flex: 0 0 0;
+  		animation: blockdecal 1.2s cubic-bezier(0,1,.65,1) 0.5s forwards;
 		}
-	}
 	.intern{display: flex;flex-direction: row;}
 	.text-accueil{
-		position: absolute;
-		right: -100em;
-  		animation: blockdecal-left 1.2s cubic-bezier(0,1,.65,1) 0.5s forwards;
+		opacity: 0;
+  		animation: opacity 1s cubic-bezier(0,1,.65,1) 1.2s forwards;
 		.text-upp{
 			margin: 0 auto;
-			width: 60%;
 			color: #fff;
 			.big{font-size: 2em;}
 		}
@@ -678,15 +672,13 @@ footer {
 }
 
 @keyframes blockdecal{
-	0% {right: 200em;}
-	30%{right: 48em;}
-	100%{right: 50em;}
+	0% {flex: 0 0 0;}
+	100%{flex: 0 0 50%;}
 }
 
-@keyframes blockdecal-left{
-	0% {right: -100em;}
-	30%{right: 2em;}
-	100%{right: 0;}
+@keyframes opacity{
+	0%{opacity: 0;}
+	100%{opacity: 1;}
 }
 
 @media screen and (min-width: 575px) {
@@ -699,10 +691,13 @@ footer {
 }
 
 @media screen and (max-width: 1700px) {
-	.landing{display: none;}
+	.landing{}
 }
 
 @media screen and (max-width: 991px){
+	.landing .text-accueil{
+		background-color:$violet-amelie;
+	}
 	.box{align-self: auto;}
 	.clair{order: 3;}
 	.violet.padding0{
@@ -714,6 +709,10 @@ footer {
 	.plante-left, .plante-right{display: none;}
 	footer{margin:0;}
 	.navbar-light .navbar-nav .nav-link,{margin-bottom: 0;}
+	@keyframes blockdecal{
+		0% {flex: 0 0 0;}
+		100%{flex: 0 0 100%;}
+	}
 }
 
 @media screen and (max-width: 800px) {
