@@ -242,9 +242,9 @@ p{line-height: 1.8em;font-size: 1.1em;}
 a.button, input.button{
 	color: #fff;
 	cursor: pointer;
-	display: block;
-	position: relative;
-	width: max-content;
+	display: flex;
+	justify-content: center;
+	text-align: center;
 	justify-self:center;
 	text-transform: uppercase;
 	text-decoration: none;
