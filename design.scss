@@ -54,6 +54,7 @@ a:hover{text-decoration: none;color: $violet-matthieu;font-weight: 600;}
 
 h1,h2,h3,h4,h5,span.h2,p.classie,p.h1,.presse .header span,{color:$violet-matthieu;margin-top:2em;text-align: center;font-family: 'Exo', serif; letter-spacing: 0.15em; text-transform: uppercase;}
 p.classie{margin-top: 0;}
+b.big{text-decoration: underline;font-size: 1.2em;}
 h2{position: inherit;}
 .entete{
 	margin: 0 auto;
@@ -665,13 +666,9 @@ a .interview:hover{
 	font-size: 1.4em;
 	margin: 2em 0 0.7em 0;
 }
-.deco{text-align:center;img{width: 150px;}}
-.deco-mini{text-align:center;img{width: 50px;}}
-
 .pop, a:not([href]){
 	text-decoration: underline dotted;
 	color: $violet-matthieu;
-
 }
 
 .center{align-items: center;}
@@ -711,36 +708,42 @@ footer {
 		display: flex;
 		flex-direction: column;
 		p{font-family:'Noto Sans JP',sans-serif;font-weight: 500;}
+		.horizon{display: flex;flex-direction: row;}
 	}
 	.header{
-		background-color:$violet-amelie;
 		text-align: center;
-		padding: 1em 0.5em 5em 0.5em;
+		padding: 1em;
 		justify-content: center;
 		align-items:center;
 		img{max-width: 220px;margin-top: 1em;}
 		h1{
-			font-size: 2.2em;
+			font-size: 2.5em;
 			margin-top: 0.5em;
-			color: white;
 			&:after{display: none;}
 		}
 		p.h1, span{
-			font-size: 1.3em;
-			color: white;
+			font-size: 1.8em;
 			margin-top: 0;
+			text-transform: normal;
 		}
 	}
 	img.bujo{
-		width: 500px;
+		max-width: 100%;
 		margin: 0 auto;
-		position:relative;
-		top:-5em;
 	}
 	.h2-presse{
-		background-color:$violet-louise;padding:1em;
-		h2{z-index:2;font-size: 1.4em;margin-top: 0;text-align: left;line-height: 1.6em;}
-		h2:after{
+		background-color:#fff;
+		padding:1em;
+		font-size: 1.4em;
+		margin: 0;
+		text-align: left;
+		line-height: 1.6em;
+		&:after{content:none;}
+	}
+	.beauty{
+		background-color:$violet-louise;
+		z-index:2;
+		&:after{
 			content: url('/img/endobujo/sticker.svg');
 			position:absolute;
 			width: 150px;
@@ -748,10 +751,11 @@ footer {
 			bottom:-4em;
 			z-index: -2;
 		}
+		p.chapo{
+		padding:0.8em;font-size:1.3em;color:$violet-matthieu; font-weight: 700;line-height: 2em;
+		}
 	}
-	p.chapo{
-		color:$violet-matthieu; font-weight: 700;line-height: 2em;
-	}
+	
 	h5{text-align: center;}
 }
 
@@ -771,6 +775,9 @@ footer {
 		}
 	}
 }
+
+div.deco{display: flex;flex-direction:row;justify-content:center;align-items:center;img{width: 150px;}}
+.deco-mini{text-align:center;img{width: 50px;}}
 
 @keyframes imgappear{
 	0%    {width:90%; visibility: hidden;}
