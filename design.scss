@@ -7,7 +7,7 @@ $violet-amelie: #B09DBC;
 $violet-louise: #D8CBDF;
 $violetclair: #F9F0FF;
 $font:#626262;
-$body-font:'PT serif', serif;
+$body-font:'Noto Sans JP',sans-serif;
 
 html{
 	scroll-behavior: smooth;
@@ -52,8 +52,9 @@ a:hover{text-decoration: none;color: $violet-matthieu;font-weight: 600;}
 	}
 }
 
-h1,h2,h3,h4,h5,span.h2,p.classie{color:$violet-matthieu;margin-top:2em;text-align: center;font-family: 'Exo', serif; letter-spacing: 0.15em; text-transform: uppercase;}
+h1,h2,h3,h4,h5,span.h2,p.classie,p.h1,.presse .header span,{color:$violet-matthieu;margin-top:2em;text-align: center;font-family: 'Exo', serif; letter-spacing: 0.15em; text-transform: uppercase;}
 p.classie{margin-top: 0;}
+b.big{text-decoration: underline;font-size: 1.2em;}
 h2{position: inherit;}
 .entete{
 	margin: 0 auto;
@@ -78,10 +79,12 @@ h4{
 h5{font-size: 1.1em; text-align: left;}
 
 .logo{
+	a{text-align: center;}
 	display: flex;
+	flex-direction: column;
 	justify-content: center;
 	margin: 1em 0;
-	svg{max-width: 220px;}
+	img{max-width: 220px;margin: 0 auto;}
 }
 
 .white svg{fill: #fff;}
@@ -163,7 +166,7 @@ span.h2{
 	font-size: 0.8em;
 	background-color: #fff;
 }
-h2:after{
+h2:after,.presse h1:after{
 	content: url('img/h2.svg');
 	display: block;
 	margin: 0 auto;
@@ -284,7 +287,37 @@ a.button, input.button{
 			}
 	}
 	&.bio{font-weight: 500; margin: 0 auto; margin-bottom: 1.4em;}
-
+	&.img-light-hover{
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-end;
+		border: 2px solid $violet-matthieu;
+		color: $violet-matthieu;
+		align-items:center;
+		&:hover{
+			border: 2px solid $violet-louise;
+			background:
+				linear-gradient(
+			       to bottom, $violet-louise 0%,
+			       $violet-louise 100%
+			     );
+		}
+	}
+	&.img-dark-hover{
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-end;
+		background-color: $violet-matthieu;
+		color: #fff;
+		align-items:center;
+		&:hover{
+			background:
+				linear-gradient(
+			       to bottom, $violet-amelie 0%,
+			       $violet-amelie 100%
+			     );
+		}
+	}
 }
 
 input.button{
@@ -414,6 +447,15 @@ form.contact{
 	.form-control:focus{
 		border-color:$violetclair;
 		box-shadow:0 0 0 .2rem $violetclair;
+	}
+}
+
+.contact-presse{
+	div{
+		display: flex;
+		flex-direction: row;
+		justify-content: space-around;
+		margin: 1em;
 	}
 }
 
@@ -625,13 +667,9 @@ a .interview:hover{
 	font-size: 1.4em;
 	margin: 2em 0 0.7em 0;
 }
-.deco{text-align:center;img{width: 150px;}}
-.deco-mini{text-align:center;img{width: 50px;}}
-
 .pop, a:not([href]){
 	text-decoration: underline dotted;
 	color: $violet-matthieu;
-
 }
 
 .center{align-items: center;}
@@ -665,6 +703,82 @@ footer {
   		animation: imgappear 0.8s cubic-bezier(0,1,.65,1) 0.8s forwards;
 	}
 }
+
+.presse{
+	div div{
+		display: flex;
+		flex-direction: column;
+		p{font-family:'Noto Sans JP',sans-serif;font-weight: 500;}
+		.horizon{display: flex;flex-direction: row;}
+	}
+	.header{
+		text-align: center;
+		padding: 1em;
+		justify-content: center;
+		align-items:center;
+		img{max-width: 220px;margin-top: 1em;}
+		h1{
+			font-size: 2.5em;
+			margin-top: 0.5em;
+			&:after{display: none;}
+		}
+		p.h1, span{
+			font-size: 1.8em;
+			margin-top: 0;
+			text-transform: normal;
+		}
+	}
+	img.bujo{
+		max-width: 100%;
+		margin: 0 auto;
+	}
+	.h2-presse{
+		background-color:#fff;
+		padding:1em;
+		font-size: 1.4em;
+		margin: 0;
+		text-align: left;
+		line-height: 1.6em;
+		&:after{content:none;}
+	}
+	.beauty{
+		background-color:$violet-louise;
+		z-index:2;
+		&:after{
+			content: url('/img/endobujo/sticker.svg');
+			position:absolute;
+			width: 150px;
+			right: 0;
+			bottom:-4em;
+			z-index: -2;
+		}
+		p.chapo{
+		padding:0.8em;font-size:1.3em;color:$violet-matthieu; font-weight: 700;line-height: 2em;
+		}
+	}
+	
+	h5{text-align: center;}
+}
+
+.kit-media{
+	div{
+		display: flex;
+		flex-direction: row;
+		justify-content: space-around;
+		flex-wrap: wrap;
+		&.violet{
+			a>p{color: white;}
+		}
+		img{max-width:200px;margin-bottom: 1em;}
+		.txt{
+			margin: 1em;
+			a.button{margin-top: 0;}
+		}
+	}
+}
+
+div.deco{display: flex;flex-direction:row;justify-content:center;align-items:center;img{width: 150px;}}
+.deco-mini{text-align:center;img{width: 50px;}}
 
 @keyframes imgappear{
 	0%    {width:90%; visibility: hidden;}
@@ -713,6 +827,10 @@ footer {
 		0% {flex: 0 0 0;}
 		100%{flex: 0 0 100%;}
 	}
+}
+
+@media screen and (max-width: 974px) {
+  .presse .h2-presse{margin-bottom: 3em;}
 }
 
 @media screen and (max-width: 800px) {
