@@ -23,6 +23,7 @@ body{
 }
 
 .container{display: flex;flex-direction: column;}
+.widget{margin: 0 auto;}
 
 a:hover{text-decoration: none;color: $violet-matthieu;font-weight: 600;}
 
