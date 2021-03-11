@@ -695,6 +695,41 @@ footer {
 	}
 }
 
+ol{
+	li{
+		font-size: 1.1em;
+		line-height: 1.2em;
+		margin-bottom: 0.8em;
+		list-style: none;
+		counter-increment: li;
+		&::before {
+			content: counter(li);
+			color: $violet-matthieu;
+			font-family: 'Exo';
+			font-weight: 500;
+			font-size: 1.2em;
+  			display: inline-block;
+  			width: 1em;
+  			margin-left: -1em;
+  		}
+	}
+}
+
+.list{
+	padding: 0.3em;
+	ul li{
+		list-style: none;
+	}
+	h5{color: #fff; text-align: center; text-decoration: underline;margin-top: 1em;}
+}
+
+.list-style ul li{
+	list-style: circle;
+	list-style-position: inside;
+	padding-left:3em;
+}
+
+
 .id{width: 200px; display:flex;margin: 0 auto;}
 .endobujo{
 	background: no-repeat url('../img/endobujo/fond-endobujo.png');
