@@ -27,7 +27,7 @@ articles:
 <div class="container">
   <div class="row">
     <div class="col-sm-12">
-      {% include back-interview.html %}
+      {% include back.html variable="aux articles" %}
         {% for p in site.pages %}
           {% if p.category == "interview" %}
             <a href="{{ p.url }}">
@@ -50,7 +50,7 @@ articles:
             <div class="deco-mini"><img src="/img/interview/plante.svg"></div>
           {% endif %}
         {% endfor %}
-      {% include back-interview.html %}
+      {% include back.html variable="aux articles" %}
     </div>
   </div>
   {% include addthis.html %}

@@ -5,6 +5,7 @@ layout: default
 <div class="container">
   <div class="row">
     <div class="col-sm text-center">
+      {% include back.html variable="aux définitions" %}
       <div class="entete">
         <div class="line"></div>
         <span class="h2">{{ page.category }}</span>
@@ -16,14 +17,11 @@ layout: default
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-12">
-      <img src="{{ page.og_image }}" class="img-fluid" alt="{{ page.alt_img }}" title="{{ page.title_img }}">
-      {% include back.html variable="aux articles" %}
+    <div class="col-sm-8 offset-sm-2">
       {{ content }}
-      {% include back.html variable="aux articles" %}
     </div>
   </div>
+  {% include back.html variable="aux définitions" %}
   {% include addthis.html %}
-  {% include button-newsletter.html %}
-  {% include articles.html %}
+  {% include dico-next.html %}
 </div>

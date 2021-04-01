@@ -17,14 +17,14 @@ layout: default
 <div class="container">
   <div class="row">
     <div class="col-sm-12">
-      {% include back-bibliography.html %}
+      {% include back.html variable="à la bibliographie" %}
       <figure class="cycle">
         <img src="/img/svg/livre.svg">
         <h3>{{ page.title }}</h3>
         <p>{{ page.author }}</p>
       </figure>
       {{ content }}
-      {% include back-bibliography.html %}
+      {% include back.html variable="à la bibliographie" %}
     </div>
   </div>
   {% include addthis.html %}

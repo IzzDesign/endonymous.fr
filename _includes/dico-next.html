@@ -1,0 +1,14 @@
+<div class="row bg">
+	<div class="col-sm-12 text-upp">
+		<p class="sobig">Autres définitions</p>
+	</div>
+	<div class="col-sm-12 dico-next">
+		{% for p in site.pages %}
+			{% if p.category == 'EndoDico' and page.url != p.url %}
+			<a href="{{ p.url }}">
+				<h4>{{ p.title }}</h4>
+			</a>
+			{% endif %}
+		{% endfor %}
+	</div>
+</div>
