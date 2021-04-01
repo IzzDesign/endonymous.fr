@@ -33,6 +33,7 @@ img[src*="#img-fluid"] {
 a{color:$violet-matthieu; text-decoration: underline; font-weight: 600;}
 a:hover{text-decoration: none;color: $violet-matthieu;font-weight: 600;}
 
+.grid{display: grid;align-self: center;}
 .landing{
 	background: right / contain no-repeat url("../img/accueil-endobujo.svg"),
             left /  contain no-repeat $violet-louise url("../img/accueil-endobujo2.svg");
@@ -54,6 +55,8 @@ a:hover{text-decoration: none;color: $violet-matthieu;font-weight: 600;}
 		.text-upp{
 			margin: 0 auto;
 			color: #fff;
+			display: grid;
+			align-content: center;
 			.big{font-size: 2em;}
 		}
 	}
@@ -934,7 +937,7 @@ div.deco{display: flex;flex-direction:row;justify-content:center;align-items:cen
 
 @media screen and (max-width: 575px) {
 	.violet.padding0 img{display: none;}
-	.landing img{width: 100%;}
+	.landing .decal img{display: none;}
 	.txt{padding: 1em;}
 	.white{display: none;}
 	.interview{h4{font-size: 1.1em;}p{font-size: 1em;letter-spacing:0.2em;&:before,&:after{font-size: 1em;}}}
