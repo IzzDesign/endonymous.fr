@@ -1,7 +1,7 @@
 ---
 layout: articles
 order: 95
-subtitle: Une liste de quelques ouvrages sur l'endométriose
+subtitle: Définitions de l'endometriose
 title: EndoDico
 category: Le savoir c'est le pouvoir
 alt_img: femme lecture bibliographie endometriose
