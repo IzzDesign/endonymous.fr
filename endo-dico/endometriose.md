@@ -14,4 +14,4 @@ L’[endométriose](/savoir/endometriose.html) est une maladie de l’appareil r
 
 Il existe différent [stades](/savoir/endometriose.html) qui décrivent l'évolution de l'endométriose mais ceux-ci ne rendent pas compte du niveau de douleur ou des symptômes ressentis. On parle également d'[endométriose profonde](/endo-dico/endometriose-profonde.html) ou d'[endométriose superficielle](/endo-dico/endometriose-superficielle.html).
 
-![stades d'endométriose](../img/schema/stades.png #img-fluid)
+![stades d'endométriose](/img/schema/stades.png)

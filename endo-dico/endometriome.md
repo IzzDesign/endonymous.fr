@@ -15,4 +15,4 @@ On retrouve les endométriomes chez des personnes atteintes d'une endométriose 
 
 **30 à 40%** des endométriosiques présentent ce type de lésion pouvant se rompre et se répandre dans la cavité abdominale causant de grosses douleurs.
 
-![stades d'endométriose](../img/schema/stades.png #img-fluid)
+![stades d'endométriose](/img/schema/stades.png)

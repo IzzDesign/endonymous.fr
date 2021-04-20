@@ -16,4 +16,4 @@ Il existe différent type de lésions, ces dernières vont se reconnaître visue
 
 On parle de nodules d'endométriose lorsque les lésions d'endométriose sont regroupées en amas.
 
-![stades d'endométriose](/img/schema/stades.png #img-fluid)
+![stades d'endométriose](/img/schema/stades.png)
