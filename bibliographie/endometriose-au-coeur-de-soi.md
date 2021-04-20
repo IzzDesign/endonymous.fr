@@ -1,0 +1,17 @@
+---
+layout: bibliography
+theme: Bibliographie sur l'endométriose
+subtitle: Fiche lecture De l'endométriose au cœur de soi.
+title: De l'endométriose au cœur de soi
+author: Capucine Kostadinoff, 2021
+category: Bibliographie
+subcategory: Témoignages
+og_image: /img/bibliographie-endometriose.png
+og_twitter_img : https://cycliques.fr/img/twitter-lien.png
+previous: /savoir/bibliographie-endometriose.html
+---
+Capucine est une jeune femme tournée vers les autres et heureuse dans son travail d'assistante sociale, comblée profesionnellement, socialement et personnellement sa vie pourrait être parfaite. Elle ressent pourtant des douleurs récurrentes qui s'intensifient au fil des ans. Il faudra **dix ans pour lui diagnostiquer une endométriose vésicale** : on lui prétextera une localisation rare pour justifier ce retard de diagnostic. Elle témoigne ici avec un livre se concentrant principalement sur les **répercussions morales** qu'a eu cette maladie tout au long de son parcours, mais aussi comment elle a grandi de cette expérience. On suit Capucine tandis qu'elle apprend petit à petit à prendre plus soin d'elle et écouter ses besoins, à casser ce rôle de femme compétitive et bosseuse qu'elle s'était imposée, à se défendre dans son parcours de soin, à lâcher prise… Elle pousse ainsi la réflexion en reconnaissant l'endométriose comme une épreuve qui lui a été nécessaire **pour déployer ses ailes** et son parcours comme un **enseignement**.
+
+Il s'agit d'un témoignage qui se concentre sur **l'impact mental de la maladie**, je ne le conseillerais pas comme premier livre, car ce livre met au second plan le côté médical et pratico-pratique. Il y a peu d'explications sur le parcours que l'on peut avoir avec cette maladie. En revanche, il s'agit d'une réflexion intéressante sur la maladie, ses enseignements et **comment changer notre manière de la voir dans notre vie**. Ce changement de perspective ouvre bien des portes. Je le conseille fortement si vous ne vous sentez pas maîtresse de votre parcours de soin, si vous vous sentez en colère contre l'endométriose et ce qu'elle vous empêche d'accomplir dans votre vie, si vous avez du mal à prendre des décisions ou êtes parfois démunis par la froideur du monde médical…
+
+>J'ai une conviction, une intuition que je ne pourrais démontrer scientifiquement, mais qui est comme une évidence depuis mon arrivée à la Réunion : la Vie sait mieux que nous-même où nous devons aller, ce que nous devons faire ou non. Nous sommes des voiliers. Pendant des années, au lieu de prendre cinq minutes le matin pour voir s'il y a du vent et dans quel sens il souffle aujourd'hui, j'allumais le moteur. Cela avait pour conséquence de rendre ma vie beaucoup moins improvisée et donc moins exictante et de me rendre dépendante, car pour avancer au moteur, il faut de l'essence, et cette essence, il faut aller la chercher, elle ne vient pas à nous. […] Le vent souffle pour tous, nous avons tous de belles voiles, chacun peut hisser les voiles et laisser le vent souffler dedans. Cela implique de ne pas vouloir tout contrôler, de ressentir et parfois aussi de prendre des risques, car il y a aussi des vents violents, voire des tempêtes. Mais peut-être que traverser une tempête est ce que nous avons à vivre, même si nous comprenons bien plus tard pourquoi nous l'avons traversée ? Nous avons trop souvent tendance à allumer le moteur alors que le vent souffle. Laisser gronder ses voiles par le souffle de la vie nous mène pourtant bien plus loin.
