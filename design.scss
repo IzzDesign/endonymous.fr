@@ -35,7 +35,7 @@ a:hover{text-decoration: none;color: $violet-matthieu;font-weight: 600;}
 
 .grid{display: grid;align-self: center;}
 .landing{
-	background: right / contain no-repeat url("../img/accueil-endobujo.svg"),
+/*	background: right / contain no-repeat url("../img/accueil-endobujo.svg"),
             left /  contain no-repeat $violet-louise url("../img/accueil-endobujo2.svg");
    	background-size:cover;
 	height: 100vh;
@@ -59,7 +59,10 @@ a:hover{text-decoration: none;color: $violet-matthieu;font-weight: 600;}
 			align-content: center;
 			.big{font-size: 2em;}
 		}
-	}
+	}*/
+	display: none;
+	.text-accueil{display: none;}
+	.intern{display: none;}
 }
 
 h1,h2,h3,h4,h5,span.h2,p.classie,p.h1,.presse .header span,{color:$violet-matthieu;margin-top:2em;text-align: center;font-family: 'Exo', serif; letter-spacing: 0.15em; text-transform: uppercase;}
