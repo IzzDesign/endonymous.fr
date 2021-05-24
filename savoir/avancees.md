@@ -12,6 +12,7 @@ previous: /savoir/savoir.html
 articles:
   - /savoir/endometriose.html
   - /savoir/theories.html
+publish_date: 2021-01-15
 ---
 
 Comment se fait-il que <a href="/savoir/endometriose.html" class="link">l’endométriose</a>, une maladie aussi invalidante pour 10% de la population mondiale n'ait pas eu plus d'avancées scientifiques depuis ces derniers siècles ? Si, cette maladie a longtemps été considérée comme psychologique et cachée derrière la notion d'hystérie, dans les précédentes décennies, peu de recherches scientifiques ont été lancé sur cette maladie. On ne sait à ce jour pas de manière claire <a href="/savoir/theories.html" class="link">à quoi est due l’endométriose</a> et le seul traitement actuel est la chirurgie par exérèse des lésions. Cependant dans 50% des cas les lésions reviennent et 27% des cas nécessitent de faire trois opérations ou plus[^10-11]. Ce n’est que depuis ces dernières années que la parole des femmes a commencé à se libérer et que les scientifiques se penchent de manière plus accrue sur cette maladie et des potentiels traitements.

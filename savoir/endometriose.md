@@ -12,6 +12,7 @@ previous: /savoir/savoir.html
 articles:
   - /savoir/adenomyose.html
   - /controle/mouvements.html
+publish_date: 2019-03-01
 ---
 
 Pour avoir une approche plus complète, voir l’article sur le <a href="/savoir/cyclemenstruel.html" class="link">cycle menstruel</a>.

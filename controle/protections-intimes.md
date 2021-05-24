@@ -12,6 +12,7 @@ previous: /controle/controle.html
 articles:
   - /savoir/endometriose.html
   - /savoir/adenomyose.html
+publish_date: 2020-06-15
 ---
 
 ### Endométriose, changer de protections hygiéniques ?

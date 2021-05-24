@@ -9,6 +9,7 @@ subcategory: Aide et accompagnement
 og_image: /img/bibliographie-endometriose.png
 og_twitter_img : https://cycliques.fr/img/twitter-lien.png
 previous: /savoir/bibliographie-endometriose.html
+publish_date: 2020-10-05
 ---
 Le premier livre qui parle de A à Z d’endométriose et de sexualité. C’est pour combler un manque dans la littérature autour de l’endométriose que Marie-Rose Galès, ne trouvant pas de réponse à ses propres questionnements s’est penchée sur le problème. Tout d’abord avec un article sur son blog, puis l’autrice a voulu aller plus loin avec un livre complet et documenté sur le troisième symptôme le plus courant en cas d’endométriose : les douleurs sexuelles. Le livre est limpide et très bien écrit, permettant de comprendre d’abord pourquoi l’endométriose fait aussi mal lors des rapports sexuels mais aussi des véritables méthodes pour gagner un peu de confort dans la zone pelvienne, souvent douloureuse à cause de la maladie. L’ouvrage est si agréable à lire qu’il se prêtera à votre moitié qui pourra peut-être vous accompagner dans le retour de votre intimité à deux. C’est un livre à avoir !
 

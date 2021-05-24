@@ -9,6 +9,7 @@ subcategory: Littérature anglophone
 og_image: /img/bibliographie-endometriose.png
 og_twitter_img : https://cycliques.fr/img/twitter-lien.png
 previous: /savoir/bibliographie-endometriose.html
+publish_date: 2020-03-01
 ---
 Écrit à quatre mains par Pr. Andrew Horne, un Professeur Gynécologue internationalement reconnu comme expert de l’endométriose et Carol Pearson, une endométriosique impliquée dans l’association Endometriosis UK, cet ouvrage est, bien qu’en anglais, limpide et très bien écrit. Il est facile à lire et se découpe en chapitres thématiques, permettant d’abord de bien comprendre l’endométriose et ses symptômes puis les traitements, les conséquences sur la vie de tous les jours et des idées pour ajuster sa vie et bien vivre avec ses symptômes. Le livre permet de comprendre et d’approfondir de nombreuses connaissances scientifiques. C’est un ouvrage à avoir si vous vous sentez de lire en anglais. Il est intéressant de noter qu’il n’existe pas de guide équivalent dans la littérature francophone.
 

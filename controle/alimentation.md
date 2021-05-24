@@ -12,6 +12,7 @@ previous: /controle/controle.html
 articles:
   - /savoir/endometriose.html
   - /savoir/adherences.html
+publish_date: 2019-03-01
 ---
 
 ### Comprendre le phénomène inflammatoire

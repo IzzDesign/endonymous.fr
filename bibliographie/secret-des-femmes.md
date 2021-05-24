@@ -9,6 +9,7 @@ subcategory: Enquêtes et recherches
 og_image: /img/bibliographie-feminin.png
 og_twitter_img : https://cycliques.fr/img/twitter-lien.png
 previous: /savoir/bibliographie-feminin.html
+publish_date: 2020-09-01
 ---
 Qu’est-ce qu’un orgasme féminin ? Comment vient-il ? Quels sont les mécanismes qui rentrent en jeu pour qu’il arrive ? À quoi sert-il ? Pourquoi est-il si tabou ? Comment les femmes le vivent-elles, l’expériencent-elles ? Cet ouvrage écrit à quatre mains est un essai répondant au mieux des connaissances actuelles à toutes ces questions de manière scientifique, historique, ethnologique et anthropologique sur le plaisir et les orgasmes féminins. Il s’agit un livre riche en informations qui permettra d’ouvrir des questionnements personnels sur le rapport à notre corps et notre plaisir. 
 

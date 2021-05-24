@@ -12,5 +12,6 @@ previous: /savoir/savoir.html
 articles:
   - /savoir/bibliographie-endometriose.html
   - /savoir/bibliographie-feminin.html
+publish_date: 2021-04-01
 ---
 {% include dico.html subcategory='Endodico' %}

@@ -20,10 +20,10 @@ layout: default
       {% for p in sorted_articles %}
         {% if p.category == page.title %}
           <div class="col-sm-6">
-            <a href="{{ p.url }}" class="title-a">
+            <a href="{{ p.url }}" class="title-a hover-articles">
               <figure class="liens">
                 <img src="{{ p.og_image }}" class="img-fluid" alt="{{ p.alt_img }}" title="{{ p.title_img }}">
-                <h3>{{ p.title }}</h3>
+                <h4>{{ p.title }}</h4>
               </figure>
             </a>
           </div>

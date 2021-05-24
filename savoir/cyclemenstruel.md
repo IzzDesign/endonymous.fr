@@ -12,6 +12,7 @@ previous: /savoir/savoir.html
 articles:
   - /savoir/hormones-cycle.html
   - /savoir/endometriose.html
+publish_date: 2019-03-01
 ---
 
 **L’appareil reproducteur féminin** se prépare tous les mois et de manière **cyclique** à une **fécondation éventuelle**. Cette préparation est l’ensemble des phénomènes physiologiques au cours d’un cycle menstruel ; comprenant la période de menstruation, l'épaississement de l’endomètre ainsi que le cycle ovarien.

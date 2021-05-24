@@ -12,6 +12,7 @@ previous: /controle/controle.html
 articles:
   - /savoir/endometriose.html
   - /savoir/adenomyose.html
+publish_date: 2020-11-15
 ---
 
 ### Endométriose et maladies chroniques, documenter, témoigner et inventer

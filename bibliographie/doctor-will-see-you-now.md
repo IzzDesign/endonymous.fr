@@ -9,6 +9,7 @@ subcategory: Littérature anglophone
 og_image: /img/bibliographie-endometriose.png
 og_twitter_img : https://cycliques.fr/img/twitter-lien.png
 previous: /savoir/bibliographie-endometriose.html
+publish_date: 2020-03-01
 ---
 Le livre écrit par le Docteur Tamer Seckin, co-fondateur de l’Endometriosis Foundation of America est un apport précieux pour les endométriosiques. Le Docteur Seckin est vraiment le docteur rêvé par chaque malade, celui qui vous assure que vous n’êtes pas dingo, celui qui milite pour une meilleure connaissance de la maladie de la part des médecins, celui qui comprend le coût élevé qu’a la maladie en terme psychologique, social, professionnel, familial, …
 L’ouvrage est découpé en plusieurs sections, d’abord la maladie et ses symptômes, les erreurs de diagnostic, les conséquences de la maladie sur nos vies, les alternatives de soins, les traitements et les aides qui existent pour les malades. The doctor will see you now est un livre complet qui explique avec empathie les étapes par lesquelles nous pourrons passer, permettant aux malades de mieux se préparer.

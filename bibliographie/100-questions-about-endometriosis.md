@@ -9,6 +9,7 @@ subcategory: Littérature anglophone
 og_image: /img/bibliographie-endometriose.png
 og_twitter_img : https://cycliques.fr/img/twitter-lien.png
 previous: /savoir/bibliographie-endometriose.html
+publish_date: 2020-03-01
 ---
 L’ouvrage du Docteur Redwine, même s’il commence à dater un peu, est une très bonne source de réponse sur l’endométriose de la part d’un docteur qui a voulu se spécialiser dans la maladie. Il va répondre à cent questions concernant l’endométriose, permettant de faire un tour complet de la pathologie, les théories, les causes, les traitements potentiels, les symptômes associés, …
 L’anglais utilisé est assez simple, permettant de lire quelques parties de temps en temps et allégeant la lecture. Il s’agit d’une très bonne et complète introduction pour celles et ceux qui voudraient approfondir leurs connaissances scientifiques de la maladie.

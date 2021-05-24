@@ -12,6 +12,7 @@ previous: /savoir/savoir.html
 articles:
   - /savoir/avancees.html
   - /savoir/endometriose.html
+publish_date: 2021-01-15
 ---
 On ne sait toujours pas quelle est l'origine de <a href="/savoir/endometriose.html" class="link">l'endométriose,</a> le corps médical a plusieurs hypothèses et si chacune peut être soutenue par des chiffres et des statistiques, **aucune n’est parfaite** ni n’arrive à englober entièrement toutes les formes des <a href="/endo-dico/lesions-endometriose.html">lésions endométriosiques</a> et/ou leur localisation dans le corps. Déterminer les causes de l’endométriose est complexe, notamment au vu des différents facteurs qui pourraient rentrer en jeu (génétiques, environnementaux, biologiques, …) et le manque d’études à grande échelle. Néanmoins, voici en simplifié ce qu’en dit la revue **Nature dans une méta-étude publiée en 2018** faisant la revue de plus de 250 sources publiées dans des journaux à comité de lecture[^nature].
 

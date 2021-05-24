@@ -9,6 +9,7 @@ subcategory: Témoignages
 og_image: /img/bibliographie-endometriose.png
 og_twitter_img : https://cycliques.fr/img/twitter-lien.png
 previous: /savoir/bibliographie-endometriose.html
+publish_date: 2021-05-07
 ---
 Capucine est une jeune femme tournée vers les autres et heureuse dans son travail d'assistante sociale, comblée professionnellement, socialement et personnellement : sa vie pourrait être parfaite. Elle ressent pourtant des douleurs récurrentes qui s'intensifient au fil des ans. Il faudra **dix ans pour lui diagnostiquer une endométriose vésicale** : on lui prétextera une localisation rare pour justifier ce retard de diagnostic. Elle témoigne ici avec un livre se concentrant principalement sur les **répercussions morales** qu'a eu cette maladie tout au long de son parcours, mais aussi comment elle a grandi de cette expérience. On suit Capucine tandis qu'elle apprend petit à petit à prendre plus soin d'elle et écouter ses besoins, à casser ce rôle de femme compétitive et bosseuse qu'elle s'était imposée, à se défendre dans son parcours de soin, à lâcher prise… Elle pousse ainsi la réflexion en reconnaissant l'endométriose comme une épreuve qui lui a été nécessaire **pour déployer ses ailes** et son parcours comme un **enseignement**.
 

@@ -12,6 +12,7 @@ previous: /savoir/savoir.html
 articles:
   - /controle/meddouces.html
   - /controle/alimentation.html
+publish_date: 2019-03-01
 ---
 Comme la **Lune** qui se dévoile de manière différente, tu te sens évoluer et changer pendant ton cycle. Cela peut être en grande partie expliqué par les **changements hormonaux** qui vont avoir lieu tout au long du <a href="/savoir/cyclemenstruel.html" class="link">cycle menstruel</a> pour préparer au développement de l’ovocyte à venir puis à la désagrégation de l’endomètre en cas de non-fécondation, ce qui provoquera les règles.
 Cet article est une proposition de **mode d’emploi énergétique** pour évoluer tranquillement dans ton cycle et te permettre d’identifier tes besoins et tes envies en fonction de la phase de ton <a href="/savoir/cyclemenstruel.html" class="link">cycle menstruel</a>. Ce texte n’est pas à prendre comme une vérité mais plus comme un **accompagnement** si celui-ci te fait écho. À noter également qu’aucun cycle ne se ressemble et que personne n’a la même sensibilité aux fluctuations hormonales ! Pour finir, les hormones ne font pas tout et le stress ou le contexte psychologique sont importants à prendre en compte.

@@ -18,15 +18,16 @@ og_twitter_img : https://cycliques.fr/img/twitter-lien.png
       <div class="col-lg-12">
         <h3>Les derniers articles</h3>
       </div>
-        {% for p in site.pages %}
-          {% if p.layout == 'articles' %}
+        {% assign index_articles = site.pages | where: "layout", "articles" | sort: "publish_date" | reverse %}
+        {% for p in index_articles limit: 4 %}
             <div class="col-lg-6">
-              <a href="{{ p.url }}">
-                <img src="{{ p.og_image }}" class="img-fluid">
-                <h4>{{ p.title }}</h4>
+              <a href="{{ p.url }}" class="hover-articles title-a">
+                <figure class="liens">
+                  <img src="{{ p.og_image }}" class="img-fluid">
+                  <h4>{{ p.title }}</h4>
+                </figure>
               </a>
             </div>
-          {% endif %}
         {% endfor %}
     </div>
 
@@ -37,14 +38,13 @@ og_twitter_img : https://cycliques.fr/img/twitter-lien.png
       <div class="col-lg-3">
         <img src="/img/svg/livre.svg" class="img-fluid">
       </div>
-        {% for l in site.pages %}
-          {% if l.layout == 'bibliography' %}
-            <div class="col-lg-3 index-articles">
-              <a href="{{ l.url }}">
-                <h4>{{ l.title }}</h4>
-              </a>
-            </div>
-          {% endif %}
+        {% assign conseils_lectures = site.pages | where: "layout", "bibliography" | sort: "publish_date" | reverse %}
+        {% for l in conseils_lectures limit: 3 %}
+          <div class="col-lg-3 index-articles">
+            <a href="{{ l.url }}" class="hover-articles">
+              <h4>{{ l.title }}</h4>
+            </a>
+          </div>
         {% endfor %}
     </div>
     

@@ -12,6 +12,7 @@ previous: /controle/controle.html
 articles:
   - /controle/temoignages.html
   - /controle/temoigner-creer.html
+publish_date: 2021-03-15
 ---
 
 ## Gérer les émotions négatives

@@ -12,6 +12,7 @@ previous: /savoir/savoir.html
 articles:
   - /savoir/bibliographie-endometriose.html
   - /savoir/endometriose.html
+publish_date: 2020-03-01
 ---
 {% include bibliography-section.html subcategory='Enquêtes et recherches' %}
 {% include bibliography-section.html subcategory='Cycle menstruel' %}

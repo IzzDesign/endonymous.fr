@@ -9,6 +9,7 @@ subcategory: Témoignages
 og_image: /img/bibliographie-endometriose.png
 og_twitter_img : https://cycliques.fr/img/twitter-lien.png
 previous: /savoir/bibliographie-endometriose.html
+publish_date: 2021-04-16
 ---
 
 Le témoignage de Fanny Robin, auteure du compte Instagram @chere.endometriose est un ouvrage rempli de **bienveillance, de conseils et de l'humour cynique qui va si bien à Fanny**. Dans ce livre vous découvrirez l'histoire de Fanny et de sa colocataire : l'endométriose. Bien écrit et fluide, il est très agréable à lire et se finit d'une traite. Il est parfait pour vos premières lectures sur l'endométriose ou bien à prêter à vos proches.

@@ -9,6 +9,7 @@ subcategory: Témoignages
 og_image: /img/bibliographie-endometriose.png
 og_twitter_img : https://cycliques.fr/img/twitter-lien.png
 previous: /savoir/bibliographie-endometriose.html
+publish_date: 2020-03-01
 ---
 Marie-Anne Mormina nous partage un récit complet et à la portée de tous sur ce qu’une personne atteinte d’endométriose peut vivre. Elle le fait, aidée de sa sensibilité, de sa propre expérience et de son travail de sensibilisation accompli depuis 1999 avec le mouvement Lilli H. contre l’endométriose. L’autrice décrit avec simplicité et justesse les épreuves, les traitements, les douleurs et les questionnements que nous pouvons avoir en tant que malades. Le livre peut aussi être partagé à nos proches puisqu’il prend en considération toutes les difficultés auxquelles les endométriosiques sont confrontées et met des mots sur nos maux.
 

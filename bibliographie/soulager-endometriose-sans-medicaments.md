@@ -9,6 +9,7 @@ subcategory: Aide et accompagnement
 og_image: /img/bibliographie-endometriose.png
 og_twitter_img : https://cycliques.fr/img/twitter-lien.png
 previous: /savoir/bibliographie-endometriose.html
+publish_date: 2020-03-01
 ---
 L’ouvrage Soulager l’endométriose sans médicaments est un véritable guide complet pour diminuer les symptômes de l’endométriose par plusieurs méthodes. Il s’agit bien là de méthodes complémentaires et non de traitements. Même si certaines me parlent moins que d’autres et que rien ne remplace un suivi personnalisé, le livre est assez complet pour apporter beaucoup de pistes. Le chapitre sur l’alimentation anti-inflammatoire est très complet, ainsi que le passage sur les exercices de yoga. L’ouvrage comprend également un programme de deux semaines de menus et d’exercices pré-faits pour mettre un pied dans un mode de vie plus sain et permettant de diminuer les symptômes de l’endométriose. Le livre est très bien documenté et expliqué, ce qui rend la lecture agréable, notamment avec des clefs sur pourquoi tel ou tel aliment est déconseillé en cas d’endométriose. C’est un bon guide à avoir de côté et à feuilleter de temps en temps.
 

@@ -12,6 +12,7 @@ previous: /savoir/savoir.html
 articles:
   - /controle/alimentation.html
   - /controle/mouvements.html
+publish_date: 2019-03-01
 ---
 
 ### Comprendre le phénonème inflammatoire

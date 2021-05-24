@@ -495,6 +495,28 @@ figure.liens{
 		}
 	}
 }
+a.hover-articles{
+	text-decoration: none;
+	h4{
+		background:
+	     linear-gradient(
+	       to bottom, $violet-matthieu 0%,
+	       $violet-matthieu 100%
+	     );
+		background-position: 0 100%;
+		background-repeat: repeat-y;
+		background-size: 2px 10px;
+		transition: all cubic-bezier(0.215, 0.61, 0.355, 1) 0.1s;
+		padding-left: 0.5em;
+		min-height: 70px;
+		align-items: center;
+		display: flex;
+		justify-content: center;
+		&:hover{
+			background-size: 6px 10px;
+		}
+	}
+}
 .back{
 	margin: 1em 0;
 	font-family: 'Exo', sans-serif;

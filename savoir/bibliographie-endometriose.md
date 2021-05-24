@@ -12,6 +12,7 @@ previous: /savoir/savoir.html
 articles:
   - /savoir/endometriose.html
   - /savoir/bibliographie-feminin.html
+publish_date: 2020-03-01
 ---
 
 {% include bibliography-section.html subcategory="Témoignages" %}

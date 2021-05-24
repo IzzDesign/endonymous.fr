@@ -13,6 +13,7 @@ previous: /controle/controle.html
 articles:
   - /savoir/endometriose.html
   - /savoir/adherences.html
+publish_date: 2019-03-01
 ---
 
 La présence de <a href="/savoir/endometriose.html" class="link">lésions d’endométriose</a> et les <a href="/savoir/adherences.html" class="link">adhérences dues aux phénomènes inflammatoires</a> peuvent petit à petit **immobiliser les viscères**, soit en faisant peu à peu **perdre leur mobilité aux tissus**, soit en **accolant des organes entre eux**. Tout tissu élastique qui s’immobilise va se rétracter à son tour et devenir douloureux, c’est ainsi que **l’immobilité d’une zone peut se propager aux autres**.
