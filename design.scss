@@ -7,7 +7,7 @@ $violet-amelie: #B09DBC;
 $violet-louise: #D8CBDF;
 $violetclair: #F9F0FF;
 $font:#626262;
-$body-font:'Noto Sans JP',sans-serif;
+$body-font:'Lato',sans-serif;
 $title-font:'Exo', sans-serif;
 
 html{
@@ -23,11 +23,8 @@ body{
 	p{line-height: 1.8em;}
 }
 
-.images-uniformes img{
-    width: 100%;
-}
-
-.container{display: flex;flex-direction: column;}
+.images-uniformes img{width: 100%;}
+.container{display: flex;flex-direction: column;max-width: 950px;}
 .widget{margin: 0 auto;}
 
 a{color:$violet-matthieu; text-decoration: underline; font-weight: 600;}
@@ -108,10 +105,6 @@ h5{font-size: 1.1em; text-align: left;}
 	display: flex;
 	flex-direction: column;
 	align-self:center;
-}
-
-.container{
-	max-width: 950px;
 }
 
 .navbar-expand-lg .navbar-nav{
@@ -244,14 +237,30 @@ p{line-height: 1.8em;font-size: 1.1em;}
 	img{max-height: 150px; padding: 0 2em;}
 }
 
+.round{
+	border-radius: 50%;
+	width: 300px;
+	height: 300px;
+	p{
+		text-align: center;
+	}
+}
+
 .profil{
-	img{width: 60%;}
+	img{width: 80%;}
 	p{font-size: 1em;line-height: 1.6em;}
 }
 
 .padding0{padding: 0;}
 .padding2{padding: 2em;}
 .margin-bottom{margin-bottom: 1em;}
+
+.index-articles{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	h4{font-size: 1.2em;}
+} 
 
 a.button, input.button{
 	color: #fff;
@@ -789,6 +798,7 @@ ol{
 	.beauty{
 		background-color:$violet-louise;
 		z-index:2;
+		margin-bottom: 2em;
 		&:after{
 			content: url('/img/endobujo/sticker.svg');
 			position:absolute;

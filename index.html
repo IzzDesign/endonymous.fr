@@ -8,27 +8,52 @@ og_twitter_img : https://cycliques.fr/img/twitter-lien.png
 <div class="container">
   <div class="row">
     <div class="col-sm">
+      <h2>Renouer avec son corps et le cycle féminin</h2>
+        <p>1/ Constat 1 Manque de connaissance du féminin et du cycle. 2/ Constat 2  Changement de mentalités (pilules, réflexions, naturels…) 3/ Constat 3 Augmentation des questionnements  sur les maladies gynécologiques car pilule ne fonctionne pas toujours pas de réponses pour les femmes</p>
       <div class="deco"><img src="/img/svg/regles.svg" class="img-fluid sticker" alt="sticker regles" title="Règles Sticker"></div>
       <h2>Que sont l'endométriose et l'adénomyose ?</h2>
         <p><a href="/savoir/endometriose.html" class="link">L’endométriose</a> et <a href="/savoir/adenomyose.html" class="link">l'adénomyose</a> sont des maladies de l’appareil reproducteur féminin. Il s'agit pour l'endométriose de cellules ressemblant à de <a data-toggle="popover" data-placement="top" data-trigger="hover" title="Endomètre" data-content="L'endomètre est la muqueuse de l'utérus. Ce tissu recouvre la paroi interne de l'utérus. Au début de chaque cycle menstruel, il s'épaissit et devient richement vascularisé pour pouvoir éventuellement accueillir un embryon lors de la nidation. Il est alors parfois appelé dentelle utérine. (Wikipédia)" class="pop">l'endomètre</a> qui vont se situer de manière anormale dans l'abdomen, sur l'utérus ou des organes environnants. Pour l'adénomyose, les lésions vont elles se situer de manière anormale dans le <a data-toggle="popover" data-placement="top" data-trigger="hover" title="Myomètre" data-content="Le myomètre est la couche musculeuse interne de la paroi utérine. (Wikipédia)" class="pop">myomètre</a>, qui est le muscle utérin. Maladie chronique en lien avec le cycle menstruel, un diagnostic d’endométriose peut prendre entre cinq et neuf ans. On ne guérit pas d’endométriose mais les traitements proposés peuvent permettre de diminuer voire d’éliminer les symptômes. La prise en charge peut se faire par une opération (<a data-toggle="popover" data-placement="top" data-trigger="hover" title="Laparoscopie" data-content="Examen endoscopique de la cavité abdominale et de son contenu. (Larousse)" class="pop">laparoscopie</a>) permettant d’exciser les lésions d’endométriose, ainsi que la mise sous ménopause artificielle (prise de pilule). La prise d’hormones permet dans la plupart des cas de calmer les symptômes mais peut apporter son lot d’effets secondaires. Après le diagnostic, les malades peuvent souvent ressentir qu'il y a un manque d'information sur leur maladie, entrainant une incompréhension de son fonctionnement et des bons réflexes et hygiène de vie pour limiter les douleurs au quotidien.</p>
 
-      <h2>Qu'est-ce qu'un bullet journal ?</h2>
-        <p>Le Bullet journal aussi appelé <b>Bujo</b> est une <b>méthode d'organisation personnelle</b> qui a été pensée par Ryder Caroll. Il s'agit à la base d'un carnet d'aide à la planification complètement <b>personnalisable</b>.</p>
+    <div class="row">
+      <div class="col-lg-12">
+        <h3>Les derniers articles</h3>
+      </div>
+        {% for p in site.pages %}
+          {% if p.layout == 'articles' %}
+            <div class="col-lg-6">
+              <a href="{{ p.url }}">
+                <img src="{{ p.og_image }}" class="img-fluid">
+                <h4>{{ p.title }}</h4>
+              </a>
+            </div>
+          {% endif %}
+        {% endfor %}
+    </div>
 
-        <div class="deco"><img src="/img/endobujo/sticker-violet.svg" class="img-fluid sticker" alt="sticker endobujo" title="EndoBujo Sticker"></div>
-
-      <h3>Pourquoi associer le bujo à l'endométriose ?</h3>
-        <p>Lors de mon parcours de soin, j'ai souvent été confrontée à la difficulté de <b>recevoir beaucoup d'informations</b> en un petit laps de temps, des nouvelles qui étaient souvent compliquées à comprendre ou à gérer mentalement lors de leurs annonces. Je me retrouvais souvent à ne plus me souvenir exactement de ce que l'on m'avait expliqué. J'ai de nombreuses fois également peiné à gérer mes rendez-vous médicaux et <b>à poser toutes les questions que j'aurais voulu.</b> J'avais du mal à préparer tout cela à l'avance.</p>
-        <p>Plus tard encore, lorsque j'ai eu l'envie de <b>noter mes douleurs</b> et de réfléchir à l'impact de mon alimentation sur celles-ci, toutes mes prises de notes étaient éparpillées. Encore une fois, lorsque j'ai voulu connaître l'intensité de mes douleurs en fonction de mon cycle, je n'ai pas trouvé de support idéal pour documenter tout cela.</p>
-        <p>J'ai alors de moi-même commencé un <b>carnet de notes</b>, je pouvais consigner toutes ces informations, les effets de mes différentes pilules, préparer mes rendez-vous, me souvenir de l'évolution de mes douleurs, de mon parcours et noter mes sensations… Je trouvais qu'il manquait un site web de référence pour trouver des informations sourcées sur l'endométriose et qu'<b>il n'existait pas de carnet de prise de notes pour les endométriosiques</b> ; je n'étais peut-être pas seule à avoir besoin de documenter toutes ces informations pour avoir un suivi convenable de ma maladie chronique. Graphiste webdesigner de formation, j'ai les compétences pour créer tous ces supports qui à mon sens manque pour la communauté d'endométriosiques, j'ai donc commencé à en parler autour de moi.</p>
-        <p>Enthousiasmée par le projet, et sensibilisée à la cause, car elle n'avait pas trouvé de support idéal pour suivre son cycle malgré <a data-toggle="popover" data-placement="top" data-trigger="hover" title="Syndrome des ovaires polykystiques" data-content="Le syndrome des ovaires polykystiques (SOPK) est dû à un dérèglement hormonal d’origine ovarienne et/ou centrale (au niveau du cerveau). Il entraine une production excessive d’androgènes, en particulier de testostérone, habituellement produites en petite quantité dans l'organisme féminin. Il en résulte une élévation du taux de testostérone dans le sang des femmes concernées. Le nom de cette maladie vient de sa description, effectuée dans les années 30, reposant sur l’observation de ce que l'on pensait être des kystes dans les ovaires des patientes. En réalité, il s'agissait de multitudes de follicules au développement inachevé. (Inserm)" class="pop">son syndrome des ovaires polykystiques</a>, Louise m’a très vite rejointe pour aider à ce que ce journal voit le jour. Nous avons toutes les deux l’intuition que ce journal pourra améliorer le quotidien de nombreuses endométriosiques.</p>
+    <div class="row">
+      <div class="col-lg-12">
+        <h3>Quelques lectures</h3>
+      </div>
+      <div class="col-lg-3">
+        <img src="/img/svg/livre.svg" class="img-fluid">
+      </div>
+        {% for l in site.pages %}
+          {% if l.layout == 'bibliography' %}
+            <div class="col-lg-3 index-articles">
+              <a href="{{ l.url }}">
+                <h4>{{ l.title }}</h4>
+              </a>
+            </div>
+          {% endif %}
+        {% endfor %}
+    </div>
     
+    <h3>Qu'est-ce qu'un endobujo ?</h3>
     <div class="row">
       <div class="col-sm-5 bg">
         <div class="text-upp first">
           <img src="/img/endobujo/logo.svg" class="img-fluid id">
-          <p class="big">un bullet journal</p>
-          <p>pour aider à gérer l'endométriose</p>
+          <p class="big">Faire son endobujo</p>
           <a href="/endobujo.html" class="button dark bio">En savoir plus</a>
         </div>
       </div>
@@ -41,12 +66,12 @@ og_twitter_img : https://cycliques.fr/img/twitter-lien.png
       <div class="row profil text-center">
         <div class="col-lg">
           <h4>Isabelle</h4>
-          <img src="/img/photos/profil-isa.jpg">
-          <p>Diagnostiquée depuis 2016 avec de l’endométriose après sept ans d’errance médicale, j’ai passé les dernières années à me reconstruire après une opération et avec des effets secondaires dûs à la prise d’hormones. Je lance en 2018 un <a href="https://endonymous.fr" class="link">blog</a> avec la parution d’un <a href="https://endonymous.fr/histoire/2018/03/22/partie-1-le-deni.html" class="link">roman graphique,</a> sentant le besoin de raconter le retard de mon diagnostic et une prise en charge qui laissait à désirer, mes douleurs et mes interrogations. Les rencontres que je fais dans le cadre de mon travail <b>d’acceptation de la maladie</b> me poussent à comprendre que dans mon cas, la prise d’hormones n’est pas la seule réponse à apporter et qu’un <b>changement d’alimentation et des exercices physiques simples</b> m’ont aidée à me sentir mieux mois après mois. Pour mettre en place cette routine, j'ai le besoin de m'organiser tous les jours et c'est ainsi que m'est venu l'idée de l'EndoBujo.</p>
+          <img src="/img/photos/profil-isa.png">
+          <p>Diagnostiquée en 2016 d'une endométriose, j’ai passé les dernières années à me reconstruire après une opération et des effets secondaires dus à la prise d’hormones. Je crée en 2018 un <a href="https://endonymous.fr" class="link">blog</a> avec la parution d’un <a href="https://endonymous.fr/histoire/2018/03/22/partie-1-le-deni.html" class="link">roman graphique,</a> qui raconte le retard de mon diagnostic et le manque de prise en charge de ma maladie. Après des années d’apprentissage pour mieux vivre avec l’endométriose, j’avais à cœur de mettre à disposition toutes mes connaissances accumulées.</p>
         </div>
         <div class="col-lg">
           <h4>Louise</h4>
-          <img src="/img/photos/profil-louise.jpg">
+          <img src="/img/photos/profil-louise.png">
           <p>L'EndoBujo, c’est avant tout une histoire de confiance et de sororité. C’est donc tout naturellement que lorsque Isabelle m’a partagé ce projet, j’ai voulu m’engager pour le faire fleurir. À ses côtés, je mobilise mes compétences dans la communication et mon instinct de femme atteinte d’une maladie chronique. Parce j’ai toujours été touchée par les précieux conseils que l’on m’a délivrés et parce je sais que chaque petit pas pour se sentir mieux est une grande avancée pour celle qui souffre, j’ai à cœur de rendre disponibles des ressources pour aider et soutenir chacun dans la recherche de son mieux-être.</p>
         </div>
       </div>
