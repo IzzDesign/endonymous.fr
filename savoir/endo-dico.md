@@ -4,8 +4,8 @@ order: 95
 subtitle: Définitions de l'endometriose
 title: EndoDico
 category: Le savoir c'est le pouvoir
-alt_img: femme lecture bibliographie endometriose
-title_img: "Femme lisant sur l'endometriose"
+alt_img: femme lecture dictionnaire vocabulaire endometriose
+title_img: "EndoDico"
 og_image: /img/endo-dico.png
 og_twitter_img : https://cycliques.fr/img/twitter-lien.png
 previous: /savoir/savoir.html
