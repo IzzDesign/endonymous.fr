@@ -7,6 +7,9 @@ subcategory: WikiFemina
 og_image: /img/schema/myometre-endometre.png
 og_twitter_img : https://cycliques.fr/img/twitter-lien.png
 previous: /savoir/wikifemina.html
+articles:
+  - /wikifemina/taille-de-l-uterus.html
+  - /savoir/endo-dico.html
 ---
 Le **myomètre** est le muscle utérin. Il est considéré comme **l’un des plus puissants du corps féminin !**
 

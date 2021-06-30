@@ -7,6 +7,9 @@ subcategory: WikiFemina
 og_image: /img/schema/taille-uterus.png
 og_twitter_img : https://cycliques.fr/img/twitter-lien.png
 previous: /savoir/wikifemina.html
+articles:
+  - /wikifemina/endometre-myometre.html
+  - /savoir/endo-dico.html
 ---
 ### Selon-vous de quel fruit un utérus fait-il la taille&nbsp;?
 ![De quel fruit un utérus fait-il la taille ?](/img/schema/taille-uterus2.png)
