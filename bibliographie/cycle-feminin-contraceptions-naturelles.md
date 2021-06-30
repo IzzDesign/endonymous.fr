@@ -9,7 +9,7 @@ subcategory: Cycle menstruel
 og_image: /img/bibliographie-feminin.png
 og_twitter_img : https://cycliques.fr/img/twitter-lien.png
 previous: /savoir/bibliographie-feminin.html
-publish_date: 2020-03-01
+publish_date: 2021-06-15
 ---
 #### L’indispensable référence pour mieux se connaître
 Vous souhaitez comprendre ce qui se passe dans votre corps chaque cycle et accessoirement en savoir plus sur la symptothermie ? Ce livre est un incontournable dans lequel vous trouverez un très grand nombre de réponse ! Appelé « le bottin vert » dans le milieu des lives Instagram, il est l’un de ces livres que l’on aime garder près de soi pour s’y replonger souvent. 
