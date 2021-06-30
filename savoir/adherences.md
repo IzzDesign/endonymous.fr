@@ -37,7 +37,7 @@ Ces adhérences peuvent se **renforcer avec le temps** et créer des douleurs l�
 Les <a href="/controle/meddouces.html" class="link">médecines douces</a> telles que l'ostéopathie ou la kinésithérapie peuvent apporter du bien-être en assouplissants ces adhérences et en permettant de regagner peu à peu de la mobilité. Pratiquer une activité physique est un plus pour vous <a href="/controle/mouvements.html" class="link">maintenir en mouvement</a>.
 <div class="col-sm-10 offset-sm-1 sources">
   <h4>Sources</h4>
-  <ul>
+  <ul class="ul-list">
     <li class="list">Endo&Sexo Avoir une sexualité épanouie avec une endométriose, Marie-Rose Galès, 2019.</li>
     <li class="list">The doctor will see you now, Tamer Seckin MD, 2016.</li>
     <li class="list">Endometriosis, the experts’ guide to treat, manage and live well with your symptoms, Pr Andrew Horne & Carol Pearson, 2018.</li>

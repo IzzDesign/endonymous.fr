@@ -2,7 +2,7 @@
 layout: articles
 order: 60
 subtitle: Des postures de yoga faciles et adaptées contre les douleurs de règles et d'endométriose.
-title: Des postures douces de yoga contre les douleurs de règles.
+title: Des postures douces de yoga contre les douleurs de règles
 category: Reprends le contrôle
 alt_img: femme yoga papillon BADDHA KONASANA
 title_img: Femme en posture du papillon Baddha Konasana
@@ -14,7 +14,7 @@ articles:
   - /savoir/adherences.html
 publish_date: 2021-07-07
 ---
-### Balasana - Posture de l'enfant
+### Balasana — Posture de l'enfant
 ![Baddha Konasana, posture du Papillon, yoga, endobujo, endométriose, règles](/img/articles/balasana.png)
 1. Se mettre à genoux, les fesses doivent toucher les talons.
 2. À l'inspiration tendez les bras vers l'avant, au-dessus de la tête.
@@ -25,11 +25,11 @@ publish_date: 2021-07-07
 7. Rester autant de temps que souhaité.
 
 #### Cette pose permet de :
-- &#8756; d'étirer le dos et les épaules.
-- &#8756; de relâcher les tensions dorsales.
-- &#8756; de lâcher prise.
+- d'étirer le dos et les épaules.
+- de relâcher les tensions dorsales.
+- de lâcher prise.
 
-### Baddha Konasana - Posture du Papillon
+### Baddha Konasana — Posture du Papillon
 ![Baddha Konasana, posture du Papillon, yoga, endobujo, endométriose, règles](/img/articles/baddha-konasana.png)
 1. Assise sur le sol ou sur un coussin, les talons les plus proches du bassin, coller les plantes des pieds l'une contre l'autre.
 2. Laisser retomber les jambes sur le côté le plus près du sol, sans chercher à forcer.
@@ -37,11 +37,11 @@ publish_date: 2021-07-07
 4. Vous pouvez positionner des coussins sous les genoux si l'ouverture des hanches est trop engageante.
 
 #### Cette pose permet de :
-- &#8756; détendre l'abdomen.
-- &#8756; ouvrir le bassin.
-- &#8756; détendre le plancher pelvien et les cuisses.
+- détendre l'abdomen.
+- ouvrir le bassin.
+- détendre le plancher pelvien et les cuisses.
 
-### Supta Baddha Konasana - Posture de la déesse du sommeil
+### Supta Baddha Konasana — Posture de la déesse du sommeil
 ![Supta Baddha Konasana, posture de la déesse du sommeil, yoga, endobujo, endométriose, règles](/img/articles/supta-baddha-konasana.png)
 Il s'agit d'une variante de Baddha Konasana qui permet de rester allongée, surtout lorsque les douleurs sont trop présentes. Ne pas hésiter à tester cette posture avant de dormir, elle est très relaxante.
 1. S'allonger dos au sol et positionner un coussin sous les omoplates.
@@ -50,11 +50,11 @@ Il s'agit d'une variante de Baddha Konasana qui permet de rester allongée, surt
 4. Vous pouvez positionner des coussins sous les genoux si l'ouverture des hanches est trop engageante.
 
 #### Cette pose permet de :
-- &#8756; rester allongée les jours de douleurs.
-- &#8756; d'ouvrir le thorax grâce à un coussin sous la cage thoracique.
-- &#8756; reposer le mental.
+- rester allongée les jours de douleurs.
+- d'ouvrir le thorax grâce à un coussin sous la cage thoracique.
+- reposer le mental.
 
-### Marjariasana ou Bidalasana - Posture du chat-vache
+### Marjariasana ou Bidalasana — Posture du chat-vache
 ![Bidalasana, Marjariasana, posture du chat-vache, yoga, endobujo, endométriose, règles](/img/articles/bidalasana.png)
 1. Se mettre en posture de l'enfant.
 2. Tracter le reste de votre corps avec les bras.
@@ -65,7 +65,7 @@ Il s'agit d'une variante de Baddha Konasana qui permet de rester allongée, surt
 7. À réitérer autant de fois que vous le souhaitez
 
 #### Cette pose permet de :
-- &#8756; d'étirer doucement la colonne vertébrale.
-- &#8756; de relâcher les tensions dans le dos.
-- &#8756; de bouger le bassin.
-- &#8756; faire travailler les abdominaux.
+- d'étirer doucement la colonne vertébrale.
+- de relâcher les tensions dans le dos.
+- de bouger le bassin.
+- faire travailler les abdominaux.

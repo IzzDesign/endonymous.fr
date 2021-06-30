@@ -201,6 +201,8 @@ p{line-height: 1.8em;font-size: 1.1em;}
 		}
 }
 
+ul{list-style: square;li{font-weight: 400;font-size: 1.1em;line-height: 1.5em;}}
+
 .bg{
 	font-family: 'Exo', sans-serif;
 	text-transform: uppercase;
@@ -366,7 +368,7 @@ p > a.link:focus {
    font-weight: 300;
 }
 
-ul{
+ul.ul-list{
 	list-style: none;
 	padding:0;
 	li{
@@ -759,6 +761,7 @@ ol{
 	padding: 0.3em;
 	ul li{
 		list-style: none;
+		line-height: 2em;
 	}
 	h5{color: #fff; text-align: center; text-decoration: underline;margin-top: 1em;}
 }

@@ -28,7 +28,7 @@ Ces différents stades d’endométriose sont souvent utilisés par les médecin
     <img src="/img/schema/stades.png" class="img-fluid" alt="schema endometriose stades adherence uterus, colon vessie lesions endometriome" title="Les quatres stades d'endométriose">
     <figcaption>Les quatre stades d'endométriose</figcaption>
   </figure>
-<ul>
+<ul class="ul-list">
   <li class="list"><b>Stade 1 :</b> 1 à 5 points, Lésions superficielles</li>
   <li class="list"><b>Stade 2 :</b> 5 à 15 points, Lésions superficielles, quelques lésions profondes ou adhérences.</li>
   <li class="list"><b>Stade 3 :</b> 16 à 40 points, Lésions superficielles, probable présence d’endométriome ou de lésions profondes ou des adhérences denses.</li>
@@ -50,7 +50,7 @@ Certaines femmes touchées par la maladie ont des **difficultés à tomber encei
 Il existe d’autres symptômes également, tels que des **règles hémorragiques**, des **saignements** hors des règles,… Pour une liste plus complète, voici <a href="https://endonymous.fr/article/2018/10/14/l-endometriose-symptomes.html" class="link">l’article du Blog Endonymous Ai-je de l’endométriose ?</a>
 <div class="col-sm-10 offset-sm-1 sources">
   <h4>Sources</h4>
-  <ul>
+  <ul class="ul-list">
     <li class="list">The doctor will see you now, Tamer Seckin MD, 2016</li>
     <li class="list">Nature Reviews : Endometriosis, K. T. Zondervan, C. M. Becker, K. Koga, S. A. Missmer, R. N. Taylor and P. Vigano, 2018</li>
     <li class="list">Endometriosis, the experts’ guide to treat, manage and live well with your symptoms, Pr Andrew Horne & Carol Pearson, 2018</li>

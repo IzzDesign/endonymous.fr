@@ -69,7 +69,7 @@ Le tricot et le crochet, voici deux loisirs facilement faisable au chaud et conf
   
 <div class="col-sm-10 offset-sm-1 sources">
   <h4>Sources</h4>
-  <ul>
+  <ul class="ul-list">
     <li class="list"><a href="https://www.doctissimo.fr/medicaments/effets-secondaires-des-medicaments/medicament-risque-depression">Médicament et risque de dépression, Doctissimo.</a></li>
   </ul>
 </div>

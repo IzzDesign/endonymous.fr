@@ -39,7 +39,7 @@ Le **dernier quartier** est celui du retrait de la lune. Fini l’effervescence 
 Il peut s’agir d’une phase qui s’associe à une **baisse de moral**, un **léger spleen** surtout en fin de phase et à l’arrivée des règles. Près de 80% des femmes peuvent ressentir des troubles physiques (rétention d’eau, ballonnements, maux de tête, fatigue importante, gonflement des seins…) et psychiques (humeur dépressive, irritabilité,…). Cette baisse de moral est induite par la baisse d’œstrogènes puisque cette hormone a une action sur la synthèse de sérotonine, impliquée dans la gestion des humeurs et associée à l'état de bonheur. Pour 30% des femmes, on parle de **syndrome prémenstruel** car ces symptômes sont plus sévères et pour 5% d’entre elles, ils induisent un véritable handicap : on parle de **dysphorie prémenstruelle**.
 <div class="col-sm-10 offset-sm-1 sources">
   <h4>Sources</h4>
-  <ul>
+  <ul class="ul-list">
     <li class="list">Cycle féminin et contraceptions naturelles, Audrey Guillermaud, 2019</li>
     <li class="list"><a href="http://www.slate.fr/story/165632/le-cycle-menstruel-influe-sur-le-cerveau-des-femmes">Slate : Le cycle menstruel influe sur le cerveau des femmes</a></li>
     <li class="list"><a href="https://www.marieclaire.fr/les-hormones-feminines-influencent-elles-notre-humeur,1293876.asp">Marie Claire : Les hormones féminine influencent-elles notre humeur ?</a></li>

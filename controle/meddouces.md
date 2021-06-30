@@ -39,7 +39,7 @@ Pendant une séance de psychologie biodynamique il y a des massages et ceux-ci s
 J’ai apprécié de pouvoir avoir un intervenant qui prenait en compte le corps et l’esprit car je sentais que le mal-être des deux étaient intimement lié ou que l’un entraînait l’autre et je n’aurais pas eu une aide complète avec un intervenant qui n'aurait pas pris en compte ces deux facettes. Cette discipline m’a aidée à casser des schémas de pensées et de vie qui me bloquaient et me faisaient du mal. Je trouve qu’il est très intéressant d’avoir cette approche psychologique pour une maladie telle que l’endométriose, qui va décupler sur le corps le stress ou les chocs émotionnels. Pour ma part, je n’en serais pas où je suis sans le travail de mon intervenante et je la remercie énormément pour l’aide qu’elle m’a apportée.
 <div class="col-sm-10 offset-sm-1 sources">
   <h4>Sources</h4>
-  <ul>
+  <ul class="ul-list">
     <li class="list">The doctor will see you now, Tamer Seckin MD, 2016</li>
     <li class="list">Soulager l’endométriose sans médicaments, Stéphanie Mezerai et Sophie Pensa, 2019.</li>
     <li class="list"><a href="https://www.passeportsante.net/fr/Therapies/Guide/Fiche.aspx?doc=acupuncture_th">Passeport Santé : Acupuncture</a></li>

@@ -26,7 +26,7 @@ Je vous partage ici quelques pistes de réflexions sur nos émotions négatives,
 ### Culpabilité
 <div class="list text-center bg violet">
   <h5>Le type de pensées culpabilisantes qui peuvent nous traverser.</h5>
-  <ul>
+  <ul class="bg-list">
     <li>Je ne suis pas assez forte.</li>
     <li>Je ne m'occupe pas de mes proches / mes enfants.</li>
     <li>Je suis un poids.</li>
@@ -50,7 +50,7 @@ Je vous partage ici quelques pistes de réflexions sur nos émotions négatives,
 ### Peur
 <div class="list text-center bg violet">
   <h5>Le type de pensées effrayantes qui peuvent nous traverser.</h5>
-  <ul>
+  <ul class="bg-list">
     <li>J'ai peur que l'endométriose évolue.</li>
     <li>J'ai peur pour ma fertilité.</li>
     <li>J'ai peur de mon prochain rendez-vous chez le médecin.</li>
@@ -73,7 +73,7 @@ Je vous partage ici quelques pistes de réflexions sur nos émotions négatives,
 ### Colère
 <div class="list text-center bg violet">
   <h5>Les pensées colériques qui peuvent nous traverser.</h5>
-  <ul>
+  <ul class="bg-list">
     <li>Pourquoi moi ?</li>
     <li>Ils sont idiots ou ils font exprès ?</li>
     <li>C'est facile pour eux.</li>
@@ -96,7 +96,7 @@ Je vous partage ici quelques pistes de réflexions sur nos émotions négatives,
 ### Anxiété
 <div class="list text-center bg violet">
   <h5>Les pensées anxieuses qui peuvent nous traverser.</h5>
-  <ul>
+  <ul class="bg-list">
     <li>Et si j'ai un problème grave ?</li>
     <li>Est-ce que mon endométriose va évoluer ?</li>
     <li>Le temps passe et je n'arrive toujours pas à tomber enceinte…</li>

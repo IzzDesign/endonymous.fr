@@ -59,7 +59,7 @@ Après deux ans d’utilisation de protections lavables, je remarque une **absen
   
 <div class="col-sm-10 offset-sm-1 sources">
   <h4>Sources</h4>
-  <ul>
+  <ul class="ul-list">
     <li class="list"><a href="https://www.lemonde.fr/les-decodeurs/article/2019/07/02/precarite-menstruelle-combien-coutent-ses-regles-dans-la-vie-d-une-femme_5484140_4355770.html">Précarité menstruelle : combien coûtent les règles dans la vie d’une femme ?, Le monde 2019.</a></li>
     <li class="list"><a href="http://www.aly-abbara.com/livre_gyn_obs/termes/adherences.html">La culotte menstruelle: une vraie révolution?, Cheek Magazine 2017</a></li>
     <li class="list"><a href="https://presse.inserm.fr/fertilite-endometriose-linserm-fait-le-point-sur-les-recherches/34633/">Fertilité, endométriose : l’Inserm fait le point sur les recherches, Inserm 2019</a></li>

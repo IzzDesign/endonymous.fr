@@ -36,7 +36,7 @@ Il s’agit d’aliments en général mauvais pour notre santé tels que les suc
 </ul>
 <div class="col-sm-10 offset-sm-1 sources">
   <h4>Sources</h4>
-  <ul>
+  <ul class="ul-list">
     <li class="list"><a href="https://www.health.harvard.edu/staying-healthy/foods-that-fight-inflammation">Harvard Health Publishing : Foods that fight inflammation, 2018.</a></li>
     <li class="list"><a href="https://www.health.harvard.edu/healthy-eating/fighting-inflammation-at-the-meal-table">Harvard Health Publishing : Fighting inflammation at the meal table, 2017</a></li>
     <li class="list"><a href="https://www.aarp.org/health/conditions-treatments/info-2019/diets-for-lowering-inflammation.html">Diets for lowering inflammation, 2019</a></li>
