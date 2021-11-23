@@ -6,8 +6,8 @@ title: Le cycle menstruel
 category: Le savoir c'est le pouvoir
 alt_img: Femme lune cycle mentruel hormones
 title_img: Femme et cycle mentruel
-og_image: /img/cyclenormal.png
-og_twitter_img : https://cycliques.fr/img/twitter-lien.png
+og_image: cyclenormal.png
+og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
 articles:
   - /savoir/hormones-cycle.html
@@ -19,7 +19,7 @@ publish_date: 2019-03-01
 La durée moyenne d’un cycle est de 28 jours mais celui-ci n’est pas forcément toujours régulier tout au long d’une vie et peut être différent en fonction des personnes réglées : soit plus court, soit plus long. Par convention, cet article traite d'un cycle de 28 jours avec une période d’ovulation au 14ème jour.
 Le premier cycle commence à l'apparition des premières règles lors de la **puberté**. Sauf fécondation, les cycles s'enchaînent tout du long de la vie d’une femme jusqu’à la **ménopause** qui signe la fin de la période de fécondité.
 <figure class="cycle">
-  <img src="/img/svg/cycle/nouvellelune.svg">
+  <img src="/assets/images/svg/cycle/nouvellelune.svg">
   <h3>La nouvelle lune</h3>
 </figure>
 #### J1 à J5 : Les règles
@@ -29,19 +29,19 @@ En cas de non fécondation lors du cycle précédent, la chute du taux d’hormo
 Il peut survenir des petits troubles menstruels tels que des menstruations trop abondantes en quantité et/ou en durée, on les appelle les **ménorragies** ou **hyperménorrhées**.
 Lors de vos règles, vous pouvez ressentir des petites contractions utérines, en revanche **la douleur n’est pas normale** lorsqu’elle vous empêche d'avoir des activités habituelles, sortir, faire du sport, qu’elle passe difficilement avec des antidouleurs basiques. Les règles douloureuses sont aussi appelées des **dysménorrhées**. Si vous êtes dans ce cas, je vous invite à lire mes articles sur <a href="/savoir/endometriose.html" class="link">l’endométriose</a> et <a href="/savoir/endometriose.html" class="link">l’adénomyose</a> et à aller consulter.
 <figure class="cycle">
-  <img src="/img/svg/cycle/precroissant.svg">
+  <img src="/assets/images/svg/cycle/precroissant.svg">
   <h3>Le premier quartier</h3>
 </figure>
 #### J6 à J14 : Montée œstrogènes
 À l’arrêt des saignements, l’utérus se prépare à une éventuelle grossesse. Au niveau ovarien, c’est la phase pré-ovulatoire ou folliculaire : sous la stimulation de l’hormone hypophysaire FSH, un ou plusieurs follicules sont en développement dans un des ovaires. Dans la plupart des cas, un seul de ces follicules développera un **ovule** mature. La montée du taux en FSH va stimuler la production d’œstrogènes par l’ovaire. **L’œstrogène** permettra l’augmentation de **l’épaisseur de l’endomètre**. L’endomètre est la muqueuse utérine qui sert à recevoir un ovocyte en cas de fécondation. Cet endomètre se sature de sang et de nutriments sous l’action des hormones. La sécrétion de FSH augmente jusqu'à un pic au moment de **l'ovulation**.
 <figure class="cycle">
-  <img src="/img/svg/cycle/pleinelune.svg">
+  <img src="/assets/images/svg/cycle/pleinelune.svg">
   <h3>La pleine lune</h3>
 </figure>
 #### J14 : Pic de fertilité
 Autour du 14ème jour, il y a une montée du taux de l’hormone hypophysaire **LH**. Ce taux d’hormone plus élevé va induire dans les ovaires l’éclatement du follicule et la libération de l’ovule par un des ovaires. On l’appelle ovocyte : il se fera happer par la trompe de Fallope correspondante pour se diriger vers l’utérus. La présence de spermatozoïdes à ce moment là dans la trompe pourra induire une **fécondation**. Sans fécondation, l’ovocyte se désintégrera environ 24h plus tard.
 <figure class="cycle">
-  <img src="/img/svg/cycle/dercroissant.svg">
+  <img src="/assets/images/svg/cycle/dercroissant.svg">
   <h3>Le dernier quartier</h3>
 </figure>
 #### J14 à 25 : Prédominance Progestérone
@@ -53,7 +53,7 @@ Si l’ovule n’a pas été fécondé ou si l’implantation n’a pas eu lieu,
 **La chute des hormones œstrogéniques et progestatives** juste avant les règles va induire chez près de 80% des femmes des **troubles physiques** (rétention d’eau, mastodynies, céphalées, ballonnement,...) et **psychiques** (envie de sucreries, irritabilité, humeur dépressive). Chez 30% des femmes, on parle de **syndrôme prémenstruel** (SPM) car les symptômes sont beaucoup plus sévères et dans 5% des cas, ils sont handicapant se répercutant sur la vie familiale et professionnelle, il s'agit alors de **dysphorie prémenstruelle** (ou premenstrual dysphoric disorder = PMDD).
 <div class="col-sm-8 offset-sm-2">
   <figure>
-    <img src="/img/schema/cycle.png" class="img-fluid" alt="schema cycle menstruel ovarien uterin taux hormonaux hypophyse endomètre ovule ovaire lh oœstrogenes progesterone fsh" title="Schéma du cycle menstruel et des différents changements hormonaux et physiques">
+    <img src="/assets/images/schema/cycle.png" class="img-fluid" alt="schema cycle menstruel ovarien uterin taux hormonaux hypophyse endomètre ovule ovaire lh oœstrogenes progesterone fsh" title="Schéma du cycle menstruel et des différents changements hormonaux et physiques">
     <figcaption>Schéma cycle menstruel</figcaption>
   </figure>
 </div>

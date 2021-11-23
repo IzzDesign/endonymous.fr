@@ -6,8 +6,8 @@ title: WikiFemina
 category: Le savoir c'est le pouvoir
 alt_img: femme lecture cycle
 title_img: "WikiFemina"
-og_image: /img/wikifemina.png
-og_twitter_img : https://cycliques.fr/img/twitter-lien.png
+og_image: wikifemina.png
+og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
 articles:
   - /savoir/endo-dico.html

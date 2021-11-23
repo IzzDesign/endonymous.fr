@@ -6,8 +6,8 @@ title: L'alimentation anti-inflammatoire
 category: Reprends le contrôle
 alt_img: femme mange pomme
 title_img: Femme allongée mangeant une pomme
-og_image: /img/alimentation2.png
-og_twitter_img : https://cycliques.fr/img/twitter-lien.png
+og_image: alimentation2.png
+og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /controle/controle.html
 articles:
   - /savoir/endometriose.html

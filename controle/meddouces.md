@@ -6,8 +6,8 @@ title: Les médecines douces
 category: Reprends le contrôle
 alt_img: femme automassage
 title_img: Femme s'automassant le ventre
-og_image: /img/automassage.png
-og_twitter_img : https://cycliques.fr/img/twitter-lien.png
+og_image: automassage.png
+og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /controle/controle.html
 articles:
   - /savoir/endometriose.html

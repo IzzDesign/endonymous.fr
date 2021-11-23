@@ -6,8 +6,8 @@ title: Les différences entre endométriose et adénomyose
 category: Le savoir c'est le pouvoir
 alt_img: femme gynécologie adenomyose endometriose
 title_img: Endométriose et Adénomyose
-og_image: /img/endometriose-adenomyose.png
-og_twitter_img : https://cycliques.fr/img/twitter-lien.png
+og_image: endometriose-adenomyose.png
+og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
 articles:
   - /savoir/endometriose.html
@@ -23,14 +23,14 @@ L’endométriose et l’adénomyose ont des similitudes dans leur caractéristi
 L’adénomyose se caractérise par la **présence anormale de [lésions](/endo-dico/lesions-endometriose.html) semblables à des cellules de l’endomètre dans le muscle utérin, le [myomètre](/endo-dico/myometre.html).** L’adénomyose reste donc contenue dans l’utérus.
 
 <figure>
-  <img src="/img/schema/adenomyose.png" class="img-fluid" alt="schéma uterus adenomyose maladie gynécologique lésion endomètre myomètre" title="Schéma d'un utérus avec de l'adénomyose">
+  <img src="/assets/images/schema/adenomyose.png" class="img-fluid" alt="schéma uterus adenomyose maladie gynécologique lésion endomètre myomètre" title="Schéma d'un utérus avec de l'adénomyose">
   <figcaption>Schéma comparatif d'un utérus avec et sans adenomyose</figcaption>
 </figure>
 
 L’endométriose se caractérise par la **présence anormale de [lésions](/endo-dico/lesions-endometriose.html) semblables à des cellules de l’endomètre dans la cavité abdominale.** Ces lésions vont êtres présentes sur les [ovaires](/endo-dico/ovaires.html) ([endométriomes](/endo-dico/endometriome.html)), l’utérus,  mais également sur le système digestif, le péritoine et plus rarement sur le système urinaire, le diaphragme, les poumons…
 
 <figure>
-  <img src="/img/schema/endometriose-schema.png" class="img-fluid" alt="schéma uterus endometriose maladie gynécologique lésion abdomen femme" title="Schéma d'un abdomen avec de l'endométriose">
+  <img src="/assets/images/schema/endometriose-schema.png" class="img-fluid" alt="schéma uterus endometriose maladie gynécologique lésion abdomen femme" title="Schéma d'un abdomen avec de l'endométriose">
   <figcaption>Schéma d'un abdomen avec des lésions d'endométriose</figcaption>
 </figure>
 

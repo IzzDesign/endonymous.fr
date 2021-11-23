@@ -6,8 +6,8 @@ title: Bibliographie sur le féminin
 category: Le savoir c'est le pouvoir
 alt_img: femme lecture bibliographie femme féminité
 title_img: "Femme lecture sur la féminité et les femmes"
-og_image: /img/bibliographie-feminin.png
-og_twitter_img : https://cycliques.fr/img/twitter-lien.png
+og_image: bibliographie-feminin.png
+og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
 articles:
   - /savoir/bibliographie-endometriose.html

@@ -6,8 +6,8 @@ title: Endométriose et émotions
 category: Reprends le contrôle
 alt_img: femme pensive endometriose emotions
 title_img: Femme pensive
-og_image: /img/emotions.png
-og_twitter_img : https://cycliques.fr/img/twitter-lien.png
+og_image: emotions.png
+og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /controle/controle.html
 articles:
   - /controle/temoignages.html

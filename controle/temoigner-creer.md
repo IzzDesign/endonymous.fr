@@ -6,8 +6,8 @@ title: Endométriose et maladies chroniques, documenter, témoigner et inventer
 category: Reprends le contrôle
 alt_img: femme appareil photo photographe
 title_img: Femme photographe
-og_image: /img/creativite.png
-og_twitter_img : https://cycliques.fr/img/twitter-lien.png
+og_image: creativite.png
+og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /controle/controle.html
 articles:
   - /savoir/endometriose.html
@@ -23,7 +23,7 @@ De plus, le traitement longue durée de l’endométriose est la prise d’hormo
 S'il est compliqué de rester avec un moral au beau fixe avec toutes ces douleurs et émotions négatives, il est difficile également d’accepter la maladie. Je suis pour ma part restée alitée pendant plus de deux ans après mon diagnostic et mon opération, terrassée par la douleur et la fatigue. Avec tout ça, j’ai eu le temps de cogiter sur mon sort et de me sentir prisonnière d’un corps qui m’abandonnait. Ma psychiatre de l’époque m’avait dit que rester immobile, sans but c’était un peu comme être mort et que la création, l’envie de projet signifiait rester vivant. C’est dans ce contexte là que j’ai commencé <a href="https://endonymous.fr" class="link">le témoignage de mon parcours d’endométriosique en roman graphique</a>, pour  créer, m’exprimer et rester parmi les vivants. Ce roman graphique je l’ai en tout premier lieu fait pour moi. Je voulais bien sûr le partager mais qu’il ait des lecteurs ou non, cela m’était égal, j’avais surtout besoin d’écrire, de documenter mon parcours si chaotique, de me souvenir d’à quel point j’avais été baladée et méprisée. En un sens l’endométriose m’a changée mentalement, moi qui avant ça était frileuse à l’idée de me lancer dans quoique ce soit de peur d’être jugée, déçue, incompétente. La maladie m’a donnée la meilleure des leçons de vie : tout peut s’écrouler du jour au lendemain, autant oser ! Alors osons !
 
 <figure class="cycle">
-  <img src="/img/svg/dessin.svg">
+  <img src="/assets/images/svg/dessin.svg">
   <h3>Dessin et Coloriage</h3>
 </figure>
 C’est l’un de mes moyens d’expression préféré parce qu’il permet vraiment de tout faire en partant de rien et je trouve l’idée magnifique. Par exemple, voici le premier dessin que j’ai fait pour me libérer un peu l’esprit (dessin enfant qui est recroquevillé sur lui-même alors qu’il est encerclé par un monstre informe et noir qui va le saisir.) Parlant hein ? Je me sentais tellement prisonnière et je sentais que la dépression me bouffait, ce dessin a été une libération fugace. Beaucoup de malades chroniques ont choisi le dessin pour s’exprimer et les témoignages BD, les dessins abondent sur Instagram, c’est par exemple ce qu’à choisi de faire Mat en dessinant sur une journée de règle typique avec une endométriose.
@@ -33,7 +33,7 @@ Ne vous dites pas que vous ne savez pas dessiner, l’idée n’est pas de rajou
 Et si le dessin ne vous tente pas, pourquoi ne pas essayer les coloriages Mandala tout en écoutant de la musique ? Il est dit que ces derniers permettent de se détendre et ils vont aideront à vous concentrer sur une tâche simple mais minutieuse. Si vous avez une imprimante vous pouvez en trouver gratuitement sur le net ; sinon il existe des carnets à acheter.
 
 <figure class="cycle">
-  <img src="/img/svg/photo.svg">
+  <img src="/assets/images/svg/photo.svg">
   <h3>Photographie</h3>
 </figure>
 C’est un médium qui s’ancre plus dans la documentation et le réel. Pas besoin d’avoir un appareil photo dernier cri, pour quelques photos un smartphone et quelques filtres Instagram peuvent tout à fait faire illusion, de quoi vous permettre de vous amuser un peu. Certes, la photographie peut demander de se déplacer et de pouvoir bouger mais pris sous le bon angle, tout peut être sujet à photographie (que celles qui ont deux cents photos de leur animal ou leurs enfants dans leur téléphone lèvent le doigt).
@@ -43,7 +43,7 @@ La photographie est un outil très intéressant pour documenter ce qu’une femm
 La photographie est un outil de sensibilisation très puissant puisqu’il fait montre des quotidiens vécus par les malades de l’endométriose comme pour l’exposition [Les invisibles](https://www.endofrance.org/wp-content/uploads/2020/02/Les-Invisibles_DP_2020.pdf) qui a lieu à Paris début mars 2020 et proposées par Anaïs Morisset Desmond et Martin Straub. Ce projet artistique regroupe les photographies de différentes femmes atteintes d’endométriose, leur témoignages audio ainsi que les différentes imageries permettant de montrer l’invisible mais non moins invalidante maladie. Ces expositions immersives visent à « libérer la parole de femmes atteintes d’endométriose et d’adénomyose mais aussi pour dénoncer leurs errances médicales, les violences psychologiques et physiques gynécologiques qu’elles subissent, l’ignorance du corps enseignant et les complications professionnelles entre autres ».
 
 <figure class="cycle">
-  <img src="/img/svg/video.svg">
+  <img src="/assets/images/svg/video.svg">
   <h3>Vidéo</h3>
 </figure>
 Encore un média intéressant pour apporter un témoignage et montrer à quel point la maladie est handicapante, c’est ce que font avec brio les courts métrages [Endosphère](https://www.rtl.fr/girls/societe/video-endometriose-endosphere-un-court-metrage-pour-tout-comprendre-7796223409) écrit par Annabelle Mai et Carolina Guidotti et [Toi, mon endo](https://www.youtube.com/watch?v=O9sEOwQHOoY) écrit Laetitia Laignel des Chroniques endométriosiques. Ces deux témoignages imagent avec émotions tout ce qu’une endométriose engendre dans la vie d’une personne.
@@ -53,7 +53,7 @@ Laetitia Laignel a écrit son court-métrage Toi mon endo, comme une lettre s’
 Endosphère commence comme un documentaire qui fait un bilan de ce qu’est la maladie utilisant une magnifique direction artistique pour illustrer le tout. Il montre la multiplicité des cas d’endométriose, imageant avec brio les différentes douleurs que les endométriosiques peuvent ressentir : « à chacune sa douleur et le masque qu’elle prend ». Danseuse de flamenco, barbelés, poignard dans le ventre, gant de fer serrant l’appareil génital, ces images donnent une idée de ces douleurs si invalidantes. Ensuite, quatre témoignages de femmes s'enchaînent, expliquant chacune leurs parcours et comment l’endométriose impacte leur vie, développant quatre grands thèmes : Couple et sexualité, Infertilité, Problèmes digestifs et stomie, douleurs invalidantes jusqu’à la perte de travail : « chacune apprend à vivre avec son endométriose ». La vidéo se termine avec un message très fort annoncé à plusieurs voix. « Écoutez votre corps. Parlez-en. Consultez. N’ayez pas peur. Et battez-vous. »
 
 <figure class="cycle">
-  <img src="/img/svg/ecriture.svg">
+  <img src="/assets/images/svg/ecriture.svg">
   <h3>Écriture</h3>
 </figure>
 La lecture et l’écriture, quoi de mieux pour voyager tout en restant chez soi ? C’est un loisir qui a un avantage tout particulier par rapport aux autres : il peut être fait depuis son lit ! Quoi de mieux que coucher ses idées sur papier plutôt que de les sentir tourner en boucle dans sa tête ? Voici un [petit article](https://desmotsetduthe.fr/5-idees-pour-ecrire-tous-les-jours) qui donne plusieurs idées pour trouver des sujets d’écritures : noter ses rêves, parler d’un fait quotidien, tenir un journal intime, … Et pourquoi pas trouver un blog pour publier des témoignages ?
@@ -61,7 +61,7 @@ La lecture et l’écriture, quoi de mieux pour voyager tout en restant chez soi
 Et si écrire sur sur le quotidien est trop déprimant, pourquoi ne pas laisser aller son imagination ? L’écriture permet d’inventer n’importe quoi ! En bonne petite geekette, j’ai par exemple longtemps été sur un forum RP, (RP étant l’abréviation de role play qui signifie jouer un personnage). Le RP est un moyen de s’inventer un personnage et de le faire évoluer dans un monde défini ou à définir. L’avantage des forums est que vous pouvez trouver des partenaires de RPs ce qui peut motiver à répondre et inventer des choses ensemble ! Alors à vos claviers !
 
 <figure class="cycle">
-  <img src="/img/svg/couture.svg">
+  <img src="/assets/images/svg/couture.svg">
   <h3>Couture, Tricot et Crochet</h3>
 </figure>
 La couture est un loisir qui peut demander un peu de matériel et surtout l’achat d’une machine à coudre -- même si on peut essayer de faire sans, ça peut devenir long, très long. Vous aurez sûrement la possibilité de vous en procurer d’occasion. Une fois ceci fait, vous verrez que tout va devenir prétexte à créer de jolies choses et utiliser les jolis tissus que vous avez achetés : coudre des sacs pour les courses zéro déchets, se faire une pochette, pimper ses anciens vêtements, … Mon prétexte préféré : se faire une jolie bouillotte maison, une bonne raison de se sentir utile et surtout de se rappeler à quel point on est fière de soi-même dans les moments les plus douloureux. J’ai un petit coup de cœur pour ce [tuto de bouillote sèche tête de chat](http://mamanfaitdesaffaires.over-blog.com/2016/12/bouillotte-seche-tete-de-chat.html) mais il existe des tas d’autres tutos sur le net.

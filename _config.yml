@@ -1,7 +1,7 @@
-title: "EndoBujo"
-second_title: "renouer avec son cycle, en apprendre plus sur l'endométriose."
+title: "Endonymous"
+second_title: "Le roman graphique sur l'endométriose"
 url: https://endobujo.fr
-og_description: EndoBujo est site d'information sur le cycle et l'endométriose/l'adénomyose.
+og_description: Endonymous est un roman graphique et autobiographique sur l'endométriose ainsi qu'un site d'information sur le cycle et l'endométriose/l'adénomyose.
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from

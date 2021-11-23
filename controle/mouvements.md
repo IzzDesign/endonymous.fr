@@ -6,8 +6,8 @@ title: Rester en mouvement
 category: Reprends le contrôle
 alt_img: femme yoga
 title_img: Femme sur tapis de Yoga
-og_image: /img/yoga.png
-og_twitter_img : https://cycliques.fr/img/twitter-lien.png
+og_image: yoga.png
+og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 
 previous: /controle/controle.html
 articles:

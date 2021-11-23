@@ -6,8 +6,8 @@ title: Qu'est-ce que l'adénomyose&nbsp;?
 category: Le savoir c'est le pouvoir
 alt_img: femme gynécologie adenomyose
 title_img: "Femme se tenant le ventre : Adenomyose"
-og_image: /img/adenomyose.png
-og_twitter_img : https://cycliques.fr/img/twitter-lien.png
+og_image: adenomyose.png
+og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
 articles:
   - /savoir/endometriose.html
@@ -18,7 +18,7 @@ L’**adénomyose** c’est la présence de cellules semblables à de l’endom�
  L’endométriose et l’adénomyose ont des fonctionnements semblables et **certaines personnes peuvent souffrir des deux maladies**, mais ce n’est pas toujours le cas.
 
 <figure>
-  <img src="/img/schema/adenomyose.png" class="img-fluid" alt="schéma uterus adenomyose maladie gynécologique lésion endomètre myomètre" title="Schéma d'un utérus avec de l'adénomyose">
+  <img src="/assets/images/schema/adenomyose.png" class="img-fluid" alt="schéma uterus adenomyose maladie gynécologique lésion endomètre myomètre" title="Schéma d'un utérus avec de l'adénomyose">
   <figcaption>Schéma comparatif d'un utérus avec et sans adenomyose</figcaption>
 </figure>
 

@@ -6,8 +6,8 @@ title: Qu'est-ce que l'endométriose&nbsp;?
 category: Le savoir c'est le pouvoir
 alt_img: femme gynécologie endometriose
 title_img: "Femme se tenant le ventre : Endométriose"
-og_image: /img/endometriose.png
-og_twitter_img : https://cycliques.fr/img/twitter-lien.png
+og_image: endometriose.png
+og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
 articles:
   - /savoir/adenomyose.html
@@ -25,7 +25,7 @@ L’atteinte par une endométriose est évaluée selon le score AFSR, on parle a
 On peut également parler de **lésions superficielles**, il s’agit de lésions qui ne pénètrent pas profondément sous la surface des organes tandis que les **lésions profondes** dépassent 5 mm d’infiltration sous les organes.
 Ces différents stades d’endométriose sont souvent utilisés par les médecins. Ils prennent en compte la localisation des lésions et leur étendues dans la cavité abdominale, la profondeur des lésions, la présence et la taille d’endométriomes, et la présence et la sévérité des adhésions. Voici quelques schémas pour comprendre la classification.
   <figure>
-    <img src="/img/schema/stades.png" class="img-fluid" alt="schema endometriose stades adherence uterus, colon vessie lesions endometriome" title="Les quatres stades d'endométriose">
+    <img src="/assets/images/schema/stades.png" class="img-fluid" alt="schema endometriose stades adherence uterus, colon vessie lesions endometriome" title="Les quatres stades d'endométriose">
     <figcaption>Les quatre stades d'endométriose</figcaption>
   </figure>
 <ul class="ul-list">

@@ -6,8 +6,8 @@ title: Bibliographie sur l'endométriose
 category: Le savoir c'est le pouvoir
 alt_img: femme lecture bibliographie endometriose
 title_img: "Femme lisant sur l'endometriose"
-og_image: /img/bibliographie-endo.png
-og_twitter_img : https://cycliques.fr/img/twitter-lien.png
+og_image: bibliographie-endo.png
+og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
 articles:
   - /savoir/endometriose.html

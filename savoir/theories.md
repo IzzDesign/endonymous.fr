@@ -6,8 +6,8 @@ title: Les théories de développement de l'endométriose
 category: Le savoir c'est le pouvoir
 alt_img: femme gynécologie endometriose theories mecanisme
 title_img: "Utérus avec lésions endométriose"
-og_image: /img/theories.png
-og_twitter_img : https://cycliques.fr/img/twitter-lien.png
+og_image: theories.png
+og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
 articles:
   - /savoir/avancees.html
@@ -17,7 +17,7 @@ publish_date: 2021-01-15
 On ne sait toujours pas quelle est l'origine de <a href="/savoir/endometriose.html" class="link">l'endométriose,</a> le corps médical a plusieurs hypothèses et si chacune peut être soutenue par des chiffres et des statistiques, **aucune n’est parfaite** ni n’arrive à englober entièrement toutes les formes des <a href="/endo-dico/lesions-endometriose.html">lésions endométriosiques</a> et/ou leur localisation dans le corps. Déterminer les causes de l’endométriose est complexe, notamment au vu des différents facteurs qui pourraient rentrer en jeu (génétiques, environnementaux, biologiques, …) et le manque d’études à grande échelle. Néanmoins, voici en simplifié ce qu’en dit la revue **Nature dans une méta-étude publiée en 2018** faisant la revue de plus de 250 sources publiées dans des journaux à comité de lecture[^nature].
 
 <figure class="cycle">
-  <img src="/img/svg/reflux.svg">
+  <img src="/assets/images/svg/reflux.svg">
   <h3>Théorie du reflux</h3>
 </figure>
 
@@ -28,7 +28,7 @@ La théorie du reflux ne justifie également pas pourquoi on retrouve dans de tr
 En 2002, David Redwine étudie cette théorie des menstruations rétrograde en analysant les différences entre les lésions d’endométriose et des cellules de l’endomètre, il en trouve plus d’une dizaine. Des années plus tard, on en distingue une centaine, principalement génétiques. Ces différences ne devraient pas exister car une « _autogreffe reste identique à son tissu d’origine_ ».[^redwine] **Pour Redwine, l’endométriose n’est donc pas de l’endomètre.**
 
 <figure class="cycle">
-  <img src="/img/svg/metaplasique.svg">
+  <img src="/assets/images/svg/metaplasique.svg">
   <h3>Théorie métaplasique</h3>
 </figure>
 En revanche, ces **rares localisations de lésions d’endométriose** (les ganglions lymphatiques abdominaux, les poumons, le cerveau, certains membres ou la cavité nasale, présence chez des hommes non trans-genre) pourraient être expliquées par **la théorie métaplasique** suggérée par Meyer et redéfinie par Fergusson[^84] [^85]. Selon cette théorie, des **cellules souches** (cellules non spécialisées en un "type" cellulaire pouvant se transformer en n'importe quelle cellule) subiraient un **processus de différenciation en cellules endométriales** dans des zones hors de l’utérus.
@@ -39,13 +39,13 @@ Pour le Professeur Redwine, cette théorie est cependant la plus probable et est
 
 
 <figure class="cycle">
-  <img src="/img/svg/sanguin.svg">
+  <img src="/assets/images/svg/sanguin.svg">
   <h3>Théorie de la métastase via les réseaux vasculaires et lymphatiques</h3>
 </figure>
 Une autre explication de la présence dans de rares cas d’endométriose hors du pelvis et particulièrement dans les ganglions lymphatiques abdominaux [^95] est **la théorie de la métastase via les réseaux vasculaires et lymphatiques** proposant que les lésions d’endométriose résultent d’une **migration des cellules de l’endomètre par voie lymphatique et/ou sanguine** pour coloniser différents organes.
 
 <figure class="cycle">
-  <img src="/img/svg/foetus.svg">
+  <img src="/assets/images/svg/foetus.svg">
   <h3>Théorie du saignement utérin rétrograde prénatal</h3>
 </figure>
 Une récente théorie suggère que l’endométriose pourrait être due à un **saignement utérin rétrograde prénatal** qui aurait lieu **lors de la naissance** avec la disparition des **hormones stéroïdes** présentes dans le placenta. Cette théorie est supportée par l’observation de la présence de **sang utérin chez environ 5% des bébés nés** ainsi que par l’occurrence d’endométriose sévère chez des adolescents [^96].

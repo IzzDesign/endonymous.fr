@@ -6,8 +6,8 @@ title: Endométriose, des nouveaux espoirs de traitements
 category: Le savoir c'est le pouvoir
 alt_img: femme scientifique recherche endometriose
 title_img: "Femme participant à la recherche pour l'endométriose"
-og_image: /img/avancees.png
-og_twitter_img : https://cycliques.fr/img/twitter-lien.png
+og_image: avancees.png
+og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
 articles:
   - /savoir/endometriose.html
