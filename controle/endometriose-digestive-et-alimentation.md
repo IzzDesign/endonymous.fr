@@ -91,6 +91,12 @@ J'ai petit à petit arrêté d'acheter des aliments transformés, avec une envie
 
 Dernière petite expérience, j’ai fait 3 jours complets sans gluten ni laitage les trois premiers jours de mes règles et j’ai trouvé que c’était très bénéfiques sur mes sensations, notamment moins de tiraillements (qui sont je pense dûes aux adhérences).
 
+À ce jour, j'ai complètement arrêté le gluten (donc les farines complètes de blé, avoine, orge… ) ainsi que les produits laitiers. Les changements sont impressionnants et je me sens mieux. Il reste des petites gênes en fonction du cycle et quelques aliments que je n'arrive pas à identifier clairement.
+
+La difficulté a été de ne pas mourir littéralement de faim, j'ai donc réintégré la volaille à mon alimentation en plus du poisson (adieu mes bonnes intentions pour devenir végétarienne !). Ce rajout de protéines m'a sauvée car m'a permis de me caler bien plus et ne pas ressentir de frustration.
+
+Ces changements se sont fait sur deux ans et ont été longs à mettre en place convenablement. J'ai eu de longues périodes avec une grande sensation de faim, de frustration, j'ai beaucoup maigris… Je me sens aujourd'hui enfin stable dans mon alimentation et sur ma balance et je peux attester que ça vaut le coût !
+
 ### Les ressources pour vous aider
 <div class="row">
   <div class="col-lg-5 offset-lg-1">

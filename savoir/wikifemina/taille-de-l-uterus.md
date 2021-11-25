@@ -4,16 +4,18 @@ subtitle:
 title: Quelle est la taille de l'utérus&nbsp;?
 category: WikiFemina
 subcategory: WikiFemina
-og_image: /assets/images/schema/taille-uterus.png
+og_image: taille-uterus.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/wikifemina.html
 articles:
-  - /wikifemina/endometre-myometre.html
+  - /savoir/wikifemina/endometre-myometre.html
   - /savoir/endo-dico.html
 ---
 ### Selon-vous de quel fruit un utérus fait-il la taille&nbsp;?
-![De quel fruit un utérus fait-il la taille ?](/assets/images/schema/taille-uterus2.png)
-![L'utérus fait la taille d'une petite clémentine !](/assets/images/schema/taille-uterus3.png)
+
+<img class="img-fluid" src="/assets/images/schema/taille-uterus2.png" title="De quel fruit un utérus fait-il la taille ?">
+<img class="img-fluid" src="/assets/images/schema/taille-uterus3.png" title="L'utérus fait la taille d'une petite clémentine !">
+
 Eh oui, l’utérus est plus petit que ce que l’on s’imagine souvent : il mesure communément **7 centimètres de long** et **5 centimètres de large.**
 Il pèse seulement **50 grammes.**
 
@@ -22,3 +24,9 @@ Lors d’une grossesse, il se distend **jusqu’à avoir la taille d’une gross
 Il peut alors supporter jusqu’à **150 fois** son propre poids !
 
 Après une grossesse, l’utérus met en moyenne **2 mois et demi** pour retrouver sa taille initiale grâce à ses propres contractions qu’on appelle alors **les tranchées.**
+
+<div class="bg share">
+  <img src="/assets/images/photos/profil-loulou.png">
+  <p>Auteur : Louise</p>
+  <a href="https://www.instagram.com/tout_doux_malou/" class="rs-link"><img src="/assets/images/svg/instagram.svg"></a>
+</div>

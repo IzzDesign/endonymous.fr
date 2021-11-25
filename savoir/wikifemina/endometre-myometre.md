@@ -4,11 +4,11 @@ subtitle:
 title: Qu'est-ce que l'endomètre et le myomètre&nbsp;?
 category: WikiFemina
 subcategory: WikiFemina
-og_image: /assets/images/schema/myometre-endometre.png
+og_image: myometre-endometre.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/wikifemina.html
 articles:
-  - /wikifemina/taille-de-l-uterus.html
+  - /savoir/wikifemina/taille-de-l-uterus.html
   - /savoir/endo-dico.html
 ---
 Le **myomètre** est le muscle utérin. Il est considéré comme **l’un des plus puissants du corps féminin !**
@@ -19,3 +19,9 @@ Ses fibres sont extrêmement **flexibles** : le myomètre est capable de s’agr
 
 L’**endomètre** (ou dentelle utérine) est le **tissu cellulaire** qui constitue la paroi interne de l’utérus, il tapisse donc le **myomètre**.
 Il évolue tout au long du cycle en fonction des hormones ovariennes. Seule la couche superficielle sera éliminée pendant les règles (sauf s’il y a eu une fécondation bien sûr !), on dit alors qu’il **« desquame ».**
+
+<div class="bg share">
+  <img src="/assets/images/photos/profil-loulou.png">
+  <p>Auteur : Louise</p>
+  <a href="https://www.instagram.com/tout_doux_malou/" class="rs-link"><img src="/assets/images/svg/instagram.svg"></a>
+</div>

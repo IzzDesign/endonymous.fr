@@ -20,7 +20,7 @@ publish_date: 2021-06-29
   <div class="col-lg-6">
     <a href="{{ p.url }}" class="title-a hover-articles">
       <figure class="liens">
-        <img src="{{ p.og_image }}" class="img-fluid" alt="{{ p.alt_img }}" title="{{ p.title_img }}">
+        <img src="/assets/images/articles/{{ p.og_image }}" class="img-fluid" alt="{{ p.alt_img }}" title="{{ p.title_img }}">
         <h4>{{ p.title }}</h4>
       </figure>
     </a>
