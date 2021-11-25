@@ -1,0 +1,37 @@
+---
+layout: default
+title: Roman graphique
+og_image: /assets/images/cycle.png
+og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm text-center">
+      <div class="entete">
+        <div class="line"></div>
+        <span class="h2">{{ page.title }}</span>
+      </div>
+        <h2 class="title">sur l'endométriose</h2>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    {% assign sorted_articles = site.pages | sort: 'order' %}
+      {% for p in sorted_articles %}
+        {% if p.category == page.title %}
+          <div class="col-sm-6">
+            <a href="{{ p.url }}" class="lien-bd">
+              <figure class="bd">
+                <img src="/assets/roman-graphique/articles/{{ p.og_image }}.png" class="img-fluid" alt="{{ p.alt_img }}" title="{{ p.title_img }}">
+                <h4>{{ p.title }}</h4>
+                <figcaption class="img-dark-hover version-b">Lire</figcaption>
+              </figure>
+            </a>
+          </div>
+          {% endif %}
+        {% endfor %}
+  </div>
+</div>

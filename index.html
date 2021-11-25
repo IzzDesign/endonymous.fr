@@ -5,24 +5,40 @@ og_image: /assets/images/cycle.png
 ---
 
 <div class="container">
-  <div class="row bg clair">
+  <div class="row bg">
     <div class="col-sm-6">
-      <img src="/assets/roman-graphique/index-endonymous.png" class="img-fluid">
-    </div>
-    <div class="col-sm-6 text-upp">
       <div class="h1">
         <p>Le roman graphique</p>
         <span>qui parle</span>
         <p class="endo">d'endométriose</p>
       </div>
-      <div>
-        <div class="titre-bd">
-          <p>Partie 1</p>
-          <p>Le déni</p>
-        </div>
-      </div>
-      <a href="http://endonymous.fr" class="button dark bio">Lire</a>
+      <img src="/assets/roman-graphique/index-endonymous.png" class="img-fluid">
     </div>
+    <div class="col-sm-6">
+      <div>
+        <a href="/roman-graphique/partie-1-le-deni.html" class="lien-bd">
+          <figure class="bd">
+            <img src="/assets/roman-graphique/articles/partie1-deni.png">
+            <h4>Partie 1 Le Déni</h4>
+            <figcaption class="img-dark-hover version-b">Lire</figcaption>
+          </figure>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="row justify">
+    {% assign index-bd = site.pages | where: "category", "Roman graphique" %}
+      {% for p in index-bd offset:1 %}
+        <div class="col-lg-4">
+          <a href="{{ p.url }}" class="lien-bd">
+            <figure class="bd">
+              <img src="/assets/roman-graphique/articles/{{ p.og_image }}.png" class="img-fluid">
+              <h4>{{ p.title }}</h4>
+              <figcaption class="img-dark-hover version-a">Lire</figcaption>
+            </figure>
+          </a>
+        </div>
+      {% endfor %}
   </div>
     <div class="row">
       <div class="col-lg-12">
@@ -45,7 +61,7 @@ og_image: /assets/images/cycle.png
         <h3>Quelques lectures</h3>
       </div>
       <div class="col-lg-3">
-        <img src="assets/images/svg/livre.svg" class="img-fluid">
+        <img src="assets/images/svg/icones/livre.svg" class="img-fluid">
       </div>
         {% assign conseils_lectures = site.pages | where: "layout", "bibliography" | sort: "publish_date" | reverse %}
         {% for l in conseils_lectures limit: 3 %}
@@ -58,7 +74,7 @@ og_image: /assets/images/cycle.png
     </div>
     <div class="row">
       <div class="col-sm">
-        <div class="deco"><img src="/assets/images/svg/regles.svg" class="img-fluid sticker" alt="sticker regles" title="Règles Sticker"></div>
+        <div class="deco"><img src="/assets/images/svg/icones/regles.svg" class="img-fluid sticker" alt="sticker regles" title="Règles Sticker"></div>
         <h2>Que sont l'endométriose et l'adénomyose ?</h2>
         <p><a href="/savoir/endometriose.html">L’endométriose</a> et <a href="/savoir/adenomyose.html">l'adénomyose</a> sont des maladies de l’appareil reproducteur féminin. Il s'agit pour l'endométriose de cellules ressemblant à de <a data-toggle="popover" data-placement="top" data-trigger="hover" title="Endomètre" data-content="L'endomètre est la muqueuse de l'utérus. Ce tissu recouvre la paroi interne de l'utérus. Au début de chaque cycle menstruel, il s'épaissit et devient richement vascularisé pour pouvoir éventuellement accueillir un embryon lors de la nidation. Il est alors parfois appelé dentelle utérine. (Wikipédia)" class="pop">l'endomètre</a> qui vont se situer de manière anormale dans l'abdomen, sur l'utérus ou des organes environnants. Pour l'adénomyose, les lésions vont elles se situer de manière anormale dans le <a data-toggle="popover" data-placement="top" data-trigger="hover" title="Myomètre" data-content="Le myomètre est la couche musculeuse interne de la paroi utérine. (Wikipédia)" class="pop">myomètre</a>, qui est le muscle utérin. Maladie chronique en lien avec le cycle menstruel, un diagnostic d’endométriose peut prendre entre cinq et neuf ans. On ne guérit pas d’endométriose mais les traitements proposés peuvent permettre de diminuer voire d’éliminer les symptômes. La prise en charge peut se faire par une opération (<a data-toggle="popover" data-placement="top" data-trigger="hover" title="Laparoscopie" data-content="Examen endoscopique de la cavité abdominale et de son contenu. (Larousse)" class="pop">laparoscopie</a>) permettant d’exciser les lésions d’endométriose, ainsi que la mise sous ménopause artificielle (prise de pilule). La prise d’hormones permet dans la plupart des cas de calmer les symptômes mais peut apporter son lot d’effets secondaires. Après le diagnostic, les malades peuvent souvent ressentir qu'il y a un manque d'information sur leur maladie, entrainant une incompréhension de son fonctionnement et des bons réflexes et hygiène de vie pour limiter les douleurs au quotidien.</p>
       </div>

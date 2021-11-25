@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm text-center">
+      <div class="entete">
+        <div class="line"></div>
+        <span class="h2">{{ page.category }}</span>
+      </div>
+        <h2 class="title">{{ page.title }}</h2>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      <img src="/assets/roman-graphique/articles/{{ page.og_image }}.png" class="img-fluid" alt="{{ page.alt_img }}" title="{{ page.title_img }}">
+      {% include back.html variable="aux autres parties" %}
+      <div class="row">
+        {% assign previous-bd = site.pages | where: "category", "Roman graphique" %}
+        {% for p in previous-bd %}
+          {% if p.chapter < page.chapter %}
+            <a href="{{ p.url }}" class="liens-bd-mini">
+              <div class="col-lg-6 flex-row previous-bd">
+                <img src="/assets/roman-graphique/articles/{{ p.og_image }}-mini.png">
+                <div>
+                  <h4>{{ p.title }}</h4>
+                  <span>{{ p.publish_date }} <a href="">Roman graphique</a></span>
+                </div>
+              </div>
+            </a>
+          {% endif %}
+        {% endfor %}
+      </div>
+      {{ content }}
+      Coucou
+      {% include back.html variable="aux autres parties" %}
+    </div>
+  </div>
+  <div class="row">
+    {% assign previous-bd = site.pages | where: "category", "Roman graphique" %}
+    {% for p in previous-bd %}
+      {% if p.chapter > page.chapter %}
+        <a href="{{ p.url }}" class="next-bd-hover">
+          <div class="col-lg-6 flex-column">
+            <h4>Épisode suivant</h4>
+            <div class="next-bd">
+              <figure>
+                <img src="/assets/roman-graphique/articles/{{ p.og_image }}.png">
+                <figcaption class="img-dark-hover">Lire</figcaption>
+                <h4>{{ p.title }}</h4>
+                <p class="resum">{{ p.excerpt }}</p>
+                <p>{{ p.publish_date }}</p>
+                <a href="/roman-graphique/endometriose.html">Roman graphique</a>
+              </figure>
+            </div>
+          </div>
+        </a>
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  </div>
+  {% include profil.html %}
+  {% include button-newsletter.html %}
+</div>
