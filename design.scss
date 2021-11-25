@@ -38,26 +38,25 @@ body{
 	margin: 0 auto;
 }
 
-.h1{
+.baseline{
   text-align: center;
   line-height: 1.2em;
   color: $violet-matthieu;
   letter-spacing: 0;
-
   p{
   font-family: $font-comictitle;
-  font-size: 0.8em;
+  font-size: 1.9em;
   padding: 0;
   margin:0;
   line-height: 0.8em;
   }
   span{
-    font-size: 0.6em;
+    font-size: 1em;
     line-height: 0.8em;
     font-family: $font-comictitle;
   }
   p.endo{
-    font-size: 1.3em;
+    font-size: 1.9em;
     transform: rotate(-5deg);
     border-bottom: none;
     font-family: $font-comic;
@@ -80,7 +79,7 @@ body{
 }
 
 .images-uniformes img{width: 100%;}
-.container{display: flex;flex-direction: column;max-width: 950px;img{width: 100%}}
+.container{display: flex;flex-direction: column;max-width: 950px;}
 .widget{margin: 0 auto;}
 
 a{color:$violet-matthieu; text-decoration: underline; font-weight: 600;}
@@ -463,8 +462,8 @@ p > a.link{
 	padding:0.2em 0.2em;
 	background:
      linear-gradient(
-       to bottom, $violet-matthieu 0%,
-       $violet-matthieu 100%
+       to bottom, $violet-amelie 0%,
+       $violet-amelie 100%
      );
 	background-position: 0 100%;
 	background-repeat: repeat-x;
@@ -1098,6 +1097,28 @@ a.font-bd{font-family: $font-comic;font-weight: bold;}
 			&:hover{background-color: $violet-louise;}
 		}
 	}
+}
+
+.definition{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	p{
+		background-color: $violet-louise;
+		width: 80%;
+		padding:1em;
+		color: $violet-matthieu;
+		font-size: 1.1em;
+		text-align: center;
+	}
+	img{width: 20%;}
+}
+
+.articles-img{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	img{width: 50%; margin:0 1em 1em 1em;}
 }
 
 @keyframes imgappear{
