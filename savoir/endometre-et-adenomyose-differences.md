@@ -22,14 +22,14 @@ L’endométriose et l’adénomyose ont des similitudes dans leur caractéristi
 
 L’adénomyose se caractérise par la **présence anormale de [lésions](/endo-dico/lesions-endometriose.html) semblables à des cellules de l’endomètre dans le muscle utérin, le [myomètre](/endo-dico/myometre.html).** L’adénomyose reste donc contenue dans l’utérus.
 
-<figure>
+<figure class="schema">
   <img src="/assets/images/schema/adenomyose.png" class="img-fluid" alt="schéma uterus adenomyose maladie gynécologique lésion endomètre myomètre" title="Schéma d'un utérus avec de l'adénomyose">
   <figcaption>Schéma comparatif d'un utérus avec et sans adenomyose</figcaption>
 </figure>
 
 L’endométriose se caractérise par la **présence anormale de [lésions](/endo-dico/lesions-endometriose.html) semblables à des cellules de l’endomètre dans la cavité abdominale.** Ces lésions vont êtres présentes sur les [ovaires](/endo-dico/ovaires.html) ([endométriomes](/endo-dico/endometriome.html)), l’utérus,  mais également sur le système digestif, le péritoine et plus rarement sur le système urinaire, le diaphragme, les poumons…
 
-<figure>
+<figure class="schema">
   <img src="/assets/images/schema/endometriose-schema.png" class="img-fluid" alt="schéma uterus endometriose maladie gynécologique lésion abdomen femme" title="Schéma d'un abdomen avec de l'endométriose">
   <figcaption>Schéma d'un abdomen avec des lésions d'endométriose</figcaption>
 </figure>
@@ -92,8 +92,7 @@ Les risques d'avoir de l'adénomyose augmentent chez les femmes ayant eut des op
 - **Douleurs pelviennes**
 - **Fatigue**
 - **Métrorragie :** saignements utérins survenant entre les périodes de règles
-
-  <h4>Sources</h4>
+<h4>Sources</h4>
   <ul class="ul-list">
     <li class="list"><a href="https://www.endofrance.org/la-maladie-endometriose/adenomyose-endometriose/">Qu’est-ce que l’Adénomyose ? | EndoFrance</a></li>
     <li class="list"><a href="https://www.em-consulte.com/article/1048557/histoire-de-l-endometriose-de-l-antiquite-a-nos-jo">Histoire de l’endométriose de l’Antiquité à nos jours par Éric Petit</a></li>

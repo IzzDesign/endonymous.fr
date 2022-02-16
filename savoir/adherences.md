@@ -22,7 +22,7 @@ Certains cas d’endométriose sont plus inflammatoires que d’autres et vont d
 
 ### Que sont les adhérences ?
 Il s’agit d’un **tissu fibreux** pouvant ressembler à une **toile d’araignée** et pouvant enserrer les organes et les relier entre eux. Elles vont de ce fait rendre les viscères moins mobiles et pouvoir à terme entraîner des **douleurs parfois projetées** et des **dysfonctionnements**.
- <figure>
+ <figure class="schema">
     <img src="/assets/images/schema/adherences.png" class="img-fluid" alt="schéma uterus endométriose endometriose maladie gynécologique adherences" title="Illustration d'un utérus avec des adhérences">
     <figcaption>Illustration d'un utérus avec des adhérences</figcaption>
   </figure>

@@ -51,12 +51,10 @@ S’il y a eu fécondation, c’est à dire que l’ovule est fécondé par un s
 #### J25 à 28 : Chute hormonale
 Si l’ovule n’a pas été fécondé ou si l’implantation n’a pas eu lieu, la mort cellulaire du corps jaune induira la chute des hormones. Les cellules de l’endomètre cessent de recevoir la progestérone diffusée par le corps jaune, provoquant **l’évacuation de la dentelle utérine** : ce sont les règles. Ainsi, un nouveau **cycle** débute.
 **La chute des hormones œstrogéniques et progestatives** juste avant les règles va induire chez près de 80% des femmes des **troubles physiques** (rétention d’eau, mastodynies, céphalées, ballonnement,...) et **psychiques** (envie de sucreries, irritabilité, humeur dépressive). Chez 30% des femmes, on parle de **syndrôme prémenstruel** (SPM) car les symptômes sont beaucoup plus sévères et dans 5% des cas, ils sont handicapant se répercutant sur la vie familiale et professionnelle, il s'agit alors de **dysphorie prémenstruelle** (ou premenstrual dysphoric disorder = PMDD).
-<div class="col-sm-8 offset-sm-2">
-  <figure>
-    <img src="/assets/images/schema/cycle.png" class="img-fluid" alt="schema cycle menstruel ovarien uterin taux hormonaux hypophyse endomètre ovule ovaire lh oœstrogenes progesterone fsh" title="Schéma du cycle menstruel et des différents changements hormonaux et physiques">
-    <figcaption>Schéma cycle menstruel</figcaption>
-  </figure>
-</div>
+<figure class="schema">
+  <img src="/assets/images/schema/cycle.png" class="img-fluid" alt="schema cycle menstruel ovarien uterin taux hormonaux hypophyse endomètre ovule ovaire lh oœstrogenes progesterone fsh" title="Schéma du cycle menstruel et des différents changements hormonaux et physiques">
+  <figcaption>Schéma cycle menstruel</figcaption>
+</figure>
 <div class="col-sm-10 offset-sm-1 sources">
   <h4>Sources</h4>
   <ul class="ul-list">

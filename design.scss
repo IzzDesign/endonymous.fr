@@ -7,12 +7,11 @@ $violet-clotilde: #4A3359;
 $violet-amelie: #B09DBC;
 $violet-louise: #D8CBDF;
 $violetclair: #F9F0FF;
-$font:#626262;
+$font:#1D1D1D;
 $body-font:'Lato',sans-serif;
 $title-font:'Exo', sans-serif;
 $font-comictitle:"helsinkiregular",serif;
 $font-comic:"Dinomik",cursive;
-$font-comic:"", cursive;
 
 html{
 	scroll-behavior: smooth;
@@ -24,6 +23,8 @@ body{
 	min-height: 100vh;
 	display: flex;
 	flex-direction: column;
+	::-moz-selection { background-color: $violet-louise;}
+  ::selection { background-color: $violet-louise; }
 	p{line-height: 1.8em;}
 }
 
@@ -41,7 +42,7 @@ body{
 .baseline{
   text-align: center;
   line-height: 1.2em;
-  color: $violet-matthieu;
+  color: #5D5D5D;
   letter-spacing: 0;
   p{
   font-family: $font-comictitle;
@@ -60,7 +61,9 @@ body{
     transform: rotate(-5deg);
     border-bottom: none;
     font-family: $font-comic;
+    font-weight: bold;
     text-transform: lowercase;
+    color: #E2BD81;
   }
 }
 
@@ -117,6 +120,72 @@ a:hover{text-decoration: none;color: $violet-matthieu;font-weight: 600;}
 	.intern{display: none;}
 }
 
+.options-bd{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	gap: 10px;
+	height: 400px;
+}
+
+.lien-bd-index{
+	display: flex;
+	flex-direction: column;
+	flex: 10%;
+	height: 400px;
+	background-color: $violet-amelie;
+	border-radius: 50px;
+	overflow: hidden;
+	text-decoration: none;
+	background:var(--optionBackground, var(--defaultBackground, #E6E9ED));
+	background-size:auto 120%;
+	background-position:center;
+
+	transition:.5s cubic-bezier(0.05, 0.61, 0.41, 0.95);
+	.number{
+		background-color: white;
+		display:flex;
+		flex-direction:row;
+		justify-content:center;
+		align-items:center;
+		position: relative;
+		bottom: 15px;
+		left: 50%;
+  	transform: translate(-50%);
+
+		min-width:40px;
+		max-width:40px;
+		height:40px;
+		border-radius:100%;
+	}
+	.number p{
+		font-family: $font-comic;
+		transform: translateY(25%);
+	}
+	&:hover{
+		flex: 40%;
+		.label {
+			.info >div {
+			  opacity:1;
+			}
+		}
+	}
+	&:first-child{
+	flex: 40%;
+	}
+
+	.label {
+		display: flex;
+		flex-direction: column;
+		height: 100%;
+		justify-content: space-between;
+		.info >div {
+		  left:20px;
+		  opacity:0;
+		}
+	}
+}
+
 h1,h2,h3,h4,h5,span.h2,p.classie,p.h1,.presse .header span,{color:$violet-matthieu;margin-top:2em;text-align: center;font-family: 'Exo', serif; letter-spacing: 0.15em; text-transform: uppercase;}
 p.classie{margin-top: 0;}
 b.big{text-decoration: underline;font-size: 1.2em;}
@@ -138,7 +207,7 @@ h2{position: inherit;}
 
 h2.title{margin-top: 0.2em;}
 h4{
-	margin: 1.2em 0;
+	margin: 1.6em 0;
 	&.list{font-size:1em; text-align:center;}
 }
 h5{font-size: 1.1em; text-align: left;}
@@ -234,14 +303,14 @@ h2:after,.presse h1:after{
 }
 
 a.title-a {text-decoration: none;}
-h3{font-size: 1.6em;}
+h3{font-size: 1.6em; margin: 3em 0 2em 0;}
 h3:after{
 	content: url('assets/images/svg/h3.svg');
 	display: block;
 	margin: 0 auto;
 	width: 100px;
 }
-p{line-height: 1.8em;font-size: 1.1em;}
+p{font-size: 1.3em;}
 .strong{
 	margin: 1.5em 0;
 	text-align: center;
@@ -255,7 +324,7 @@ p{line-height: 1.8em;font-size: 1.1em;}
 		}
 }
 
-ul{list-style: square;li{font-weight: 400;font-size: 1.1em;line-height: 1.5em;}}
+ul{list-style: square;li{font-weight: 400;font-size: 1.3em;line-height: 1.5em;}}
 
 .bg{
 	font-family: 'Exo', sans-serif;
@@ -402,7 +471,7 @@ a.button, input.button, figcaption{
 
 a.lien-bd{
 	text-decoration: none;
-	h4{margin-top: 1em;font-size: 1.3em;}
+	h4{margin-top: 1em;font-size: 1.3em;color: $font;}
 	.bd figcaption{
 		cursor: pointer;
 		display: inline-flex;
@@ -415,34 +484,37 @@ a.lien-bd{
 		font-weight: 300;
 		font-family: $font-comic;
 		position:absolute;
-		border: 2px solid white;
-		color: white;
-		background-color:$violet-matthieu;
+		border: 2px solid $font;
+		color: $font;
+		background-color: white;
+		font-weight: bold;
+		letter-spacing: 0.1em;
 		transition: all 0.4s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
 		&.version-a{
 			top: 30%;
-			left: 35%;
+			left: 37%;
 		}
 		&.version-b{
 			top: 35%;
 			left: 39%;
+			font-size: 1.3em;
 		}
 	}
 	&:hover, &:focus, &:focus-within{
-		.bd h4{color: $violet-amelie;}
+		.bd h4{color: $violet-clotilde;}
 		.bd figcaption{
 			text-shadow: none;
 			text-decoration: none;
 			border:none;
 			padding:0.5em 1.5em;
-			font-weight: 300;
+			font-weight: bold;
 			background:
 				linear-gradient(
-			       to bottom, $violet-amelie 0%,
-			       $violet-amelie 100%
+			       to bottom, $violet-louise 0%,
+			       $violet-louise 100%
 			     );
 				&.version-a{
-					left: 32%;
+					left: 35%;
 				}
 				&.version-b{
 					left: 37%;
@@ -483,7 +555,7 @@ ul.ul-list{
 	padding:0;
 	li{
 		line-height: 1.2em;
-		font-size: 1.1em;
+		font-size: 1.3em;
 		margin: 1em 0;
 		a, a:hover{font-weight: 300;}
 		&.list:before{
@@ -491,13 +563,17 @@ ul.ul-list{
 		}
 	}
 }
-figure{text-align: center;}
-figure figcaption{
+figure.schema{
+	text-align: center;
+	img{
+		width: 60%;
+	}
+	figcaption{
 	font-family: 'Exo', sans-serif;
-	font-size: 1.4em;
+	font-size: 1.2em;
 	color:$violet-matthieu;
 	text-align: center;
-	margin-top: 0.5em;
+	}
 }
 
 a.footnote{font-weight: 700; color: $violet-matthieu;text-decoration: underline;}
@@ -610,6 +686,7 @@ figure.liens, .previous-bd{
 a.hover-articles{
 	text-decoration: none;
 	h4{
+		margin: 0.3em 0;
 		background:
 	     linear-gradient(
 	       to bottom, $violet-matthieu 0%,
@@ -658,28 +735,30 @@ a.next-bd-hover{
 	&:hover{
 		figcaption{
 			padding: 0.5em 1.5em;
-			left: 37%;
+			left: 40%;
 			border: none;
 			background:
 				linear-gradient(
-			       to bottom, $violet-amelie 0%,
-			       $violet-amelie 100%
+			       to bottom, $violet-louise 0%,
+			       $violet-louise 100%
 			     );
 		}
 	}
 }
 a.next-bd-hover{text-decoration: none;}
 .next-bd{
+	text-align: center;
 	border-radius:25px;
 	background-color: $violet-matthieu;
 	margin-bottom: 1em;
 	img{border-top-right-radius: 25px; border-top-left-radius: 25px;}
 	.resum{font-weight: 300;padding: 1em;}
 	figcaption{
+		font-size: 1.4em;
 		position:absolute;
 		color: white;
-		top: 30%;
-		left: 40%;
+		top: 35%;
+		left: 42%;
 		border: 2px solid white;
 		padding: 0.5em 1em;
 		text-transform: uppercase;
@@ -696,14 +775,15 @@ a.next-bd-hover{text-decoration: none;}
 }
 
 .bg-cute{
-	height: 200px;
+	min-height: 200px;
 	display: block;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
 	background-size: cover;
 	background-image: url('/assets/roman-graphique/background-endonymous.png');
 	.profil{
 		background-color:white;
-		position:relative;
-		top: 18%;
 		width: 60%;
 		margin: 0 auto;
 		padding: 0.1em 0.5em;
@@ -735,6 +815,13 @@ a.next-bd-hover{text-decoration: none;}
 			letter-spacing: 0.25em;
 		}
 	}
+}
+
+.intro{
+	font-size: 1.4em;
+	color: $violet-matthieu;
+	line-height: 1.8em;
+	font-family: 'Exo';
 }
 
 figure.cycle{
@@ -801,7 +888,7 @@ blockquote:after{
 		text-decoration: underline;
 	}
 	p{
-		font-size: 1.1em;
+		font-size: 1.3em;
 		padding-top: 0.5em;
 	}
 }
@@ -858,7 +945,7 @@ blockquote:after{
 	font-family: 'Exo';
 	line-height: 1.5em;
 	letter-spacing: 0.2em;
-	font-size: 1.1em;
+	font-size: 1.2em;
 	padding:1em;
 	}
 	p:before{
@@ -1101,15 +1188,13 @@ a.font-bd{font-family: $font-comic;font-weight: bold;}
 
 .definition{
 	display: flex;
-	flex-direction: column;
-	align-items: center;
+	flex-direction: row;
+	justify-content: center;
 	p{
-		background-color: $violet-louise;
-		width: 80%;
-		padding:1em;
+		width: 70%;
+		padding:2em;
 		color: $violet-matthieu;
-		font-size: 1.1em;
-		text-align: center;
+		font-size: 1.3em;
 	}
 	img{width: 20%;}
 }
@@ -1119,6 +1204,25 @@ a.font-bd{font-family: $font-comic;font-weight: bold;}
 	flex-direction: row;
 	justify-content: center;
 	img{width: 50%; margin:0 1em 1em 1em;}
+}
+
+.bd-inside{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	img{
+		width: 70%;
+		margin: 2.5em 0;
+	}
+	p{
+		font-family: $font-comic;
+		text-align: center;
+		color: black;
+		width: 70%;
+		font-size: 1.8em;
+		line-height: 1.2em;
+		margin-top: 1em;
+	}
 }
 
 @keyframes imgappear{
@@ -1216,4 +1320,11 @@ a.font-bd{font-family: $font-comic;font-weight: bold;}
 		p{margin: 0 auto; color: $violet-matthieu; &:before, &:after{color: $violet-matthieu;}} h4{color: $violet-matthieu;}}
 		.resum{font-size:0.9em;}
 	.deco-mini{display: block;}
+	.bd-inside{
+		img{width: 100%;margin: 2em 0;}
+		p{width: 95%; font-size: 1.4em;}
+		}
+	.bg-cute .profil{
+		width: 90%;
+		}
 	}

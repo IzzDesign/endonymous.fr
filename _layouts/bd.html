@@ -35,8 +35,7 @@ layout: default
           {% endif %}
         {% endfor %}
       </div>
-      {{ content }}
-      Coucou
+        {{ content }}
       {% include back.html variable="aux autres parties" %}
     </div>
   </div>
@@ -45,7 +44,7 @@ layout: default
     {% for p in previous-bd %}
       {% if p.chapter > page.chapter %}
         <a href="{{ p.url }}" class="next-bd-hover">
-          <div class="col-lg-6 flex-column">
+          <div class="col-lg-8 flex-column">
             <h4>Épisode suivant</h4>
             <div class="next-bd">
               <figure>

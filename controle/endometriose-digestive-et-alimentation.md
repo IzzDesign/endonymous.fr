@@ -16,7 +16,7 @@ redirect_from:
   - /article/endometriose-digestive-et-alimentation.html
 publish_date: 2020-03-27
 ---
-Sans être un remède miracle, contrôler son alimentation et éviter certains aliments inflammatoires peuvent grandement aider à soulager vos troubles digestifs et diminuer l'inflammation chronique causée par l'endométriose, peut-être une nouvelle motivation pour renoncer à la «petite» fondue du Nouvel an ou au super croissant du dimanche matin ?
+<p class="intro">Sans être un remède miracle, contrôler son alimentation et éviter certains aliments inflammatoires peuvent grandement aider à soulager vos troubles digestifs et diminuer l'inflammation chronique causée par l'endométriose, peut-être une nouvelle motivation pour renoncer à la «petite» fondue du Nouvel an ou au super croissant du dimanche matin ?</p>
 
 ### Les symptômes de l'endométriose digestive
 Comme mentionné dans mon article sur les [symptômes de l'endométriose](/article/2018/10/14/l-endometriose-symptomes.html), les lésions d’endométriose peuvent se retrouver sur plusieurs organes digestifs, généralement sur le rectum, le côlon (sigmoïde) et l’intestin grêle, et plus rarement sur l’appendice, le foie, la rate, l’estomac, le péritoine, …
@@ -49,8 +49,6 @@ Pour faire simple, l’endométriose va provoquer des phénomènes inflammatoire
     </a>
   </div>
 </div>
-
-Sans être un remède miracle, contrôler son alimentation et **éviter certains aliments inflammatoires** peuvent grandement aider à soulager vos troubles digestifs et diminuer cette inflammation chronique, peut-être une nouvelle motivation pour renoncer à la _petite_ fondue du Nouvel an ou au super croissant du dimanche matin ?
 
 Pour ma propre expérience, je suis allée voir une **diéteticienne et naturopathe** pour qu’elle m’accompagne dans ce changement que je n’arrivais pas à effectuer seule voici une petite liste simplifiée de ce que j’ai changé dans mon alimentation :
 - Bannir la viande rouge.

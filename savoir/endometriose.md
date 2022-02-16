@@ -19,7 +19,7 @@ redirect_from:
 
 Pour avoir une approche plus complète, voir l’article sur le <a href="/savoir/cyclemenstruel.html" class="link">cycle menstruel</a>.
 
-**L’endométriose** est une **maladie de l’appareil reproducteur féminin**. Il s’agit d’une **anomalie du tissu endométrial, ou endomètre**, qui est la muqueuse interne de l’utérus.
+<p class="intro"><b>L’endométriose</b> est une <b>maladie de l’appareil reproducteur féminin</b>. Il s’agit d’une <b>anomalie du tissu endométrial, ou endomètre</b>, qui est la muqueuse interne de l’utérus.</p>
 
 L’[endomètre](/savoir/endo-dico/endometre.html), c’est la muqueuse interne de l’utérus. Suivant le cycle menstruel – et donc les hormones associées – cette muqueuse va s’épaissir dans le but d’accueillir un embryon. En fin de cycle, quand il n’y a pas eu de fécondation, l’endomètre épaissi se désagrège : ce sont les règles.
 
@@ -37,7 +37,7 @@ Certains nodules d’endométriose vont également pouvoir développer leur prop
 L’atteinte par une endométriose est évaluée selon le score AFSR, on parle alors de différentes **stades**. Ces stades ne rendent pas compte de la manière dont les endométriosiques expérimentent les symptômes et les douleurs, un stade quatre considéré comme sévère pourra être asymptomatique alors qu’un stade un peut être considéré comme léger mais très douloureux et vice versa.
 On peut également parler de **lésions superficielles**, il s’agit de lésions qui ne pénètrent pas profondément sous la surface des organes tandis que les **lésions profondes** dépassent 5 mm d’infiltration sous les organes.
 Ces différents stades d’endométriose sont souvent utilisés par les médecins. Ils prennent en compte la localisation des lésions et leur étendues dans la cavité abdominale, la profondeur des lésions, la présence et la taille d’endométriomes, et la présence et la sévérité des adhésions. Voici quelques schémas pour comprendre la classification.
-  <figure>
+  <figure class="schema">
     <img src="/assets/images/schema/stades.png" class="img-fluid" alt="schema endometriose stades adherence uterus, colon vessie lesions endometriome" title="Les quatres stades d'endométriose">
     <figcaption>Les quatre stades d'endométriose</figcaption>
   </figure>
@@ -60,7 +60,7 @@ Entre autres, deux des théories les plus utilisées sont la **théorie du reflu
     <a href="/savoir/theories.html" class="hover-articles title-a">
       <figure class="liens">
         <img src="/assets/images/articles/theories.png" class="img-fluid">
-        <h4>Qu'est-ce que l'adénomyose ?</h4>
+        <h4>Les théories de développement de l'endométriose</h4>
       </figure>
     </a>
   </div>
@@ -76,7 +76,7 @@ Les cellules d'endométrioses sont dysfonctionnelles, de ce fait comment ces cel
 Perturbateurs endocriniens, pollution, produits chimiques,… autant de causes qui pourraient expliquer un dysfonctionnement dans l'organisme des femmes atteintes d'endométriose. Par exemple le cas de la **dioxine** - toxine présente dans les tampons - a été soulevé mais rien de probant n'a pu mettre en cause cette toxine. On pourrait néanmoins soupçonner **l'impact de certaines expositions chimiques** sur l'intégrité génétique.
 
 #### Facteurs génétiques
-Depuis quelques années, la recherche s'est penchée sur **l'identification de gènes** pouvant être impliqués dans l'apparition de l'endométriose. Les études ont pu identifier plusieurs familles de gènes candidats dont les variations génétiques sont associées à cette maladie. Parmi ces familles, on retrouve les gènes impliqués dans l’inflammation, la régulation des hormones stéroïdes, le métabolisme, la biosynthèse, la détoxification, la fonction vasculaire et le remodelage tissulaire[^immu]. Pour chaque variation à "risque", une femme aura 10 à 30% de probabilité de développer cette maladie.
+Depuis quelques années, la recherche s'est penchée sur **l'identification de gènes** pouvant être impliqués dans l'apparition de l'endométriose. Les études ont pu identifier plusieurs familles de gènes candidats dont les variations génétiques sont associées à cette maladie. Parmi ces familles, on retrouve les gènes impliqués dans l’inflammation, la régulation des hormones stéroïdes, le métabolisme, la biosynthèse, la détoxification, la fonction vasculaire et le remodelage tissulaire. Pour chaque variation à "risque", une femme aura 10 à 30% de probabilité de développer cette maladie.
 
 Pour aller plus loin des chercheurs de l'INSERM ont mis en place une étude concernant exclusivement des patientes présentant des **endométriomes ovariens** - kystes d'endométriose. L’ADN des cellules d'endométriomes des patientes a été comparé avec l’ADN des cellules de leur endomètre. Les deux ADN comportent des différences qui associées à des **variations de l'enzyme DNMT3L**. Une de ces variations de l'enzyme DNMT3L **multiplie par sept** le risque de développer de l'endométriose. La présence de cette variation de l’enzyme pourraient à l'avenir fournir des **outils de diagnostic** pour détecter plus efficacement cette affection chronique.
 
@@ -88,7 +88,7 @@ Le mécanisme de fonctionnement de l'endométriose de par son **invasion** de ce
   <div class="col-lg-6 offset-lg-3">
     <a href="/savoir/l-endometriose-symptomes.html" class="hover-articles title-a">
       <figure class="liens">
-        <img src="/assets/images/articles/endometriose-symptomes" class="img-fluid">
+        <img src="/assets/images/articles/ai-je-de-l-endometriose.png" class="img-fluid">
         <h4>Ai-je de l'endométriose ?</h4>
       </figure>
     </a>
