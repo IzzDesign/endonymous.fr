@@ -7,51 +7,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-
-    <link href="https://fonts.googleapis.com/css?family=Lato:wght@400;700|Exo:400,500|PT+Serif:400,700&amp;display=swap" rel="stylesheet">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="/design.css">
     {% include metadonnees.html %}
+    <link rel="stylesheet" href="/design.css">
     {% include font.html %}
 
     {% if page.canonical_url %}
       <link rel="canonical" href="{{ page.canonical_url }}" />
     {% endif %}
-
-    <!-- Sendinblue -->
-    <style>
-      #sib-container input:-ms-input-placeholder {
-        text-align: left;
-        font-family: "Exo", sans-serif;
-        color: #c0ccda;
-      }
-
-      #sib-container input::placeholder {
-        text-align: left;
-        font-family: "Exo", sans-serif;
-        color: #c0ccda;
-      }
-
-      #sib-container textarea::placeholder {
-        text-align: left;
-        font-family: "Exo", sans-serif;
-        color: #c0ccda;
-      }
-    </style>
     <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
 
     <title>
-        {% if page.title == "Home" %}
-            {{site.title}} &middot; {{site.second_title}}
+      {% if page.title == "Home" %}
+          {{site.title}} &middot; {{site.second_title}}
+      {% else %}
+        {% if page.second_title %}
+          {{page.title}} &middot; {{page.second_title}}
         {% else %}
-          {% if page.second_title %}
-            {{page.title}} &middot; {{page.second_title}}
-          {% else %}
-            {{page.title}} &middot; {{site.title}}
-          {% endif %}
+          {{page.title}} &middot; {{site.title}}
         {% endif %}
+      {% endif %}
     </title>
   </head>
   <body>

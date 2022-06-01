@@ -40,18 +40,23 @@ L’endométriose se caractérise par la **présence anormale de [lésions](/end
 
 Ces deux pathologies ont des similitudes, au point d’appeler **l’adénomyose : une endométriose interne.** Pendant plusieurs décennies elles ont portées le même nom. Quelle est l’histoire de ces deux maladies ?
 
+#### 1860 : Infertilité et douleurs
 Il existe depuis l’Antiquité une description symptomatologique de ces maladies avec une infertilité et des douleurs abdominales lors des menstruations. C’est **en 1860** que le pathologiste **Carl von Rokitansky** observe des lésions dans le myomètre, pathologie qui sera plus tard appelée adénomyose.
 
 Carl von Rokitansky émet également la supposition qu’il est **possible de trouver des lésions sur les ovaires et l’utérus, décrivant l’endométriose.** À l’époque, Rokitansky regroupe ces pathologies sous le nom **d’«adenomyoma».**
 
+#### 1899 : Kystes d'endométriose
 **Les premières descriptions dans la littérature scientifique des kystes d’endométriose ont lieu à la fin du 19ème siècle,** on leur donne déjà à l’époque le nom de **« kystes chocolat »** ou bien d’ **« hématomes de l’ovaire »**. La première observation d’un **« ovaire contenant de la muqueuse utérine »** est publiée par **Russel en 1899.**
 
+#### 1903 : Lésions endométriales dans l'abdomen et sur les nerfs pelviens
 Au début du 20ème siècle, la reconnaissance de ces maladies est toujours faible, les femmes atteintes sont souvent diagnostiquées avec **des troubles mentaux.** En **1903, Thomas Cullen** fait avancer la connaissance de ces maladies en publiant l’observation de **22 cas de personnes atteintes** de lésions **« d’origine endométriales »** dans le bas de l’abdomen.
 
 Cullen est un des premiers à décrire l’envahissement des nerfs pelviens par les lésions, validant le caractère symptomatique douloureux de la maladie. Il a été un des premiers à reconnaître que l’hystérectomie totale n’était pas garante de guérison. En 1908, il publie ses travaux sous le nom d’ « Adénomyomes de l’utérus ».
 
+#### 1925 : Adénomyose
 En **1925, Frankl** créé le nom d’adénomyose (**« adenomyosis uteri »**) pour décrire l’invasion de la muqueuse utérine dans le muscle utérin.
 
+#### 1927 : Endométriose
 **En 1927, Sampson** propose le terme d’endométriose pour décrire une migration des cellules de l’endomètre dans la cavité abdominale. Il expose ainsi la [Théorie des menstruations rétrogrades](/savoir/theories.html) expliquant la formation de ces lésions par la présences de cellules de l’endomètre remontant dans les Trompes de Fallope lors des règles.
 
 De nos jours, on ne connaît pas encore l’origine de l’endométriose, même s’il existe plusieurs théories sur le sujet, aucune n’explique parfaitement les différentes lésions.
@@ -61,14 +66,15 @@ De nos jours, on ne connaît pas encore l’origine de l’endométriose, même 
 Ces deux maladies vont entrainer pour les femmes touchées une **difficulté à tomber enceinte**, **de la fatigue**, des **règles hémorragiques** ainsi que des **douleurs pelviennes et sexuelles importantes.**
 Elles ne touchent cependant pas le même profil de femmes et ont des différences pour certains symptômes.
 
-#### En général les femmes diagnostiquées avec une endométriose sont :
+#### Endométriose
+##### En général les femmes diagnostiquées avec une endométriose sont :
 - **jeunes**
 - ont des **cycles menstruels courts (> 27 jours)**
 - ont des **menstruations hémorragiques et longues (> 7 jours)**
 - ont **commencé leur puberté avant 12 ans**
 - ont un **historique de cas d'endométriose chez leurs proches** (mères, tantes, sœurs…)
 
-#### Les symptômes avec une endométriose sont :
+##### Les symptômes avec une endométriose sont :
 - **Dysménorrhées :** douleurs pendant les règles
 - **Dyspareunie :** douleurs à la pénétration
 - **Dyschésie :** difficulté d'aller à la selle et douleurs ainsi que des troubles digestifs
@@ -79,31 +85,32 @@ Elles ne touchent cependant pas le même profil de femmes et ont des différence
 - **Douleurs neuropathiques**
 - fatigue, nausées, et diarrhées, particulièrement pendant les règles
 
-#### Les femmes diagnostiquées avec une adénomyose sont statistiquement :
+#### Adénomyose
+##### Les femmes diagnostiquées avec une adénomyose sont statistiquement :
 - **plus âgées** (40 ans ou plus)
 - ont eu **un ou plusieurs enfants**
 Les risques d'avoir de l'adénomyose augmentent chez les femmes ayant eut des opérations de l'utérus tel que le **curetage biopsique** (dilatation de l'orifice du col de l'utérus pour prélever un petit échantillon de tissus de l'endomètre) qui peuvent être accompli dans le cadre d'un **diagnostic des lésions touchant l'utérus** : polypes de l'utérus, hyperplasie de la muqueuse utérine, cancer de l'utérus ou bien après une fausse-couche.
 
-#### Les symptômes avec une adénomyose sont :
+##### Les symptômes avec une adénomyose sont :
 - **Dysménorrhées :** douleurs pendant les règles
 - **Dyspareunie :** douleurs à la pénétration
 - **Hypertrophie de l'utérus** qui peut voir sa taille doubler ou tripler ainsi qu'un épaississement de la paroi utérine. L'utérus peut alors appuyer sur la vessie ou le rectum et causer des **douleurs et envie d'uriner fréquentes.**
 - **Infertilité** avec une augmentation du risque de fausse-couche sans-doute causées par les altérations du muscle utérin.
 - **Douleurs pelviennes**
 - **Fatigue**
-- **Métrorragie :** saignements utérins survenant entre les périodes de règles
-<h4>Sources</h4>
-  <ul class="ul-list">
-    <li class="list"><a href="https://www.endofrance.org/la-maladie-endometriose/adenomyose-endometriose/">Qu’est-ce que l’Adénomyose ? | EndoFrance</a></li>
-    <li class="list"><a href="https://www.em-consulte.com/article/1048557/histoire-de-l-endometriose-de-l-antiquite-a-nos-jo">Histoire de l’endométriose de l’Antiquité à nos jours par Éric Petit</a></li>
-    <li class="list"><a href="https://pubmed.ncbi.nlm.nih.gov/24853333/">The history of endometriosis</a></li>
-    <li class="list"><a href="https://pubmed.ncbi.nlm.nih.gov/16515887/">History of adenomyosis</a></li>
-    <li class="list"><a href="https://endonymous.fr/article/l-endometriose-symptomes.html">Ai-je de l'endométriose | Endonymous</a></li>
-    <li class="list"><a href="https://www.fiv.fr/adenomyose-pma-fiv/">Adénomyose : diagnostic,conséquences et traitement | Fiv.fr</a></li>
-    <li class="list"><a href="https://womenspavilionms.com/blogs/endometriosis/knowing-the-difference-between-endometriosis-adenomyosis/">Knowing the Difference Between Endometriosis & Adenomyosis</a></li>
-    <li class="list"><a href="https://www.webmd.com/women/endometriosis/women-endometriosis-vs-adenomyosis">Differences Between Endometriosis and Adenomyosis</a></li>
-    <li class="list"><a href="https://www.healthline.com/health/womens-health/adenomyosis-vs-endometriosis#causes">Endometriosis vs. Adenomyosis: Similarities and Differences</a></li>
-    <li class="list"><a href="https://www.msdmanuals.com/fr/professional/gyn%C3%A9cologie-et-obst%C3%A9trique/divers-troubles-gyn%C3%A9cologiques/ad%C3%A9nomyose-ut%C3%A9rine">Adénomyose utérine | Le manuel MSD</a></li>
-    <li class="list"><a href="https://www.chuliege.be/jcms/c2_17204682/fr/institut-de-cancerologie-arsene-burny/le-curetage-biopsique">Le curetage biopsique </a></li>
-    <li class="list"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3859152/">Adenomyosis: Epidemiology, Risk Factors, Clinical Phenotype and Surgical and Interventional Alternatives to Hysterectomy</a></li>
-  </ul>
+- **Métrorragie :** saignements utérins survenant entre les périodes de règles.
+
+## Sources
+
+* [Qu’est-ce que l’Adénomyose ? - EndoFrance](https://www.endofrance.org/la-maladie-endometriose/adenomyose-endometriose/)
+* [Histoire de l’endométriose de l’Antiquité à nos jours par Éric Petit](https://www.em-consulte.com/article/1048557/histoire-de-l-endometriose-de-l-antiquite-a-nos-jo)
+* [The history of endometriosis](https://pubmed.ncbi.nlm.nih.gov/24853333/)
+* [History of adenomyosis](https://pubmed.ncbi.nlm.nih.gov/16515887/)
+* [Ai-je de l'endométriose - Endonymous](https://endonymous.fr/article/l-endometriose-symptomes.html)
+* [Adénomyose : diagnostic,conséquences et traitement - Fiv.fr](https://www.fiv.fr/adenomyose-pma-fiv/)
+* [Knowing the Difference Between Endometriosis & Adenomyosis](https://womenspavilionms.com/blogs/endometriosis/knowing-the-difference-between-endometriosis-adenomyosis/)
+* [Differences Between Endometriosis and Adenomyosis](https://www.webmd.com/women/endometriosis/women-endometriosis-vs-adenomyosis)
+* [Endometriosis vs. Adenomyosis: Similarities and Differences](https://www.healthline.com/health/womens-health/adenomyosis-vs-endometriosis#causes)
+* [Adénomyose utérine - Le manuel MSD](https://www.msdmanuals.com/fr/professional/gyn%C3%A9cologie-et-obst%C3%A9trique/divers-troubles-gyn%C3%A9cologiques/ad%C3%A9nomyose-ut%C3%A9rine)
+* [Le curetage biopsique ](https://www.chuliege.be/jcms/c2_17204682/fr/institut-de-cancerologie-arsene-burny/le-curetage-biopsique)
+* [Adenomyosis: Epidemiology, Risk Factors, Clinical Phenotype and Surgical and Interventional Alternatives to Hysterectomy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3859152/)

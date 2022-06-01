@@ -3,29 +3,13 @@ layout: default
 ---
 
 <div class="container">
-  <div class="row">
-    <div class="col-sm text-center">
-      <div class="entete">
-        <div class="line"></div>
-        <span class="h2">{{ page.category }}</span>
-      </div>
-        <h2 class="title">{{ page.theme }}</h2>
-    </div>
+  <div class="entete">
+    <span class="h2">Bibliographie</span>
+    <h2 class="title">{{ page.title }}</h2>
   </div>
-</div>
-
-<div class="container">
-  <div class="row">
-    <div class="col-sm-12">
-      {% include back.html variable="à la bibliographie" %}
-      <figure class="cycle">
-        <img src="/assets/images/svg/icones/livre.svg">
-        <h3>{{ page.title }}</h3>
-        <p>{{ page.author }}</p>
-      </figure>
-      {{ content }}
-      {% include back.html variable="à la bibliographie" %}
-    </div>
-  </div>
+  {% include back.html variable="à la bibliographie" %}
+  <p class="dinomik">{{ page.author }}</p>
+  {{ content }}
+  {% include back.html variable="à la bibliographie" %}
   {% include biblio-next.html %}
 </div>

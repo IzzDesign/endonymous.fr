@@ -1,19 +1,10 @@
-<div class="box">
-  <div class="logo">
-    <a href="/index.html"><img src="/assets/images/logo.svg"></a>
-  </div>
-  <nav class="navbar navbar-expand-lg navbar-light">
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-      <div class="navbar-nav">
-        <a class="nav-item nav-link {% if page.url == '/' %}active{% endif %}" href="/index.html">Accueil</a>
-        <a class="nav-item nav-link {% if page.url == '/roman-graphique/endometriose.html' %}active{% endif %}" href="/roman-graphique/endometriose.html">Roman graphique</a>
-        <a class="nav-item nav-link {% if page.url == '/savoir/savoir.html' %}active{% endif %}" href="/savoir/savoir.html">Le savoir c'est le pouvoir</a>
-        <a class="nav-item nav-link {% if page.url == '/controle/controle.html' %}active{% endif %}" href="/controle/controle.html">Reprends le contrôle</a>
-        <a class="nav-item nav-link {% if page.url == '/contact.html' %}active{% endif %}" href="/contact/contact.html">Contact</a>
-      </div>
-    </div>
-  </nav>
-</div>
+<nav>
+  <a href="/index.html" class="logo">
+    <img src="/assets/images/logo-mini.svg" width="75" height="75">
+  </a>
+  <a class="{% if page.url == '/' %}active{% endif %}" href="/index.html">Accueil</a>
+  <a class="{% if page.url == '/roman-graphique/endometriose.html' %}active{% endif %}" href="/roman-graphique/endometriose.html">Roman graphique</a>
+  <a class="{% if page.url == '/savoir/savoir.html' %}active{% endif %}" href="/savoir/savoir.html">Le savoir c'est le pouvoir</a>
+  <a class="{% if page.url == '/controle/controle.html' %}active{% endif %}" href="/controle/controle.html">Reprends le contrôle</a>
+  <a class="{% if page.url == '/contact.html' %}active{% endif %}" href="/contact/contact.html">Contact</a>
+</nav>

@@ -3,31 +3,23 @@ layout: default
 ---
 
 <div class="container">
-  <div class="row">
-    <div class="col-sm text-center">
-      <div class="entete">
-        <div class="line"></div>
-        <span class="h2">{{ page.title }}</span>
-      </div>
-        <h2 class="title">Articles</h2>
-    </div>
+  <div class="entete">
+      <span class="h2">{{ page.title }}</span>
+      <h2 class="title">Articles</h2>
   </div>
-</div>
-
-<div class="container">
-  <div class="row">
-    {% assign sorted_articles = site.pages | sort: 'order' %}
-      {% for p in sorted_articles %}
-        {% if p.category == page.title %}
-          <div class="col-sm-6">
-            <a href="{{ p.url }}" class="title-a hover-articles">
-              <figure class="liens">
-                <img src="/assets/images/articles/{{ p.og_image }}" class="img-fluid" alt="{{ p.alt_img }}" title="{{ p.title_img }}">
-                <h4>{{ p.title }}</h4>
-              </figure>
-            </a>
-          </div>
-          {% endif %}
-        {% endfor %}
+{% assign sorted_articles = site.pages | sort: 'order' %}
+  <div class="articles">
+    {% for p in sorted_articles %}
+      {% if p.category == page.title %}
+        <a href="{{ p.url }}" class="index-articles">
+          <figure class="liens">
+            <img src="/assets/images/articles/{{ p.og_image }}" class="img-fluid" alt="{{ p.alt_img }}" title="{{ p.title_img }}">
+            <figcaption class="bleu">
+              <h4 class="h4-link">{{ p.title }}</h4>
+            </figcaption>
+          </figure>
+        </a>
+      {% endif %}
+    {% endfor %}
   </div>
 </div>

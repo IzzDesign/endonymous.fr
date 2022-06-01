@@ -6,7 +6,7 @@ title: Une BD sur l'endométriose
 category: Reprends le contrôle
 alt_img: endonymous, bd, roman graphique, bande dessinée, endométriose
 title_img: Endonymous, une bd sur l'endométriose
-og_image: bd-endometriose-endonymous.png
+og_image: bd-sur-l-endometriose.png
 previous: /controle/controle.html
 redirect_from:
   - /article/2019/02/25/faire-un-roman-graphique.html
@@ -23,9 +23,9 @@ L'envie de créer un roman graphique germe encore quelques mois dans mon cerveau
 Au commencement, c'est le **story-board**, que ça soit clair cette partie n'est pas faite pour être jolie, c'est un brouillon. J'écris les textes et les dialogues et je gribouille des bonhommes bâtons pour avoir une idée de la présentation.
 Je n'hésite pas à raturer, rajouter des choses, en changer, c'est le moment où tout est possible !
 
-<div class="articles-img">
-    <img src="/assets/images/articles/bd/img1.png" alt="scenario" class="center">
-    <img src="/assets/images/articles/bd/img2.png" alt="scenario" class="center">
+<div class="row row-center">
+    <img src="/assets/images/articles/bd/img1.png" alt="scenario">
+    <img src="/assets/images/articles/bd/img2.png" alt="scenario">
 </div>
 
 Dans cette partie du processus de création je raconte d'abord mon histoire, je réfléchis aux blagues que je peux faire autour et à comment je peux rendre ces situations touchantes ou drôles pour le lecteur. Le secret, c'est que j'essaie avant de tout de me faire rire moi-même et ça m'aide beaucoup !
@@ -35,11 +35,11 @@ Dans cette partie du processus de création je raconte d'abord mon histoire, je 
 Je laisse généralement un peu de temps passer entre le scénario et le recopiage, pour pouvoir me laisser le temps de prendre du recul ou d'avoir d'autres idées rigolotes.
 Une fois ce temps passé, je **recopie mes idées** développées dans le story-board au propre. C'est le moment où j'essaye de m'appliquer un peu plus sur les dessins, que je corrige les fautes et que je vérifie si mon histoire est compréhensible.
 
-<div class="articles-img">
-    <img src="/assets/images/articles/bd/1.png" alt="dessin" class="center">
-    <img src="/assets/images/articles/bd/2.png" alt="dessin" class="center">
-    <img src="/assets/images/articles/bd/3.png" alt="dessin" class="center">
-    <img src="/assets/images/articles/bd/4.png" alt="dessin" class="center">
+<div class="row row-center">
+    <img src="/assets/images/articles/bd/1.png" alt="dessin" class="row-image">
+    <img src="/assets/images/articles/bd/2.png" alt="dessin" class="row-image">
+    <img src="/assets/images/articles/bd/3.png" alt="dessin" class="row-image">
+    <img src="/assets/images/articles/bd/4.png" alt="dessin" class="row-image">
 </div>
 
 Je rajoute souvent des dessins ou des explications au moment du recopiage au propre. Par exemple, la partie 2 contient onze pages : j'en avais initialement prévu deux avant mes rajouts, donc ça évolue beaucoup !

@@ -16,10 +16,8 @@ publish_date: 2019-03-01
 redirect_from:
   - /article/l-endometriose-c-est-quoi.html
 ---
-
-Pour avoir une approche plus complète, voir l’article sur le <a href="/savoir/cyclemenstruel.html" class="link">cycle menstruel</a>.
-
-<p class="intro"><b>L’endométriose</b> est une <b>maladie de l’appareil reproducteur féminin</b>. Il s’agit d’une <b>anomalie du tissu endométrial, ou endomètre</b>, qui est la muqueuse interne de l’utérus.</p>
+L’endométriose est une maladie de l’appareil reproducteur féminin. Il s’agit d’une anomalie du tissu endométrial, ou endomètre, qui est la muqueuse interne de l’utérus.
+Pour avoir une approche plus complète, voir l’article sur le [cycle menstruel](/savoir/cyclemenstruel.html).
 
 L’[endomètre](/savoir/endo-dico/endometre.html), c’est la muqueuse interne de l’utérus. Suivant le cycle menstruel – et donc les hormones associées – cette muqueuse va s’épaissir dans le but d’accueillir un embryon. En fin de cycle, quand il n’y a pas eu de fécondation, l’endomètre épaissi se désagrège : ce sont les règles.
 
@@ -30,7 +28,7 @@ L’[endomètre](/savoir/endo-dico/endometre.html), c’est la muqueuse interne 
 
 Pour des raisons que l’on ignore encore, chez environ 10% des femmes, ces lésions sont **présentes sur l’extérieur de l’utérus ou différents organes**. Ces nodules d’endométriose sont dans la majorité des cas présents sur l’extérieur de l’utérus, les ovaires, le cul de sac de Douglas, les ligaments utéro-sacrés ; mais aussi l’intestin, la vessie, et le péritoine (la poche qui contient les viscères abdominales). Il est possible également de retrouver ces lésions de façon moins fréquente sur le diaphragme, les poumons,…
 
-Ces lésions vont **réagir en fonction des hormones**, plus précisément l’œstrogène ; et tout comme l’endomètre qui tapisse l’utérus, vont effectuer des **micro-hémorragies** en fin de cycle s’il n’y a pas eu fécondation. Ces saignements vont créer des <a href="/savoir/adherences.html" class="link">phénomènes inflammatoires et des adhérences</a> qui vont coller les organes entres eux et empêcher ceux-ci de bouger et fonctionner correctement.
+Ces lésions vont **réagir en fonction des hormones**, plus précisément l’œstrogène ; et tout comme l’endomètre qui tapisse l’utérus, vont effectuer des **micro-hémorragies** en fin de cycle s’il n’y a pas eu fécondation. Ces saignements vont créer des [phénomènes inflammatoires et des adhérences](/savoir/adherences.html) qui vont coller les organes entres eux et empêcher ceux-ci de bouger et fonctionner correctement.
 Certains nodules d’endométriose vont également pouvoir développer leur propre approvisionnement sanguin qui les aideront à croître et produire localement leur propre œstrogènes ce qui maintiendra les **lésions actives** même sous pilule et ménopause artificielle. Dans certains cas, ces lésions peuvent développer des **terminaisons nerveuses** ce qui pourraient expliquer la cause des **douleurs atroces** causées par la maladie.
 
 ### À quoi correspondent les stades d’endométriose ?
@@ -41,12 +39,11 @@ Ces différents stades d’endométriose sont souvent utilisés par les médecin
     <img src="/assets/images/schema/stades.png" class="img-fluid" alt="schema endometriose stades adherence uterus, colon vessie lesions endometriome" title="Les quatres stades d'endométriose">
     <figcaption>Les quatre stades d'endométriose</figcaption>
   </figure>
-<ul class="ul-list">
-  <li class="list"><b>Stade 1 :</b> 1 à 5 points, Lésions superficielles</li>
-  <li class="list"><b>Stade 2 :</b> 5 à 15 points, Lésions superficielles, quelques lésions profondes ou adhérences.</li>
-  <li class="list"><b>Stade 3 :</b> 16 à 40 points, Lésions superficielles, probable présence d’endométriome ou de lésions profondes ou des adhérences denses.</li>
-  <li class="list"><b>Stade 4 :</b> Plus de 40 points, souvent caractérisé par toutes les lésions décrites ci-dessus avec la présence d’un ou plusieurs endométriomes et des adhésions denses.</li>
-</ul>
+
+* Stade 1 : 1 à 5 points, Lésions superficielles.
+* Stade 2 : 5 à 15 points, Lésions superficielles, quelques lésions profondes ou adhérences.
+* Stade 3 : 16 à 40 points, Lésions superficielles, probable présence d’endométriome ou de lésions profondes ou des adhérences denses.
+* Stade 4 : Plus de 40 points, souvent caractérisé par toutes les lésions décrites ci-dessus avec la présence d’un ou plusieurs endométriomes et des adhésions denses.
 
 ### Quelles sont les causes ?
 
@@ -55,15 +52,15 @@ Après avoir étudié le fonctionnement de l'endométriose, j'ai eu très vite b
 Ça a tout de suite été beaucoup plus compliqué à comprendre, tout simplement parce que le monde médical ne sait toujours pas pourquoi cette maladie apparaît chez **10% des femmes**. Il existe bien quelques théories mais elles sont toutes controversées puisqu'aucune n'explique totalement l'endométriose.
 Entre autres, deux des théories les plus utilisées sont la **théorie du reflux** de John A. Sampson (1921) et la **théorie métaplasique** développée par Meyer (1919).
 
-<div class="row">
-  <div class="col-lg-6 offset-lg-3">
-    <a href="/savoir/theories.html" class="hover-articles title-a">
-      <figure class="liens">
-        <img src="/assets/images/articles/theories.png" class="img-fluid">
-        <h4>Les théories de développement de l'endométriose</h4>
-      </figure>
-    </a>
-  </div>
+<div class="articles">
+  <a href="/savoir/theories.html" class="lien-article">
+    <figure class="liens">
+      <img src="/assets/images/articles/theories-de-developpement.png" class="img-fluid">
+      <figcaption class="bleu">
+        <h4 class="h4-link">Les théories de développement de l'endométriose</h4>
+      </figcaption>
+    </figure>
+  </a>
 </div>
 
 ### Facteurs
@@ -84,37 +81,34 @@ Pour aller plus loin des chercheurs de l'INSERM ont mis en place une étude conc
 Le mécanisme de fonctionnement de l'endométriose de par son **invasion** de certains organes par des cellules dysfonctionnelles rappelle énormément le mécanisme du cancer. Bien que l'endométriose ne soit pas létale, le rapprochement de ces deux maladies peut inquiéter. Une recherche datant de 2010 a mis en évidence la régulation de la division cellulaire pour les lésions d’endométriose à l’inverse des cellules cancéreuses dont la division est anarchique. Dans les faits pour une patiente atteinte d'endométriose le risque de déclencher un cancer de l'ovaire est **inférieur à 1%**.
 
 ### Quels sont les symptômes de l’Endométriose ?
-<div class="row">
-  <div class="col-lg-6 offset-lg-3">
-    <a href="/savoir/l-endometriose-symptomes.html" class="hover-articles title-a">
-      <figure class="liens">
-        <img src="/assets/images/articles/ai-je-de-l-endometriose.png" class="img-fluid">
-        <h4>Ai-je de l'endométriose ?</h4>
-      </figure>
-    </a>
-  </div>
+<div class="articles">
+  <a href="/savoir/l-endometriose-symptomes.html" class="lien-article">
+    <figure class="liens">
+      <img src="/assets/images/articles/ai-je-de-l-endometriose.png" class="img-fluid">
+      <figcaption class="bleu">
+        <h4 class="h4-link">Ai-je de l'endométriose ?</h4>
+      </figcaption>
+    </figure>
+  </a>
 </div>
 
-### Et l'adénomyose ?
-<div class="row">
-  <div class="col-lg-6 offset-lg-3">
-    <a href="/savoir/adenomyose.html" class="hover-articles title-a">
-      <figure class="liens">
-        <img src="/assets/images/articles/adenomyose.png" class="img-fluid">
-        <h4>Qu'est-ce que l'adénomyose ?</h4>
-      </figure>
-    </a>
-  </div>
+## Et l'adénomyose ?
+<div class="articles">
+  <a href="/savoir/adenomyose.html" class="lien-article">
+    <figure class="liens">
+      <img src="/assets/images/articles/adenomyose.png" class="img-fluid">
+      <figcaption class="bleu">
+        <h4 class="h4-link">Qu'est-ce que l'adénomyose ?</h4>
+      </figcaption>
+    </figure>
+  </a>
 </div>
 
-<div class="col-sm-10 offset-sm-1 sources">
-  <h4>Sources</h4>
-  <ul class="ul-list">
-    <li class="list">The doctor will see you now, Tamer Seckin MD, 2016</li>
-    <li class="list">Nature Reviews : Endometriosis, K. T. Zondervan, C. M. Becker, K. Koga, S. A. Missmer, R. N. Taylor and P. Vigano, 2018</li>
-    <li class="list">Endometriosis, the experts’ guide to treat, manage and live well with your symptoms, Pr Andrew Horne & Carol Pearson, 2018</li>
-    <li class="list">1001 questions & answers about Endometriosis, Dr Redwine, 2009</li>
-    <li class="list"><a href="https://www.inserm.fr/information-en-sante/dossiers-information/endometriose.html">INSERM : Endométriose</a></li>
-    <li class="list"><a href="https://orbi.uliege.be/bitstream/2268/142313/1/Beliard%20A%20Ref%20en%20G%20et%20Obst.pdf">Endométriose : pourquoi se développe-telle ?</a></li>
-  </ul>
-</div>
+## Sources
+
+* The doctor will see you now, Tamer Seckin MD, 2016
+* Nature Reviews : Endometriosis, K. T. Zondervan, C. M. Becker, K. Koga, S. A. Missmer, R. N. Taylor and P. Vigano, 2018
+* Endometriosis, the experts’ guide to treat, manage and live well with your symptoms, Pr Andrew Horne & Carol Pearson, 2018
+* 1001 questions & answers about Endometriosis, Dr Redwine, 2009
+* [INSERM : Endométriose](https://www.inserm.fr/information-en-sante/dossiers-information/endometriose.html)
+* [Endométriose : pourquoi se développe-telle ?](https://orbi.uliege.be/bitstream/2268/142313/1/Beliard%20A%20Ref%20en%20G%20et%20Obst.pdf)

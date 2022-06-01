@@ -1,17 +1,17 @@
-<div class="row bg">
-	<div class="col-sm-12 text-upp">
-		<p class="sobig">Articles liés</p>
+<div class="column">
+<h3>Articles liés</h3>
+	<div class="articles">
+		{% for p in site.pages %}
+			{% if page.articles contains p.url %}
+				<a href="{{ p.url }}" class="index-articles">
+					<figure class="liens">
+						<img src="/assets/images/articles/{{ p.og_image }}" class="img-fluid">
+						<figcaption class="bleu">
+							<h4 class="h4-link">{{ p.title }}</h4>
+						</figcaption>
+					</figure>
+				</a>
+			{% endif %}
+		{% endfor %}
 	</div>
-	{% for p in site.pages %}
-		{% if page.articles contains p.url %}
-		<div class="col-sm-6">
-			<a href="{{ p.url }}" class="title-a">
-				<figure class="liens">
-					<img src="/assets/images/articles/{{ p.og_image }}" class="img-fluid">
-					<h4>{{ p.title }}</h4>
-				</figure>
-			</a>
-		</div>
-		{% endif %}
-	{% endfor %}
 </div>

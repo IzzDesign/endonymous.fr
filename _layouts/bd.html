@@ -4,20 +4,12 @@ layout: default
 
 <div class="container">
   <div class="row">
-    <div class="col-sm text-center">
-      <div class="entete">
-        <div class="line"></div>
-        <span class="h2">{{ page.category }}</span>
-      </div>
-        <h2 class="title">{{ page.title }}</h2>
-    </div>
-  </div>
-</div>
-
-<div class="container">
-  <div class="row">
     <div class="col-sm-12">
-      <img src="/assets/roman-graphique/articles/{{ page.og_image }}.png" class="img-fluid" alt="{{ page.alt_img }}" title="{{ page.title_img }}">
+      <img src="/assets/roman-graphique/{{ page.bd_image }}.png" class="img-fluid bd-image" alt="{{ page.alt_img }}" title="{{ page.title_img }}">
+      <div class="entete">
+        <span class="h2">{{ page.title }}</span>
+        <h2 class="title">Articles</h2>
+      </div>
       {% include back.html variable="aux autres parties" %}
       <div class="row">
         {% assign previous-bd = site.pages | where: "category", "Roman graphique" %}

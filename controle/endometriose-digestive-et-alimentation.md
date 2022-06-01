@@ -6,7 +6,7 @@ title: Endométriose, changer son alimentation&nbsp;?
 category: Reprends le contrôle
 alt_img: femme pomme
 title_img: Femme tenant une pomme
-og_image: digestion-alimentation.png
+og_image: changer-alimentation.png
 articles:
   - /savoir/endometriose.html
   - /controle/alimentation.html
@@ -16,7 +16,7 @@ redirect_from:
   - /article/endometriose-digestive-et-alimentation.html
 publish_date: 2020-03-27
 ---
-<p class="intro">Sans être un remède miracle, contrôler son alimentation et éviter certains aliments inflammatoires peuvent grandement aider à soulager vos troubles digestifs et diminuer l'inflammation chronique causée par l'endométriose, peut-être une nouvelle motivation pour renoncer à la «petite» fondue du Nouvel an ou au super croissant du dimanche matin ?</p>
+Sans être un remède miracle, contrôler son alimentation et éviter certains aliments inflammatoires peuvent grandement aider à soulager vos troubles digestifs et diminuer l'inflammation chronique causée par l'endométriose, peut-être une nouvelle motivation pour renoncer à la «petite» fondue du Nouvel an ou au super croissant du dimanche matin ?
 
 ### Les symptômes de l'endométriose digestive
 Comme mentionné dans mon article sur les [symptômes de l'endométriose](/article/2018/10/14/l-endometriose-symptomes.html), les lésions d’endométriose peuvent se retrouver sur plusieurs organes digestifs, généralement sur le rectum, le côlon (sigmoïde) et l’intestin grêle, et plus rarement sur l’appendice, le foie, la rate, l’estomac, le péritoine, …
@@ -31,23 +31,23 @@ En fonction de la localisation de ces lésions, vous pouvez remarquer différent
 
 Pour faire simple, l’endométriose va provoquer des phénomènes inflammatoire qui vont eux même à terme pourvoir être à l’origine de l’apparition d’adhérences qui vont modifier l’anatomie pelvienne et créer des douleurs.
 
-<div class="row">
-  <div class="col-lg-6">
-    <a href="/savoir/adherences.html" class="hover-articles title-a">
-      <figure class="liens">
-        <img src="/assets/images/articles/adherences.png" class="img-fluid">
-        <h4>Endométriose et adhérences</h4>
-      </figure>
-    </a>
-  </div>
-  <div class="col-lg-6">
-    <a href="/controle/alimentation.html" class="hover-articles title-a">
-      <figure class="liens">
-        <img src="/assets/images/articles/alimentation.png" class="img-fluid">
-        <h4>L'alimentation anti-inflammatoire</h4>
-      </figure>
-    </a>
-  </div>
+<div class="articles">
+  <a href="/savoir/adherences.html" class="index-articles">
+    <figure class="liens">
+      <img src="/assets/images/articles/adherences.png" class="img-fluid">
+      <figcaption class="bleu">
+        <h4 class="h4-link">Endométriose et adhérences</h4>
+      </figcaption>
+    </figure>
+  </a>
+  <a href="/controle/alimentation.html" class="index-articles">
+    <figure class="liens">
+      <img src="/assets/images/articles/alimentation.png" class="img-fluid">
+      <figcaption class="bleu">
+        <h4 class="h4-link">L'alimentation anti-inflammatoire</h4>
+      </figcaption>
+    </figure>
+  </a>
 </div>
 
 Pour ma propre expérience, je suis allée voir une **diéteticienne et naturopathe** pour qu’elle m’accompagne dans ce changement que je n’arrivais pas à effectuer seule voici une petite liste simplifiée de ce que j’ai changé dans mon alimentation :
@@ -67,15 +67,15 @@ Il ne s'agit ici que d'une liste simplifiée et il faudra aussi faire vos propre
   <p>Il peut être également intéressant de lancer une <b>prise de note</b> de vos repas et vos <b>symptômes associés</b> : maux de ventre, constipation, douleurs, diarrhées,…</p>
 </div>
 
-<div class="row">
-  <div class="col-lg-6 offset-lg-3">
-    <a href="/controle/carnet-endometriose.html" class="hover-articles title-a">
-      <figure class="liens">
-        <img src="/assets/images/articles/endobujo.png" class="img-fluid">
-        <h4>Faire son EndoBujo</h4>
-      </figure>
-    </a>
-  </div>
+<div class="articles">
+  <a href="/controle/carnet-endometriose.html" class="lien-article">
+    <figure class="liens">
+      <img src="/assets/images/articles/faire-son-endobujo.png" class="img-fluid">
+      <figcaption class="bleu">
+        <h4 class="h4-link">Faire son EndoBujo</h4>
+      </figcaption>
+    </figure>
+  </a>
 </div>
 
 ### Mon expérience
@@ -96,29 +96,22 @@ La difficulté a été de ne pas mourir littéralement de faim, j'ai donc réint
 Ces changements se sont fait sur deux ans et ont été longs à mettre en place convenablement. J'ai eu de longues périodes avec une grande sensation de faim, de frustration, j'ai beaucoup maigris… Je me sens aujourd'hui enfin stable dans mon alimentation et sur ma balance et je peux attester que ça vaut le coût !
 
 ### Les ressources pour vous aider
-<div class="row">
-  <div class="col-lg-5 offset-lg-1">
-    <img src="/assets/images/photos/soulager-endometriose.png" alt="soulager l'endométriose sans médicaments Stéphanie Mezerai Sophie Pensa livre méthode phytothéraphie alimentation" title="Livre Soulager l'endométriose sans médicaments de Stéphanie Mezerai et Sophie Pensa ">
-  </div>
-  <div class="col-lg-5">
-    <img src="/assets/images/photos/soulager-endometriose2.png" alt="soulager l'endométriose sans médicaments Stéphanie Mezerai Sophie Pensa livre méthode phytothéraphie alimentation" title="Livre Soulager l'endométriose sans médicaments de Stéphanie Mezerai et Sophie Pensa ">
-  </div>
+<div class="row row-center">
+  <img src="/assets/images/photos/soulager-endometriose.png" alt="soulager l'endométriose sans médicaments Stéphanie Mezerai Sophie Pensa livre méthode phytothéraphie alimentation" title="Livre Soulager l'endométriose sans médicaments de Stéphanie Mezerai et Sophie Pensa">
+  <img src="/assets/images/photos/soulager-endometriose2.png" alt="soulager l'endométriose sans médicaments Stéphanie Mezerai Sophie Pensa livre méthode phytothéraphie alimentation" title="Livre Soulager l'endométriose sans médicaments de Stéphanie Mezerai et Sophie Pensa">
 </div>
 Outre mon expérience personnelle et le suivi de ma diététicienne, j’ai tiré beaucoup d’enseignement du livre **_Soulager l'endométriose sans médicaments_ de Stéphanie Mezerai et Sophie Pensa** qui est pour moi un incontournable. Ce livre vous donnera des conseils sur les médecines complémentaires, des exercices physiques et la partie sur la nutrition est bien plus complète que tout vous pourrez trouver sur Internet. C'est un plaisir de s'y replonger régulièrement pour y glaner des conseils, il est extrêmement bien fait et pour celles qui ne savent pas comment se lancer il y a un programme de deux semaines de nutrition et d'exercices avec une liste de courses pré-faite et des tas de recettes. Je le conseille absolument !
 
-<div class="row">
-  <div class="col-lg-3 offset-lg-2">
-        <img src="/assets/images/svg/icones/livre.svg" class="img-fluid">
-  </div>
-  <div class="col-lg-5 index-articles">
-    <a href="/savoir/bibliographie/soulager-endometriose-sans-medicaments.html" class="hover-articles">
-      <h4>Soulager l’endométriose sans médicaments</h4>
-    </a>
-  </div>
+<div class="container">
+  <img src="/assets/images/svg/icones/livre.svg" width="35" height="35">
+  <a href="/savoir/bibliographie/soulager-endometriose-sans-medicaments.html" class="livres">
+    <h5 class="title-book">Soulager l’endométriose sans médicaments</h5>
+    <span>Endométriose &#x3A; la fin d'un tabou, Stéphanie Mezerai & Sophie Pensa, 2019</span>
+  </a>
 </div>
 
 Dans la même veine il y a le livre de **Fabien Pascio : _L'alimentation anti-endométriose_**, que je n'ai pas lu mais qui peut être utile.
 
 ## Sources
 
-[^digestif]: [Endométriose digestive](https://www.chirurgien-digestif.com/endometriose-digestive).
+[^digestif]: [Endométriose digestive](https://www.chirurgien-digestif.com/endometriose-digestive)

@@ -6,7 +6,7 @@ title: EndoDico
 category: Le savoir c'est le pouvoir
 alt_img: femme lecture dictionnaire vocabulaire endometriose
 title_img: "EndoDico"
-og_image: endo-dico.png
+og_image: endodico.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
 articles:

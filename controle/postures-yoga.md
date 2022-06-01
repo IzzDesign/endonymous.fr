@@ -6,13 +6,13 @@ title: Des postures douces de yoga contre les douleurs de règles
 category: Reprends le contrôle
 alt_img: femme yoga papillon BADDHA KONASANA
 title_img: Femme en posture du papillon Baddha Konasana
-og_image: yoga-posture.png
+og_image: posture-de-yoga.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /controle/controle.html
 articles:
   - /controle/mouvements.html
   - /savoir/adherences.html
-publish_date: 2021-07-07
+publish_date: 2021-03-07
 ---
 ### Balasana — Posture de l'enfant
 <img src="/assets/images/articles/balasana.png" title="posture de l'enfant" alt="Balasana, posture de l'enfant, yoga, endobujo, endométriose, règles" class="img-fluid">
