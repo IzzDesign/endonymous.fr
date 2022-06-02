@@ -104,8 +104,8 @@ Outre mon expérience personnelle et le suivi de ma diététicienne, j’ai tir�
 
 <div class="container">
   <img src="/assets/images/svg/icones/livre.svg" width="35" height="35">
-  <a href="/savoir/bibliographie/soulager-endometriose-sans-medicaments.html" class="livres">
-    <h5 class="title-book">Soulager l’endométriose sans médicaments</h5>
+  <a href="/savoir/bibliographie/soulager-endometriose-sans-medicaments.html" class="list">
+    <h5 class="title">Soulager l’endométriose sans médicaments</h5>
     <span>Endométriose &#x3A; la fin d'un tabou, Stéphanie Mezerai & Sophie Pensa, 2019</span>
   </a>
 </div>

@@ -8,7 +8,7 @@ category: Bibliographie
 subcategory: Cycle menstruel
 og_image: /assets/images/bibliographie-feminin.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
-previous: /savoir/bibliographie-feminin.html
+previous: /savoir/bibliographie-endometriose.html
 publish_date: 2021-06-15
 ---
 #### L’indispensable référence pour mieux se connaître

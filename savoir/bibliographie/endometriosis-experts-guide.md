@@ -5,7 +5,7 @@ subtitle: Fiche lecture d'Endometriosis, the experts’ guide to treat, manage a
 title: Endometriosis, the experts’ guide to treat, manage and live well with your symptoms
 author: Pr Andrew Horne & Carol Pearson, 2018
 category: Bibliographie
-subcategory: Littérature anglophone
+subcategory: Littérature anglophone endométriose
 og_image: /assets/images/bibliographie-endometriose.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/bibliographie-endometriose.html

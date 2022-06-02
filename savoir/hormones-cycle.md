@@ -10,7 +10,7 @@ og_image: phases-du-cycle.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
 articles:
-  - /controle/meddouces.html
+  - /controle/medecines-douces.html
   - /controle/alimentation.html
 publish_date: 2019-03-01
 ---

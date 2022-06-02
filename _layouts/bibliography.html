@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<div class="container">
+<div class="container bibliography">
   <div class="entete">
+    <img src="/assets/images/svg/icones/livre.svg" title="Icone reflux" width="45" height="45">
     <span class="h2">Bibliographie</span>
     <h2 class="title">{{ page.title }}</h2>
   </div>
-  {% include back.html variable="à la bibliographie" %}
   <p class="dinomik">{{ page.author }}</p>
   {{ content }}
-  {% include back.html variable="à la bibliographie" %}
   {% include biblio-next.html %}
+  {% include back.html variable="à la bibliographie" %}
 </div>

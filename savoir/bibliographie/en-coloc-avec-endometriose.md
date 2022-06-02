@@ -5,7 +5,7 @@ subtitle: Fiche lecture d'en coloc avec l'endométriose de Fanny Robin.
 title: En coloc avec l'endométriose
 author: Cohabiter avec cette indésirable, Fanny Robin, 2020
 category: Bibliographie
-subcategory: Témoignages
+subcategory: Témoignages endométriose
 og_image: /assets/images/bibliographie-endometriose.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/bibliographie-endometriose.html

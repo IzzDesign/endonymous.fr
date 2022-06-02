@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: articles
 subtitle: Des ateliers de rencontres pour les endométriosiques sont organisés sur Lyon.
 title: Témoignages et tranches de vie
 category: Reprends le contrôle
@@ -13,46 +13,18 @@ articles:
 publish_date: 2020-09-15
 ---
 
-<div class="container">
-  <div class="row">
-    <div class="col-sm text-center">
-      <div class="entete">
-        <div class="line"></div>
-        <span class="h2">{{ page.category }}</span>
-      </div>
-        <h2 class="title">{{ page.title }}</h2>
-    </div>
-  </div>
-</div>
-
-<div class="container">
-  <div class="row">
-    <div class="col-sm-12">
-      {% include back.html variable="aux articles" %}
-        {% for p in site.pages %}
-          {% if p.category == "interview" %}
-            <a href="{{ p.url }}">
-            	<div class="interview">
-      					<div class="row">
-      						<div class="col-lg-4 col-sm-4">
-      							<img src="/assets/images/interview/left.png" class="plante-left img-fluid">
-      							<img src="{{ p.og_image }}" class="img-fluid">
-      						</div>
-      						<div class="col-lg-6 col-sm-7">
-      							<h4>{{ p.title }}</h4>
-      							<p>{{ p.quote }}</p>
-      						</div>
-      						<div class="col-lg-1 offset-lg-1 order-2 order-lg-3">
-      							<img src="/assets/images/interview/right.png" class="plante-right">
-      						</div>
-      					</div>
-            	</div>
-          	</a>
-            <div class="deco-mini"><img src="/assets/images/interview/plante.svg"></div>
-          {% endif %}
-        {% endfor %}
-      {% include back.html variable="aux articles" %}
-    </div>
-  </div>
-  {% include articles.html %}
+<div class="articles">
+  {% for p in site.pages %}
+    {% if p.category == "interview" %}
+      <a href="{{ p.url }}" class="index-articles">
+        <figure class="interview">
+          <img src="/assets/images/articles/{{ p.og_image }}" class="img-fluid">
+          <figcaption class="bleu">
+            <h4 class="h4-link">{{ p.title }}</h4>
+            <p>«&nbsp;{{ p.quote }}&nbsp;»</p>
+          </figcaption>
+        </figure>
+      </a>
+    {% endif %}
+  {% endfor %}
 </div>

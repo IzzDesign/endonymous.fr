@@ -9,8 +9,8 @@ layout: default
   <img src="/assets/images/articles/{{ page.og_image }}" alt="{{ page.alt_img }}" title="{{ page.title_img }}" width="475" height="350">
   {% include back.html variable="aux articles" %}
   {{ content }}
-  {% include back.html variable="aux articles" %}
   {% include articles.html %}
+  {% include back.html variable="aux articles" %}
   {% include front-bd.html %}
   {% include button-newsletter.html %}
 </div>

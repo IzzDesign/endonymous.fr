@@ -5,7 +5,7 @@ subtitle: Fiche lecture d'une araignée de The doctor will see you now de Tamer 
 title: The doctor will see you now
 author: Recognizing and Treating Endometriosis, Tamer Seckin MD, 2016
 category: Bibliographie
-subcategory: Littérature anglophone
+subcategory: Littérature anglophone endométriose
 og_image: /assets/images/bibliographie-endometriose.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/bibliographie-endometriose.html

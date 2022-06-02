@@ -1,12 +1,14 @@
 <div>
-  <img src="/assets/images/svg/icones/livre.svg" title="Icone livre" width="65" height="65">
+  <img src="/assets/images/svg/icones/livre.svg" title="Icone livre" width="45" height="45">
 </div>
 <h4>{{ include.subcategory }}</h4>
-<div class="index-bibliography">
+<div class="index-list">
   {% for p in site.pages %}
     {% if p.subcategory == include.subcategory %}
-    <a href="{{ p.url }}" class="livres">
-      <h5 class="title-book">{{ p.title }}</h5>
+    <a href="{{ p.url }}" class="list">
+      <div class="background bg-bleu">
+        <h5 class="title">{{ p.title }}</h5>
+      </div>
       <span>{{ p.author }}</span>
     </a>
     {% endif %}

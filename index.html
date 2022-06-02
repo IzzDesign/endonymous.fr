@@ -41,14 +41,16 @@ og_image: /assets/images/cycle.png
   <div class="row">
     <img src="assets/images/svg/icones/livres-icone.svg" width="221" height="221">
     {% assign conseils_lectures = site.pages | where: "layout", "bibliography" | sort: "publish_date" | reverse %}
-    <div class="column" style="align-items: flex-start;">
+    <div class="index-list" style="align-items: flex-start; margin-left: 2em;">
       {% for l in conseils_lectures limit: 3 %}
-        <a href="{{ l.url }}" class="livres">
-          <h5 class="title-book">{{ l.title }}</h5>
+        <a href="{{ l.url }}" class="list">
+          <div class="background bg-bleu">
+            <h5 class="title">{{ l.title }}</h5>
+          </div>
           <span>{{ l.author }}</span>
         </a>
       {% endfor %}
-      <a href="/savoir/bibliographie.html" class="button btn-rouge">D'autres lectures</a>
+      <a href="/savoir/bibliographie-endometriose.html" class="button btn-rouge">D'autres lectures</a>
     </div>
   </div>
   <div class="column">

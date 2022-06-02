@@ -5,7 +5,7 @@ subtitle: Fiche lecture de Guide pratique de l'endogirl d'Aurélie Salvador
 title: Guide pratique de l'endogirl
 author: Aurélie Salvador, 2021
 category: Bibliographie
-subcategory: Aide et accompagnement
+subcategory: Aide et accompagnement endométriose
 og_image: /assets/images/bibliographie-endometriose.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/bibliographie-endometriose.html

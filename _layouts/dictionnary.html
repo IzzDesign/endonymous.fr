@@ -2,25 +2,26 @@
 layout: default
 ---
 
-<div class="container">
-  <div class="row">
-    <div class="col-sm text-center">
-      {% include back.html variable="aux définitions" %}
-      <div class="entete">
-        <div class="line"></div>
-        <span class="h2">{{ page.category }}</span>
-      </div>
-        <h2 class="title">{{ page.title }}</h2>
+<div class="container content-dico">
+  <div class="dico-block">
+    <div class="dico">
+      {% for p in site.pages %}
+        {% if p.subcategory == 'Endodico' %}
+        <div class="icone-dico {% if p.url == page.url %} glass {% endif %}">
+          <a href="{{ p.url }}">{{ p.title }}</a>
+        </div>
+        {% endif %}
+      {% endfor %}
     </div>
-  </div>
-</div>
-
-<div class="container">
-  <div class="row">
-    <div class="col-sm-8 offset-sm-2 images-uniformes">
+    <div class="dico-definition">
+      <div class="entete">
+        <span class="h2">{{ page.category }}</span>
+        <h2 class="title">{{ page.title }}</h2>
+      </div>
       {{ content }}
     </div>
   </div>
-  {% include back.html variable="aux définitions" %}
-  {% include dico-next.html %}
+  {% include back.html variable="aux articles" %}
+  {% include front-bd.html %}
+  {% include button-newsletter.html %}
 </div>

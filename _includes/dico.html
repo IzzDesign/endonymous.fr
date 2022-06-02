@@ -1,7 +1,0 @@
-<div class="dico">
-{% for p in site.pages %}
-  {% if p.subcategory == include.subcategory %}
-    <a href="{{ p.url }}">{{ p.title }}</a>
-  {% endif %}
-{% endfor %}
-</div>

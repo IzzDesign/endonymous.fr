@@ -5,7 +5,7 @@ subtitle: Fiche lecture d'Endo & Sexo de Marie-Rose Gales
 title: Endo & Sexo
 author: Avoir une sexualité épanouie avec une endométriose, Marie-Rose Gales, 2019
 category: Bibliographie
-subcategory: Aide et accompagnement
+subcategory: Aide et accompagnement endométriose
 og_image: /assets/images/bibliographie-endometriose.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/bibliographie-endometriose.html

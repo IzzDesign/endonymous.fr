@@ -5,7 +5,7 @@ subtitle: Fiche lecture d'une araignée dans le ventre d'Anne Steiger
 title: Une araignée dans le ventre
 author: Mon combat contre l'endométriose, Anne Steiger, 2018
 category: Bibliographie
-subcategory: Témoignages
+subcategory: Témoignages endométriose
 og_image: /assets/images/bibliographie-endometriose.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/bibliographie-endometriose.html

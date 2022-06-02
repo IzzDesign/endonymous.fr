@@ -11,12 +11,12 @@ og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
 articles:
   - /savoir/endometriose.html
-  - /savoir/bibliographie-feminin.html
+  - /controle/faire-un-roman-graphique.html
 publish_date: 2020-03-01
 ---
 
-{% include bibliography-section.html subcategory="Témoignages" %}
-{% include bibliography-section.html subcategory="Aide et accompagnement" %}
-{% include bibliography-section.html subcategory="Littérature anglophone" %}
+{% include bibliography-section.html subcategory="Témoignages endométriose" %}
+{% include bibliography-section.html subcategory="Aide et accompagnement endométriose" %}
+{% include bibliography-section.html subcategory="Littérature anglophone endométriose" %}
 {% include bibliography-section.html subcategory='Enquêtes et recherches' %}
 {% include bibliography-section.html subcategory='Cycle menstruel' %}

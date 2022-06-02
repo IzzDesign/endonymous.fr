@@ -5,7 +5,7 @@ subtitle: Fiche lecture De l'endométriose au cœur de soi.
 title: De l'endométriose au cœur de soi
 author: Capucine Kostadinoff, 2021
 category: Bibliographie
-subcategory: Témoignages
+subcategory: Témoignages endométriose
 og_image: /assets/images/bibliographie-endometriose.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/bibliographie-endometriose.html
