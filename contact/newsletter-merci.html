@@ -6,43 +6,23 @@ og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 ---
 
 <div class="container">
-	<div class="row">
-	    <div class="col-sm text-center">
-        <div class="bg violet">
-          <div class="col-sm-10 offset-sm-1 txt padding2">
-            <div class="text-upp">
-              <p>Merci de ton inscription à ma</p>
-              <p class="big">newsletter !</p>
-            </div>
-          </div>
-        </div>
-    </div>
-	</div>
-  <div class="row">
-    <div class="col-sm text-center">
-      <div class="col-sm-10 offset-sm-1 txt padding2">
-        <div class="text-upp share">
-          <p class="classie">Tu peux me suivre sur Instagram pour être au courant de toutes les actus :</p>
-          <a href="https://www.instagram.com/endonymous/" class="rs-link"><img src="/assets/images/svg/instagram.svg"></a>
-          <a href="https://www.facebook.com/Endonymous-162022987832317/" class="rs-link"><img src="/assets/images/svg/facebook.svg"></a>
-          <p class="classie">Si tu veux en savoir plus sur notre contenu, voici tous nos articles présents sur le site :</p>
-        </div>
-      </div>
-  </div>
-  </div>
-  <div class="row">
-    {% assign sorted_articles = site.pages | sort: 'order' %}
-      {% for p in sorted_articles %}
-        {% if p.category == "Le savoir c'est le pouvoir" or p.category == "Reprends le contrôle" %}
-          <div class="col-sm-4">
-            <a href="{{ p.url }}" class="title-a">
-              <figure class="liens">
-                <img src="/assets/images/articles/{{ p.og_image }}" class="img-fluid" alt="{{ p.alt_img }}" title="{{ p.title_img }}">
-                <h4 class="list">{{ p.title }}</h4>
-              </figure>
-            </a>
-          </div>
-          {% endif %}
-        {% endfor %}
+  <p>Merci de ton inscription à ma newsletter !</p>
+  <p>Tu peux me suivre sur Instagram pour être au courant de toutes les actus :</p>
+  {% include button-newsletter.html %}
+  <p>Si tu veux en savoir plus sur notre contenu, voici tous nos articles présents sur le site :</p>
+  {% assign sorted_articles = site.pages | sort: 'order' %}
+  <div class="articles">
+    {% for p in sorted_articles %}
+      {% if p.category == "Le savoir c'est le pouvoir" or p.category == "Reprends le contrôle" %}
+          <a href="{{ p.url }}" class="index-articles">
+            <figure class="liens">
+              <img src="/assets/images/articles/{{ p.og_image }}" class="img-fluid" alt="{{ p.alt_img }}" title="{{ p.title_img }}">
+              <figcaption class="bleu">
+                <h4 class="h4-link">{{ p.title }}</h4>
+              </figcaption>
+            </figure>
+          </a>
+      {% endif %}
+    {% endfor %}
   </div>
 </div>
