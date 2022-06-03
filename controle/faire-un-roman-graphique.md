@@ -24,8 +24,8 @@ Au commencement, c'est le **story-board**, que ça soit clair cette partie n'est
 Je n'hésite pas à raturer, rajouter des choses, en changer, c'est le moment où tout est possible !
 
 <div class="row row-center">
-    <img src="/assets/images/articles/bd/img1.png" alt="scenario">
-    <img src="/assets/images/articles/bd/img2.png" alt="scenario">
+    <img src="/assets/images/photos/img1.png" alt="scenario" width="350" height="350">
+    <img src="/assets/images/photos/img2.png" alt="scenario" width="350" height="350">
 </div>
 
 Dans cette partie du processus de création je raconte d'abord mon histoire, je réfléchis aux blagues que je peux faire autour et à comment je peux rendre ces situations touchantes ou drôles pour le lecteur. Le secret, c'est que j'essaie avant de tout de me faire rire moi-même et ça m'aide beaucoup !
@@ -36,10 +36,10 @@ Je laisse généralement un peu de temps passer entre le scénario et le recopia
 Une fois ce temps passé, je **recopie mes idées** développées dans le story-board au propre. C'est le moment où j'essaye de m'appliquer un peu plus sur les dessins, que je corrige les fautes et que je vérifie si mon histoire est compréhensible.
 
 <div class="row row-center">
-    <img src="/assets/images/articles/bd/1.png" alt="dessin" class="row-image">
-    <img src="/assets/images/articles/bd/2.png" alt="dessin" class="row-image">
-    <img src="/assets/images/articles/bd/3.png" alt="dessin" class="row-image">
-    <img src="/assets/images/articles/bd/4.png" alt="dessin" class="row-image">
+    <img src="/assets/images/photos/1.png" alt="dessin" width="350" height="350">
+    <img src="/assets/images/photos/2.png" alt="dessin" width="350" height="350">
+    <img src="/assets/images/photos/3.png" alt="dessin" width="350" height="350">
+    <img src="/assets/images/photos/4.png" alt="dessin" width="350" height="350">
 </div>
 
 Je rajoute souvent des dessins ou des explications au moment du recopiage au propre. Par exemple, la partie 2 contient onze pages : j'en avais initialement prévu deux avant mes rajouts, donc ça évolue beaucoup !
@@ -49,10 +49,10 @@ Je rajoute souvent des dessins ou des explications au moment du recopiage au pro
 Une fois le recopiage terminé, je scanne mes dessins qui vont me servir de modèle pour la **version numérique**. Je rajoute les couleurs et les dialogues.
 Je vous mets des petites animations pour vous rendre compte du chemin parcouru du scénario à la numérisation, impressionnant non ?
 
-<img src="/assets/images/articles/bd/animation-bd.gif" alt="dessin" class="img-fluid">
+<img src="/assets/images/photos/animation-bd.gif" alt="dessin" max-width="600">
 
 Je décalque tout simplement mes dessins sur l'ordinateur, pour celles et ceux que ça intéresse j'utilise le logiciel [Affinity Designer](https://affinity.serif.com/fr/designer/) !
-<img src="/assets/images/articles/bd/animation-bd2.gif" alt="dessin" class="img-fluid">
+<img src="/assets/images/photos/animation-bd2.gif" alt="dessin" max-width="600">
 
 Lors de cette étape, il m'arrive encore de rajouter des passages, des explications ou des petits sketchs, par exemple pour la partie 5, j'ai rajouté dix pages d'histoire en plus !
 

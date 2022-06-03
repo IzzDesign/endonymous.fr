@@ -2,7 +2,7 @@
 
 ---
 
-$bleu: #314671;
+$bleu: #072359;
 $rouge: #FF5A5F;
 $jaune: #F8C630;
 $bleu-clair: #ACBED8;
@@ -23,7 +23,10 @@ body{
 	*::selection{
 	 	background-color : $bleu-clair;
 	}
-	h3::selection, h4::selection, span.h2::selection{
+	h3::selection, h4::selection, span.h2::selection,
+	.content-interview blockquote *::selection,
+	.content-interview p span::selection,
+	.content-interview p.q::selection,{
 	 	background-color : $bleu;
 	}
 }
@@ -623,9 +626,6 @@ footer {
 			line-height: 1.5em;
 		}
 	}
-	img.row-image{
-		flex: 1;
-	}
 }
 
 form.contact{
@@ -741,7 +741,7 @@ form.contact{
 	}
 }
 
-.bibliographie{
+.bibliography{
 	blockquote{
 		border-radius: 10px;
 		margin: 3em 0;
@@ -807,10 +807,25 @@ figure.schema{
 .content-interview{
 	blockquote{
 		font-family: $title-font;
-		font-size: 1.5em;
-		font-weight: 500;
-		color: $bleu;
+		font-size: 1.3em;
+		font-weight: bold;
+		color: $bleu-clair;
 		text-align: center;
+		p{
+			margin-top: 0.2em;
+			line-height: 1.2em;
+		}
+		&:before{
+			content: url('/assets/images/svg/icones/think2.svg');
+			width: 30px;
+			height: 30px;
+			margin-right: 0.5em;
+			font-family: $title-font;
+			color: $bleu;
+			font-size: 1.2em;
+			display: inline-block;
+			vertical-align: sub;
+		}
 	}
 	span{
 		display: inline-block;

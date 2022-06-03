@@ -14,5 +14,22 @@ layout: default
   <div class="content-interview">
     {{ content }}
   </div>
+  <img src="/assets/images/svg/icones/think.svg" title="Icone témoignages" width="45" height="45">
+  <h5>Autres {{ page.theme }}</h5>
+    <div class="articles">
+    {% for p in site.pages %}
+      {% if p.category == page.category and p.url != page.url %}
+        <a href="{{ p.url }}" class="index-articles">
+          <figure class="interview">
+            <img src="/assets/images/articles/{{ p.og_image }}" class="img-fluid">
+            <figcaption class="bleu">
+              <h4 class="h4-link">{{ p.title }}</h4>
+              <p>«&nbsp;{{ p.quote }}&nbsp;»</p>
+            </figcaption>
+          </figure>
+        </a>
+      {% endif %}
+    {% endfor %}
+  </div>
   {% include back.html variable="aux témoignages" %}
 </div>
