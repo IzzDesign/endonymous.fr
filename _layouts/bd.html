@@ -3,57 +3,47 @@ layout: default
 ---
 
 <div class="container">
-  <div class="row">
-    <div class="col-sm-12">
-      <img src="/assets/roman-graphique/{{ page.bd_image }}.png" class="img-fluid bd-image" alt="{{ page.alt_img }}" title="{{ page.title_img }}">
-      <div class="entete">
-        <span class="h2">{{ page.title }}</span>
-        <h2 class="title">Articles</h2>
-      </div>
-      {% include back.html variable="aux autres parties" %}
-      <div class="row">
-        {% assign previous-bd = site.pages | where: "category", "Roman graphique" %}
-        {% for p in previous-bd %}
-          {% if p.chapter < page.chapter %}
-            <a href="{{ p.url }}" class="liens-bd-mini">
-              <div class="col-lg-6 flex-row previous-bd">
-                <img src="/assets/roman-graphique/articles/{{ p.og_image }}-mini.png">
-                <div>
-                  <h4>{{ p.title }}</h4>
-                  <span>{{ p.publish_date }} <a href="">Roman graphique</a></span>
-                </div>
-              </div>
-            </a>
-          {% endif %}
-        {% endfor %}
-      </div>
-        {{ content }}
-      {% include back.html variable="aux autres parties" %}
-    </div>
-  </div>
-  <div class="row">
-    {% assign previous-bd = site.pages | where: "category", "Roman graphique" %}
+  <div class="row bd-mini">
+    {% assign previous-bd = site.pages | where: "category", "Roman graphique" | reverse %}
     {% for p in previous-bd %}
-      {% if p.chapter > page.chapter %}
-        <a href="{{ p.url }}" class="next-bd-hover">
-          <div class="col-lg-8 flex-column">
-            <h4>Épisode suivant</h4>
-            <div class="next-bd">
-              <figure>
-                <img src="/assets/roman-graphique/articles/{{ p.og_image }}.png" class="img-fluid">
-                <figcaption class="img-dark-hover">Lire</figcaption>
-                <h4>{{ p.title }}</h4>
-                <p class="resum">{{ p.excerpt }}</p>
-                <p>{{ p.publish_date }}</p>
-                <a href="/roman-graphique/endometriose.html">Roman graphique</a>
-              </figure>
-            </div>
-          </div>
+      {% if p.chapter < page.chapter %}
+        <a href="{{ p.url }}" class="liens-bd-mini">
+          &larr;<img src="/assets/roman-graphique/articles/{{ p.og_image }}.png">{{ p.title }}
         </a>
         {% break %}
       {% endif %}
     {% endfor %}
+    {% include back.html variable="aux autres parties" %}
   </div>
-  {% include profil.html %}
+  {{ content }}
+  {% include back.html variable="aux autres parties" %}
+  {% assign previous-bd = site.pages | where: "category", "Roman graphique" %}
+    {% for p in previous-bd %}
+      {% if p.chapter > page.chapter %}
+      <h3>Épisode suivant</h3>
+        <div class="articles">
+          <a href="{{ p.url }}" class="index-articles">
+            <figure class="liens">
+              <img src="/assets/roman-graphique/articles/{{ p.og_image }}.png" class="img-fluid">
+              <figcaption class="jaune">
+                <h4 class="h4-link">{{ p.title }}</h4>
+              </figcaption>
+            </figure>
+          </a>
+        </div>
+        <p class="dinomik">{{ p.excerpt }}</p>
+        <p>{{ p.publish_date }}</p>
+        <a href="/roman-graphique/endometriose.html">Roman graphique</a>
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  <h2>Qui suis-je ?</h2>
+  <div class="row presentation">
+    <img src="/assets/images/photos/profil-isa.png" width="350" height="320">
+    <div>
+      <h4>Isabelle</h4>
+      <p class="dinomik">Diagnostiquée en 2016 d'une endométriose, j’ai passé les dernières années à me reconstruire après une opération et des effets secondaires dus à la prise d’hormones. Je crée en 2018 mon blog sur l'endométriose avec la parution d’un roman graphique, qui raconte le retard de mon diagnostic et le manque de prise en charge de ma maladie. Après des années d’apprentissage pour mieux vivre avec l’endométriose, j’avais à cœur de mettre à disposition toutes mes connaissances accumulées.</p>
+    </div>
+  </div>
   {% include button-newsletter.html %}
 </div>

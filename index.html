@@ -11,12 +11,9 @@ og_image: /assets/images/cycle.png
         <a href="{{ p.url }}" class="lien-bd-index" style="--optionBackground:url('assets/roman-graphique/articles/{{ p.og_image }}.png');">
           <div class="label">
             <div class="info">
-              <div class="main">Blonkisoaz</div>
-              <div class="sub">{{ p.title }}</div>
+              <div class="main">{{ p.title }}</div>
             </div>
-            <div class="number">
-              <p>{{ p.chapter }}</p>
-            </div>
+            <div class="number">{{ p.chapter }}</div>
           </div>
         </a>
       {% endfor %}

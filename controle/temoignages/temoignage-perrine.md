@@ -85,7 +85,7 @@ J’ai aussi ajouté beaucoup de plantes dans mon alimentation et mes boissons. 
 
 J’ai également intégré le <a data-toggle="popover" data-placement="top" data-trigger="hover" title="Jeûne" data-content="Arrêt total de l'alimentation, avec maintien ou non de la consommation d'eau. (Larousse)" class="pop">jeûne</a>. J’avais lu que lorsqu’on se nourrit, le corps passe la majeure partie de son énergie à digérer et que lorsqu’il digère, il ne peut pas mettre de l’énergie à la détoxification ou à la régénération cellulaire. J’ai donc commencé petit à petit à faire des jeûnes soit intermittents, soit plus stricts avant les règles ou avant l’ovulation. C’est aussi un moyen de ne pas rajouter une inflammation digestive sur une inflammation menstruelle puisque le corps est déjà hyper inflammé à ce moment là.
 
-<p class="q">I : Tu as senti des changements notables avec l’intégration du jeun&nbsp;?</p>
+<p class="q">I : Tu as senti des changements notables avec l’intégration du jeûne&nbsp;?</p>
 
 <span>{{ page.title }} :</span> Clairement ! Si le changement d’alimentation a permis de diminuer les douleurs liées à la digestion et aux reins, le jeune a permis de diminuer mes douleurs menstruelles. Comme j'ai commencé le jeûne quelques mois après mon nouveau régime, j’ai pu sentir que j’avais immédiatement réduit mes douleurs, autant au moment de l’ovulation qu’au moment des règles.
 **Après quelques mois, j’avais globalement diminué de 70% mes douleurs.**

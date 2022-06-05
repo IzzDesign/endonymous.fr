@@ -6,10 +6,10 @@ og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 ---
 
 <div class="container">
-  <p>Merci de ton inscription à ma newsletter !</p>
-  <p>Tu peux me suivre sur Instagram pour être au courant de toutes les actus :</p>
+  <p class="dinomik">Merci de ton inscription à ma newsletter ! Tu peux me suivre sur Instagram pour être au courant de toutes les actus :</p>
   {% include button-newsletter.html %}
-  <p>Si tu veux en savoir plus sur notre contenu, voici tous nos articles présents sur le site :</p>
+  <a href="/index.html" class="button btn-rouge">Retour à l'accueil</a>
+  <p class="dinomik">Si tu veux en savoir plus sur notre contenu, voici tous les articles présents sur le site :</p>
   {% assign sorted_articles = site.pages | sort: 'order' %}
   <div class="articles">
     {% for p in sorted_articles %}

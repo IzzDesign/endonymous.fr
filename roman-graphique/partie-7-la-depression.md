@@ -15,6 +15,11 @@ previous: /roman-graphique/endometriose.html
 	<img src="/assets/roman-graphique/partie7-la-depression/01-partie7.png">
 	<img src="/assets/roman-graphique/partie7-la-depression/02-partie7.png">
 	<img src="/assets/roman-graphique/partie7-la-depression/03-partie7.png">
+  	<img src="/assets/roman-graphique/{{ page.bd_image }}.png" class="cover-image" alt="{{ page.alt_img }}" title="{{ page.title_img }}">
+	<div class="entete">
+		<span class="h3">Partie 7</span>
+		<h2 class="title">La dépression</h2>
+	</div>
 	<p>L'attente du résultat du compte rendu de l'étude de mon dossier par la clinique a été longue et stressante. D'un autre côté je n'avais pas du tout envie de connaître leur conclusion, de peur d'avoir de nouveau une mauvaise nouvelle à gérer.</p>
 	<p>Je ne sais toujours pas comment j'ai trouvé le courage d'y aller.</p>
 	<img src="/assets/roman-graphique/partie7-la-depression/04-partie7.png">
