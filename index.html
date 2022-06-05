@@ -9,7 +9,7 @@ og_image: /assets/images/cycle.png
     {% assign index-bd = site.pages | where: "category", "Roman graphique" %}
       {% for p in index-bd %}
         <a href="{{ p.url }}" class="lien-bd-index" style="--optionBackground:url('assets/roman-graphique/articles/{{ p.og_image }}.png');">
-          <div class="label">
+          <div class="figcaption">
             <div class="info">
               <div class="main">{{ p.title }}</div>
             </div>
@@ -38,7 +38,7 @@ og_image: /assets/images/cycle.png
   <div class="row">
     <img src="assets/images/svg/icones/livres-icone.svg" width="221" height="221">
     {% assign conseils_lectures = site.pages | where: "layout", "bibliography" | sort: "publish_date" | reverse %}
-    <div class="index-list" style="align-items: flex-start; margin-left: 2em;">
+    <div class="index-list" style="align-items: flex-start;">
       {% for l in conseils_lectures limit: 3 %}
         <a href="{{ l.url }}" class="list">
           <div class="background bg-bleu">

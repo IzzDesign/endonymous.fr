@@ -1,10 +1,16 @@
 <nav>
-  <a href="/index.html" class="logo">
-    <img src="/assets/images/logo-mini.svg" width="75" height="75">
-  </a>
-  <a class="{% if page.url == '/' %}active{% endif %}" href="/index.html">Accueil</a>
-  <a class="{% if page.url == '/roman-graphique/endometriose.html' %}active{% endif %}" href="/roman-graphique/endometriose.html">Roman graphique</a>
-  <a class="{% if page.url == '/savoir/savoir.html' %}active{% endif %}" href="/savoir/savoir.html">Le savoir c'est le pouvoir</a>
-  <a class="{% if page.url == '/controle/controle.html' %}active{% endif %}" href="/controle/controle.html">Reprends le contrôle</a>
-  <a class="{% if page.url == '/contact.html' %}active{% endif %}" href="/contact/contact.html">Contact</a>
+  <div class="nav-mobile">
+    <a href="/index.html" class="logo">
+      <img src="/assets/images/logo-mini.svg" width="75" height="75">
+    </a>
+    <label for="toggle">☰</label>
+  </div>
+  <input type="checkbox" id="toggle">
+  <div class="nav-desktop">
+    <a class="{% if page.url == '/' %}active{% endif %}" href="/index.html">Accueil</a>
+    <a class="{% if page.url == '/roman-graphique/endometriose.html' %}active{% endif %}" href="/roman-graphique/endometriose.html">Roman graphique</a>
+    <a class="{% if page.url == '/savoir/savoir.html' %}active{% endif %}" href="/savoir/savoir.html">Le savoir c'est le pouvoir</a>
+    <a class="{% if page.url == '/controle/controle.html' %}active{% endif %}" href="/controle/controle.html">Reprends le contrôle</a>
+    <a class="{% if page.url == '/contact.html' %}active{% endif %}" href="/contact/contact.html">Contact</a>
+  </div>
 </nav>

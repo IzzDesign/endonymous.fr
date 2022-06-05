@@ -49,10 +49,10 @@ Je rajoute souvent des dessins ou des explications au moment du recopiage au pro
 Une fois le recopiage terminé, je scanne mes dessins qui vont me servir de modèle pour la **version numérique**. Je rajoute les couleurs et les dialogues.
 Je vous mets des petites animations pour vous rendre compte du chemin parcouru du scénario à la numérisation, impressionnant non ?
 
-<img src="/assets/images/photos/animation-bd.gif" alt="dessin" max-width="600">
+<img src="/assets/images/photos/animation-bd.gif" alt="dessin" class="img-fluid">
 
 Je décalque tout simplement mes dessins sur l'ordinateur, pour celles et ceux que ça intéresse j'utilise le logiciel [Affinity Designer](https://affinity.serif.com/fr/designer/) !
-<img src="/assets/images/photos/animation-bd2.gif" alt="dessin" max-width="600">
+<img src="/assets/images/photos/animation-bd2.gif" alt="dessin" max-width="600" class="img-fluid">
 
 Lors de cette étape, il m'arrive encore de rajouter des passages, des explications ou des petits sketchs, par exemple pour la partie 5, j'ai rajouté dix pages d'histoire en plus !
 

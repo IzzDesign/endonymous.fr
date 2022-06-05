@@ -38,11 +38,11 @@ Ces adhérences peuvent se **renforcer avec le temps** et créer des douleurs l�
 Les [médecines douces](/controle/meddouces.html) telles que l'ostéopathie ou la kinésithérapie peuvent apporter du bien-être en assouplissants ces adhérences et en permettant de regagner peu à peu de la mobilité. Pratiquer une activité physique est un plus pour vous [maintenir en mouvement](/controle/mouvements.html).
 
 ## Sources
-+ Endo&Sexo Avoir une sexualité épanouie avec une endométriose, Marie-Rose Galès, 2019.
-+ The doctor will see you now, Tamer Seckin MD, 2016.
-+ Endometriosis, the experts’ guide to treat, manage and live well with your symptoms, Pr Andrew Horne & Carol Pearson, 2018.
-+ 1001 questions & answers about Endometriosis, Dr Redwine, 2009.
-+ Soulager l’endométriose sans médicaments, Stéphanie Mezerai et Sophie Pensa, 2019.
++ [Endo&Sexo Avoir une sexualité épanouie avec une endométriose, Marie-Rose Galès, 2019.](/savoir/bibliographie/endo-sexo.html)
++ [Endometriosis, the experts’ guide to treat, manage and live well with your symptoms, Pr Andrew Horne & Carol Pearson, 2018.](/savoir/bibliographie/endometriosis-experts-guide.html)
++ [1001 questions & answers about Endometriosis, Dr Redwine, 2009.](/savoir/bibliographie/100-questions-about-endometriosis.html)
++ [The doctor will see you now, Tamer Seckin MD, 2016](/savoir/bibliographie/doctor-will-see-you-now.html)
++ [Soulager l’endométriose sans médicaments, Stéphanie Mezerai et Sophie Pensa, 2019.](/savoir/bibliographie/soulager-endometriose-sans-medicaments.html)
 + [Harvard Health Publishing : Foods that fight inflammation, 2018.](https://www.health.harvard.edu/staying-healthy/foods-that-fight-inflammation)
 + [Adhérences, Dr Aly Abbara, 2019](http://www.aly-abbara.com/livre_gyn_obs/termes/adherences.html)
 + [Marine massage](http://www.marinemassage.com/endometriose-massage/)

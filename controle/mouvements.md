@@ -31,9 +31,9 @@ Le méthode **Feldenkrais** est une méthode d’auto-éducation et de développ
 ### Automassages
 Les **massages** ou **auto massages** ont énormément de bienfaits en plus d’assouplir à terme les cicatrices et [adhérences](/savoir/adherences.html). Les massages abdominaux vont stimuler l’activité intestinale et **faciliter la digestion**, **diminuer les ballonnements** et aider contre la **constipation**. Ils vont aider à apaiser et calmer.  Ils vont améliorer la **circulation du sang, de l’oxygène**. Les massages du diaphragme vont permettre de détendre un muscle important pour notre respiration et le bon déroulement de la digestion. Psychologiquement ils aident à **reprendre confiance en soi** et se sentir **actrice de son bien-être**.
 ### Sources
-  * Endo&Sexo Avoir une sexualité épanouie avec une endométriose, Marie-Rose Galès, 2019.
-  * Endometriosis, the experts’ guide to treat, manage and live well with your symptoms, Pr Andrew Horne & Carol Pearson, 2018.
-  * 1001 questions & answers about Endometriosis, Dr Redwine, 2009.
+  * [Endo&Sexo Avoir une sexualité épanouie avec une endométriose, Marie-Rose Galès, 2019.](/savoir/bibliographie/endo-sexo.html)
+  * [Endometriosis, the experts’ guide to treat, manage and live well with your symptoms, Pr Andrew Horne & Carol Pearson, 2018.](/savoir/bibliographie/endometriosis-experts-guide.html)
+  * [1001 questions & answers about Endometriosis, Dr Redwine, 2009.](/savoir/bibliographie/100-questions-about-endometriosis.html)
   * [Méthode Feldenkrais](https://fr.wikipedia.org/wiki/M%C3%A9thode_Feldenkrais)
   * [Youtube : Et si essayait le Feldenkrais ?](https://www.youtube.com/watch?v=1hBR2W4krKA)
   * [5 questions pour tout savoir sur l'endométriose](https://sante.lefigaro.fr/article/cinq-questions-pour-tout-savoir-sur-l-endometriose/)

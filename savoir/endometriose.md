@@ -106,9 +106,9 @@ Le mécanisme de fonctionnement de l'endométriose de par son **invasion** de ce
 
 ## Sources
 
-* The doctor will see you now, Tamer Seckin MD, 2016
+* [The doctor will see you now, Tamer Seckin MD, 2016](/savoir/bibliographie/doctor-will-see-you-now.html)
 * Nature Reviews : Endometriosis, K. T. Zondervan, C. M. Becker, K. Koga, S. A. Missmer, R. N. Taylor and P. Vigano, 2018
-* Endometriosis, the experts’ guide to treat, manage and live well with your symptoms, Pr Andrew Horne & Carol Pearson, 2018
-* 1001 questions & answers about Endometriosis, Dr Redwine, 2009
+* [Endometriosis, the experts’ guide to treat, manage and live well with your symptoms, Pr Andrew Horne & Carol Pearson, 2018.](/savoir/bibliographie/endometriosis-experts-guide.html)
+* [1001 questions & answers about Endometriosis, Dr Redwine, 2009.](/savoir/bibliographie/100-questions-about-endometriosis.html)
 * [INSERM : Endométriose](https://www.inserm.fr/information-en-sante/dossiers-information/endometriose.html)
 * [Endométriose : pourquoi se développe-telle ?](https://orbi.uliege.be/bitstream/2268/142313/1/Beliard%20A%20Ref%20en%20G%20et%20Obst.pdf)

@@ -31,7 +31,7 @@ Si vous ne connaissez pas bien l’endométriose et ses symptômes je vous parta
 <a href="/assets/images/schema/journal-observation-endonymous-fr.pdf" class="button btn-rouge">Accéder au Journal d'observation</a>
 
 <div class="text-center">
-    <a href="/assets/images/schema/journal-observation-endonymous-fr.pdf" class="image"><img src="/assets/images/schema/tableau-journal.png" class="img-fluid" alt="journal observation endonymous douleurs endométriose intensité" title="Exemple du journal d'information avec la possibilité de renseigner sa douleur et son intensité"></a>
+    <a href="/assets/images/schema/journal-observation-endonymous-fr.pdf" class="img-fluid"><img src="/assets/images/schema/tableau-journal.png" class="img-fluid" alt="journal observation endonymous douleurs endométriose intensité" title="Exemple du journal d'information avec la possibilité de renseigner sa douleur et son intensité"></a>
 </div>
 
 À noter que j’utilise également la prise de note pour m’aider au [changement de mon alimentation](/controle/alimentation.html) et à identifier quels aliments contribuent à me provoquer des douleurs, voir l’article sur [l’alimentation](/controle/endometriose-digestive-et-alimentation.html).
@@ -41,7 +41,9 @@ Si vous ne connaissez pas bien l’endométriose et ses symptômes je vous parta
   <p>Attention, ceci ne dispense pas d’aller voir un médecin et ne sert en AUCUN cas de diagnostic, SEUL un professionnel de santé a les compétences nécessaires pour poser un diagnostic.</p>
 </div>
 
-![Explication du tableau du journal d'information avec la possibilité de renseigner ses symptomes](/assets/images/schema/tableau-journal2.png)
+<div class="text-center">
+    <a href="/assets/images/schema/journal-observation-endonymous-fr.pdf" class="img-fluid"><img src="/assets/images/schema/tableau-journal2.png" class="img-fluid" alt="journal observation endonymous douleurs endométriose intensité" title="Explication du tableau du journal d'information avec la possibilité de renseigner ses symptomes"></a>
+</div>
 
 Voici cependant une liste de quelques questions que je me pose pour prendre en note mes symptômes. L’idéal est de noter au mieux les gênes et douleurs et l'arrivée des règles en essayant d’être précis.
 - Règles douloureuses ? Quel est le niveau de douleur ? La douleur a t-elle causée des sensations d’évanouissements, des vomissements ? Le niveau de douleur empêche-t-il d'aller travailler ou de sortir ?

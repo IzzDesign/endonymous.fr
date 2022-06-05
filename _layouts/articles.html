@@ -6,7 +6,7 @@ layout: default
     <span class="h2">{{ page.category }}</span>
     <h2 class="title">{{ page.title }}</h2>
   </div>
-  <img src="/assets/images/articles/{{ page.og_image }}" alt="{{ page.alt_img }}" title="{{ page.title_img }}" width="475" height="350">
+  <img src="/assets/images/articles/{{ page.og_image }}" alt="{{ page.alt_img }}" title="{{ page.title_img }}" class="entete-img">
   {% include back.html variable="aux articles" %}
   {{ content }}
   {% include articles.html %}
