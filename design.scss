@@ -21,6 +21,7 @@ body{
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+	margin: 0 0.5em;
 	*::selection{
 	 	background-color : $bleu-clair;
 	}
@@ -235,6 +236,7 @@ label, #toggle{
 	height: 400px;
 	width: 100%;
 	overflow: hidden;
+	margin-top: 1.5em;
 	a:nth-child(1){
 		animation: apparition-top 0.1s cubic-bezier(0.215, 0.61, 0.355, 1) 0.1s forwards;
 	}
@@ -466,7 +468,7 @@ label, #toggle{
 		}
 		figcaption.bleu, figcaption.jaune{
 			background-size: 4px 100%;
-			transform: scale(1.05);
+			transform: scaleX(1.05);
 		}
 	}
 }
@@ -1015,7 +1017,7 @@ figure.schema{
 	img{
 		display: block;
 		width: 70%;
-		margin: 0 0 5em 0;
+		margin: 2em 0 3em 0;
 	}
 	img.cover-image{
 		margin: 0;
@@ -1032,6 +1034,9 @@ figure.schema{
 		line-height: 1.2em;
 		margin-top: 1em;
 	}
+	video{
+		width: 100%;
+	}
 }
 
 .articles-lies{
@@ -1042,6 +1047,7 @@ figure.schema{
 	width: 100%;
 	margin: 2em 0;
 	justify-content: center;
+	align-items: flex-end;
 	img{
 		max-width: 480px;
 		width: 33%;
@@ -1050,6 +1056,7 @@ figure.schema{
 	div{
 		max-width: 600px;
 		width: 33%;
+		height: 377px;
 		position: relative;
 	}
 	a.button.btn-jaune{
@@ -1089,9 +1096,6 @@ figure.schema{
 }
 
 @media screen and (max-width: 990px) {
-	body{
-		margin: 0 1.2em;
-	}
 	label{
 		display: flex;
 		cursor: pointer;
@@ -1107,13 +1111,12 @@ figure.schema{
 	#toggle + .nav-desktop{
 		display: none;
 		transform: scale(0);
+		transition: all 1s cubic-bezier(0.215, 0.61, 0.355, 1) 0.2s;
 	}
 	#toggle:checked + .nav-desktop{
 		display: flex;
 		flex-direction: column;
-		position: absolute;
 		background-color: #fff;
-		top: 92px;
 		width: 100%;
 		padding: 0.1em 0.2em;
 		transform: scale(1.0);
@@ -1143,6 +1146,9 @@ figure.schema{
 				}
 			}
 		}
+	}
+	.content-article{
+		width: 90%;
 	}
 	.content-article ul{
 		width: 90%;
@@ -1183,6 +1189,7 @@ figure.schema{
 		width: 100%;
 		flex-direction: column;
 		justify-content: center;
+		align-items: center;
 		img{
 			display: none;
 		}
@@ -1210,7 +1217,24 @@ figure.schema{
 	}
 }
 
+@media screen and (max-width: 650px) {
+	.bd-inside{
+		img{
+			width: 100%;
+		}
+		p{
+			font-size: 1.6em;
+		}
+	}
+}
+
 @media screen and (max-width: 475px) {
+	body{
+		margin: 0;
+	}
+	.margin-mobile{
+		width: 90%;
+	}
 	.entete-img{
 		width: 300px;
 		height: auto;
@@ -1228,6 +1252,21 @@ figure.schema{
 				transform: none;
 			}
 		}
+	}
+	.bd-inside{
+		img{
+			width: 100%;
+		}
+		p{
+			width: 90%;
+			font-size: 1.5em;
+		}
+	}
+	.bd-mini{
+		flex-direction: column;
+	}
+	.presentation{
+		width: 90%;
 	}
 	.presentation, .presentation div{
 		min-width: auto;

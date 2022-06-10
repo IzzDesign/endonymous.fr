@@ -82,7 +82,7 @@ previous: /roman-graphique/endometriose.html
 	<p>J'avais deux calculs dans le rein droit donc deux épées de damoclès au-dessus de la tête.</p>
 	<p>J'avais prévu le coup en emportant un maximum d’antidouleurs plus ou moins forts.</p>
 	<img src="/assets/roman-graphique/partie7-la-depression/33-partie7.png">
-	<p>J'ai pu tester les aptitudes à passer des trucs illégaux à la douane…</p>
+	<p>J'ai pu tester mes aptitudes à passer des trucs illégaux à la douane…</p>
 	<video loop autoplay width="644">
 		<source src="/assets/roman-graphique/partie7-la-depression/34-partie7.mp4">
 	</video>
