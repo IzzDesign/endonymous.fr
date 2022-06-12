@@ -21,7 +21,7 @@ body{
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	margin: 0 0.5em;
+	margin: 0 1em;
 	*::selection{
 	 	background-color : $bleu-clair;
 	}
@@ -527,12 +527,13 @@ a.list{
 
 .popover{
 	display: block;
-	width: 400px;
+	width: 20%;
 	background-color: white;
 	padding: 1em;
 	line-height: 1.2em;
 	border: 4px solid $bleu;
 }
+
 .pop, a:not([href]){
 	text-decoration: underline dotted;
 	color: black;
@@ -1283,6 +1284,9 @@ figure.schema{
 	}
 	form.contact input[type="email"]{
 		min-width: auto;
+	}
+	.bibliography{
+		width: 90%;
 	}
 }
 
