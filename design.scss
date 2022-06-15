@@ -160,7 +160,7 @@ a{
 
 nav{
 	display: flex;
-	justify-content:space-evenly;
+	justify-content:center;
 	align-items: center;
 	align-self: center;
 	flex-grow:1;
@@ -172,15 +172,67 @@ nav{
 	text-decoration: none;
 	gap: 10px;
 	opacity: 0;
+	position: sticky;
+	top: 0;
+	z-index: 30;
+	width: 100%;
+	margin: 0 0.2em 1.5em 0.2em;
+	padding-bottom: 0.2em;
+	background-color: white;
 	transform: translateX(0);
 	animation: apparition-left 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0.2s forwards;
+	&.no-stick{
+		position: relative;
+	}
+}
+
+nav{
+	ul.dropdown{
+		display: inline-flex;
+		padding: 0;
+		&:hover{
+	  	cursor: pointer;
+		}
+	}
+	li {
+	 display: block;
+	 transition-duration: 0.5s;
+	}
+
+	ul li ul {
+	  visibility: hidden;
+	  opacity: 0;
+	  position: absolute;
+	  transition: all 0.5s ease;
+	  padding-top: 1em;
+	  display: none;
+	  padding-left: 0;
+	  text-align: center;
+	  background-color: white;
+	}
+
+	ul li:hover > ul,
+	ul.dropdown-content li:focus-within > ul,
+	ul.dropdown-content li:focus > ul,
+	ul li ul:hover {
+	  visibility: visible;
+	  opacity: 1;
+	  display: block;
+	}
+
+	ul li ul li {
+	  clear: both;
+	  width: 100%;
+	  min-width: 200px;
+	  padding: 0.5em;
+	}
 }
 
 nav a{
 	text-decoration: none;
 	color: $bleu;
 	font-weight: 500;
-	padding:0.5em 0.2em;
+	padding:0.8em 0.8em 0.5em 0.8em;
 	background:
      linear-gradient(
        to bottom, #fff 0%,
@@ -205,10 +257,10 @@ nav a{
 	background-position: 0 100%;
 	background-repeat: repeat-x;
 	background-size: 4px 4px;
-	padding:0.5em 0;
 }
 
-nav a:hover:not(.logo), nav a:focus:not(.logo){
+nav a:hover:not(.logo),
+nav a:focus:not(.logo) {
 	color: #fff;
 	background:
      linear-gradient(
@@ -729,6 +781,7 @@ footer {
 		width: 100%;
 		list-style: square;
 		li{
+			margin: 0.2em 0;
 			font-size: 1.3em;
 			line-height: 1.5em;
 		}
@@ -1042,6 +1095,32 @@ figure.schema{
 
 .articles-lies{
 	margin-bottom: 1em;
+	width: 100%;
+	div{
+		width: 100%;
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0 4%;
+	}
+	a.articles-list{
+		display: flex;
+		flex-direction: row;
+		width: 48%;
+		img{
+			width: 150px;
+			height: 110px;
+			margin-right: 2em;
+		}
+		h4{
+			text-align: left;
+			color: $bleu;
+			align-self: center;
+			transition: all 1s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
+		}
+		&:hover h4{
+			transform: translateX(-10px);
+		}
+	}
 }
 
 .promo-bd-div{
@@ -1108,7 +1187,27 @@ figure.schema{
 		flex-direction: column;
 		position: relative;
 		margin-bottom: 0.5em;
+		a{
+			display: block;
+			width: max-content;
+			margin: 0.2em 0;
+		}
 	}
+	nav{
+		ul li a,
+		ul.dropdown{
+			margin: 0;
+		}
+		ul li:hover > ul,
+		ul.dropdown-content li:focus-within > ul,
+		ul.dropdown-content li:focus > ul,
+		ul li ul:hover {
+		  visibility: hidden;
+		  opacity: 0;
+		  display: none;
+		}
+	}
+
 	#toggle + .nav-desktop{
 		display: none;
 		transform: scale(0);
@@ -1214,6 +1313,14 @@ figure.schema{
 				position: inherit;
 				max-width: 400px;
 			}
+		}
+	}
+}
+
+@media screen and (max-width: 880px) {
+	.articles-lies{
+		a.articles-list{
+			width: 100%;
 		}
 	}
 }

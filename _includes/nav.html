@@ -1,14 +1,22 @@
-<nav>
+<nav {% if page.category == 'Roman graphique' %} class="no-stick" {% endif %}>
   <div class="nav-mobile">
     <a href="/index.html" class="logo">
-      <img src="/assets/images/logo-mini.svg" width="75" height="75">
+      <img src="/assets/images/logo-mini.svg" width="35" height="35">
     </a>
     <label for="toggle">☰</label>
   </div>
   <input type="checkbox" id="toggle">
   <div class="nav-desktop">
     <a class="{% if page.url == '/' %}active{% endif %}" href="/index.html">Accueil</a>
-    <a class="{% if page.url == '/roman-graphique/endometriose.html' %}active{% endif %}" href="/roman-graphique/endometriose.html">Roman graphique</a>
+    <ul class="dropdown">
+      <li><a href="/roman-graphique/endometriose.html" class="{% if page.url == '/roman-graphique/endometriose.html' %} active{% endif %} coucou">Roman graphique</a>
+        <ul class="dropdown-content">
+          <li><a href="#">Partie 1</a></li>
+          <li><a href="#">Link 2</a></li>
+          <li><a href="#">Link 3</a></li>
+        </ul>
+      </li>
+    </ul>
     <a class="{% if page.url == '/savoir/savoir.html' %}active{% endif %}" href="/savoir/savoir.html">Le savoir c'est le pouvoir</a>
     <a class="{% if page.url == '/controle/controle.html' %}active{% endif %}" href="/controle/controle.html">Reprends le contrôle</a>
     <a class="{% if page.url == '/contact.html' %}active{% endif %}" href="/contact/contact.html">Contact</a>

@@ -1,15 +1,11 @@
 <div class="column articles-lies">
 <h3>Articles liés</h3>
-	<div class="articles">
+	<div>
 		{% for p in site.pages %}
-			{% if page.articles contains p.url %}
-				<a href="{{ p.url }}" class="index-articles">
-					<figure class="liens">
-						<img src="/assets/images/articles/{{ p.og_image }}" class="img-fluid">
-						<figcaption class="bleu">
-							<h4 class="h4-link">{{ p.title }}</h4>
-						</figcaption>
-					</figure>
+			{% if p.category == "Le savoir c'est le pouvoir" or p.category == "Reprends le contrôle" %}
+				<a href="{{ p.url }}" class="articles-list">
+					<img src="/assets/images/articles/{{ p.og_image }}">
+					<h4 class="h4-link">{{ p.title }}</h4>
 				</a>
 			{% endif %}
 		{% endfor %}
