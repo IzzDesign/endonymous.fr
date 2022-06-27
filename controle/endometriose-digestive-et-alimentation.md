@@ -1,15 +1,12 @@
 ---
 layout: articles
 order: 75
-subtitle: L'endométriose digestive et l’alimentation anti-inflammatoire
 title: Endométriose, changer son alimentation&nbsp;?
+subtitle: L'endométriose digestive et l’alimentation anti-inflammatoire
 category: Reprends le contrôle
 alt_img: femme pomme
 title_img: Femme tenant une pomme
 og_image: changer-alimentation.png
-articles:
-  - /savoir/endometriose.html
-  - /controle/alimentation.html
 previous: /controle/controle.html
 redirect_from:
   - /article/2020/03/27/endometriose-digestive-et-alimentation.html

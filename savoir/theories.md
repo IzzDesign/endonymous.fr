@@ -1,17 +1,14 @@
 ---
 layout: articles
 order: 65
-subtitle: À quoi est due l'endométriose&nbsp;?
 title: Les théories de développement de l'endométriose
+subtitle: À quoi est due l'endométriose&nbsp;?
 category: Le savoir c'est le pouvoir
 alt_img: femme gynécologie endometriose theories mecanisme
 title_img: "Utérus avec lésions endométriose"
 og_image: theorie-de-developpement.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
-articles:
-  - /savoir/avancees.html
-  - /savoir/endometriose.html
 publish_date: 2021-01-15
 ---
 On ne sait toujours pas quelle est l'origine de [l'endométriose,](/savoir/endometriose.html) le corps médical a plusieurs hypothèses et si chacune peut être soutenue par des chiffres et des statistiques, **aucune n’est parfaite** ni n’arrive à englober entièrement toutes les formes des [lésions endométriosiques](/endo-dico/lesions-endometriose.html) et/ou leur localisation dans le corps. Déterminer les causes de l’endométriose est complexe, notamment au vu des différents facteurs qui pourraient rentrer en jeu (génétiques, environnementaux, biologiques, …) et le manque d’études à grande échelle. Néanmoins, voici en simplifié ce qu’en dit la revue **Nature dans une méta-étude publiée en 2018** faisant la revue de plus de 250 sources publiées dans des journaux à comité de lecture[^nature].

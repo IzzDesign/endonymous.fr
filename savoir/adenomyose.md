@@ -1,17 +1,14 @@
 ---
 layout: articles
 order: 35
-subtitle: Maladie gynécologique chronique, qu'est-ce que l'adénomyose ?
 title: Qu'est-ce que l'adénomyose&nbsp;?
+subtitle: Maladie gynécologique chronique, qu'est-ce que l'adénomyose&nbsp;?
 category: Le savoir c'est le pouvoir
 alt_img: femme gynécologie adenomyose
 title_img: "Femme se tenant le ventre : Adenomyose"
 og_image: adenomyose.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
-articles:
-  - /savoir/endometriose.html
-  - /controle/mouvements.html
 publish_date: 2019-03-01
 ---
 L’**adénomyose** c’est la présence de cellules semblables à de l’endomètre, la paroi qui tapisse l’intérieur de l’utérus, au sein de la **paroi du muscle de l'utérus**, le **myomètre**. Les lésions peuvent être superficielles ou profondes et réagissent également aux hormones du cycle féminin, s’épaississant et provoquant des **saignements**. Le principe est le même que pour l’endométriose, ces saignements ne peux être évacués et vont créer des phénomènes inflammatoires.

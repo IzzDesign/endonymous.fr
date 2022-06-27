@@ -1,18 +1,14 @@
 ---
 layout: articles
 order: 10
-subtitle: Pourquoi il est intéressant de rester en mouvement malgré les douleurs d'endométriose.
 title: Rester en mouvement
+subtitle: Pourquoi il est intéressant de rester en mouvement malgré les douleurs d'endométriose.
 category: Reprends le contrôle
 alt_img: femme yoga
 title_img: Femme sur tapis de Yoga
 og_image: mouvement.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
-
 previous: /controle/controle.html
-articles:
-  - /savoir/endometriose.html
-  - /savoir/adherences.html
 publish_date: 2019-03-01
 ---
 

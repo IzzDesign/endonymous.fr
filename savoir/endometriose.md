@@ -1,17 +1,14 @@
 ---
 layout: articles
 order: 25
-subtitle: Maladie gynécologique touchant une femme sur dix, qu'est-ce que l'endométriose ?
 title: Qu'est-ce que l'endométriose&nbsp;?
+subtitle: Maladie gynécologique touchant une femme sur dix, qu'est-ce que l'endométriose&nbsp;?
 category: Le savoir c'est le pouvoir
 alt_img: femme gynécologie endometriose
 title_img: "Femme se tenant le ventre : Endométriose"
 og_image: endometriose.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
-articles:
-  - /savoir/adenomyose.html
-  - /controle/mouvements.html
 publish_date: 2019-03-01
 redirect_from:
   - /article/l-endometriose-c-est-quoi.html

@@ -1,16 +1,13 @@
 ---
 layout: articles
 order: 90
-subtitle: L’endométriose, observer et faire diagnostiquer
 title: Journal d'observation, une aide au diagnostic
+subtitle: L’endométriose, observer et faire diagnostiquer
 category: Reprends le contrôle
 alt_img: femme lit livre journal endométriose
 title_img: Femme lisant un livre
 og_image: journal-d-observation.png
 previous: /controle/controle.html
-articles:
-  - /savoir/adenomyose.html
-  - /savoir/endometriose.html
 publish_date: 2020-05-10
 ---
 Il n’existe aucun test en ligne facile à faire pour savoir si on a une endométriose mais si vous avez des doutes sur une possible endométriose il peut être intéressant d’entamer un processus d’observation et de notes pour le partager à votre médecin et aider au diagnostic. Dans cet article, je vous partage un outil j'utilise pour suivre mes douleurs.

@@ -1,17 +1,14 @@
 ---
 layout: articles
 order: 30
-subtitle: Quelques médecines douces qui peuvent aider à la diminution des douleurs en cas d'endométriose.
 title: Les médecines douces
+subtitle: Quelques médecines douces qui peuvent aider à la diminution des douleurs en cas d'endométriose.
 category: Reprends le contrôle
 alt_img: femme automassage
 title_img: Femme s'automassant le ventre
 og_image: medecines-douces.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /controle/controle.html
-articles:
-  - /savoir/endometriose.html
-  - /controle/mouvements.html
 publish_date: 2019-03-01
 ---
 

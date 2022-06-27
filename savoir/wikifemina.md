@@ -1,17 +1,14 @@
 ---
 layout: articles
 order: 95
-subtitle: En apprendre plus sur le cycle
 title: WikiFemina
+subtitle: En apprendre plus sur le cycle et notre corps tout simplement.
 category: Le savoir c'est le pouvoir
 alt_img: femme lecture cycle
 title_img: "WikiFemina"
 og_image: wikifemina.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
-articles:
-  - /savoir/endo-dico.html
-  - /savoir/bibliographie-endometriose.html
 publish_date: 2021-06-29
 ---
 

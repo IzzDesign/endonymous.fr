@@ -1,17 +1,14 @@
 ---
 layout: articles
 order: 200
-subtitle: Un tour des initiatives créatives pour documenter et témoigner à propros de l'endométriose.
 title: Endométriose &#x3A; documenter, témoigner et inventer
+subtitle: Un tour des initiatives créatives pour documenter et témoigner à propros de l'endométriose.
 category: Reprends le contrôle
 alt_img: femme appareil photo photographe
 title_img: Femme photographe
 og_image: creativite.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /controle/controle.html
-articles:
-  - /savoir/endometriose.html
-  - /savoir/adenomyose.html
 publish_date: 2020-11-15
 ---
 

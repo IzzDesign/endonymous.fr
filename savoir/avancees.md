@@ -1,17 +1,14 @@
 ---
 layout: articles
 order: 105
-subtitle: Endométriose, ce qu'en dit la recherche
 title: Endométriose, des nouveaux espoirs de traitements
+subtitle: Endométriose, ce qu'en dit la recherche
 category: Le savoir c'est le pouvoir
 alt_img: femme scientifique recherche endometriose
 title_img: "Femme participant à la recherche pour l'endométriose"
 og_image: espoirs-de-traitements.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
-articles:
-  - /savoir/endometriose.html
-  - /savoir/theories.html
 publish_date: 2021-01-15
 ---
 

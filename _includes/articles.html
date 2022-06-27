@@ -1,11 +1,15 @@
 <div class="column articles-lies">
 <h3>Articles liés</h3>
 	<div>
-		{% for p in site.pages %}
-			{% if p.category == "Le savoir c'est le pouvoir" or p.category == "Reprends le contrôle" %}
+		{% assign sorted_articles = site.pages | sort: 'order' %}
+		{% for p in sorted_articles %}
+			{% if p.category == page.category %}
 				<a href="{{ p.url }}" class="articles-list">
 					<img src="/assets/images/articles/{{ p.og_image }}">
-					<h4 class="h4-link">{{ p.title }}</h4>
+					<div>
+						<h4 class="h4-link">{{ p.title }}</h4>
+						<p>{{ p.subtitle }}</p>	
+					</div>
 				</a>
 			{% endif %}
 		{% endfor %}

@@ -1,8 +1,8 @@
 ---
 layout: articles
 order: 120
-subtitle: Faire un roman graphique sur l'endométriose
 title: Une BD sur l'endométriose
+subtitle: Faire un roman graphique sur l'endométriose, les étapes de création.
 category: Reprends le contrôle
 alt_img: endonymous, bd, roman graphique, bande dessinée, endométriose
 title_img: Endonymous, une bd sur l'endométriose

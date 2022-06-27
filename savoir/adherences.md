@@ -1,17 +1,14 @@
 ---
 layout: articles
 order: 55
-subtitle: La présence d'adhérences peut-être une conséquence de la maladie, on t'explique ce que c'est.
 title: Endométriose et adhérences
+subtitle: La présence d'adhérences peut-être une conséquence de la maladie, on t'explique ce que c'est.
 category: Le savoir c'est le pouvoir
 alt_img: femme ventre adherences
 title_img: Femme souffrant d'adhérences
 og_image: adherences.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
-articles:
-  - /controle/alimentation.html
-  - /controle/mouvements.html
 publish_date: 2019-03-01
 ---
 Les adhérences sont composées d'un **tissu fibreux** pouvant ressembler à une **toile d’araignée** et pouvant enserrer les organes et les relier entre eux. Elles vont de ce fait rendre les viscères moins mobiles et pouvoir à terme entraîner des **douleurs parfois projetées** et des **dysfonctionnements**. Comment peuvent-elles apparaître dans le cas d'une endométriose ?

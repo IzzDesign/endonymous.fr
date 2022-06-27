@@ -1064,6 +1064,25 @@ figure.schema{
 	}
 }
 
+.liens-sommaire{
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	gap:15px;
+	align-items: center;
+	text-decoration: none;
+	color: $bleu;
+	font-weight: bold;
+	transition: transform 0.4s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
+	img{
+		max-width: 100px;
+	}
+	&:hover{
+		transform: translateX(-10px);
+	}
+}
+
+
 .bd-inside{
 	display: flex;
 	flex-direction: column;
@@ -1096,6 +1115,7 @@ figure.schema{
 .articles-lies{
 	margin-bottom: 1em;
 	width: 100%;
+	height: fit-content;
 	div{
 		width: 100%;
 		display: flex;
@@ -1106,6 +1126,10 @@ figure.schema{
 		display: flex;
 		flex-direction: row;
 		width: 48%;
+		margin: 0.3em 0;
+		div{
+			height: fit-content;
+		}
 		img{
 			width: 150px;
 			height: 110px;
@@ -1115,7 +1139,15 @@ figure.schema{
 			text-align: left;
 			color: $bleu;
 			align-self: center;
+			margin: 0.5em 0 0.2em 0;
 			transition: all 1s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
+		}
+		p{
+			font-size: 1em;
+			margin: 0.2em 0;
+			color: #484848;
+			font-family: $body-font;
+			line-height: 1.1em;
 		}
 		&:hover h4{
 			transform: translateX(-10px);

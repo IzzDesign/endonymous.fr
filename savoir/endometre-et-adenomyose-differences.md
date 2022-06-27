@@ -1,17 +1,14 @@
 ---
 layout: articles
 order: 85
-subtitle: Maladies gynécologiques chroniques, quelles sont les différences entre ces deux maladies ?
 title: Les différences entre endométriose et adénomyose
+subtitle: Souvent simultanées mais différenciées l'endométriose et l'adénomyose ont quelques différences.
 category: Le savoir c'est le pouvoir
 alt_img: femme gynécologie adenomyose endometriose
 title_img: Endométriose et Adénomyose
 og_image: endometriose-adenomyose.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
-articles:
-  - /savoir/endometriose.html
-  - /savoir/adenomyose.html
 publish_date: 2021-06-30
 ---
 On entend très souvent parler de l'[endométriose](/savoir/endometriose.html), mais moins de l'[adénomyose](/savoir/adenomyose.html). Au programme, nous verrons ensemble les différences et les points communs de ces deux maladie en termes de **localisation,** d'**épistémologie** (évolution des noms), de **symptologie** et de **prise en charge.** 

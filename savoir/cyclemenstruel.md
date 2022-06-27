@@ -1,17 +1,14 @@
 ---
 layout: articles
 order: 1
-subtitle: Tu te sens changeante pendant ton cycle ? C'est normal, c'est hormonal.
 title: Le cycle menstruel
+subtitle: Que se passe-t-il pendant le cycle menstruel&nbsp;? Les hormones, les changements physique, on t'explique tout.
 category: Le savoir c'est le pouvoir
 alt_img: Femme lune cycle mentruel hormones
 title_img: Femme et cycle mentruel
 og_image: cycle-menstruel.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
-articles:
-  - /savoir/hormones-cycle.html
-  - /savoir/endometriose.html
 publish_date: 2019-03-01
 ---
 

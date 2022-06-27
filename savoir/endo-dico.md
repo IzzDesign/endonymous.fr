@@ -1,17 +1,14 @@
 ---
 layout: articles
 order: 95
-subtitle: Définitions de l'endometriose
 title: EndoDico
+subtitle: Dictionnaire et définitions des mots-clefs de l'endométriose et l'adénomyose, du cycle menstruel, du corps féminin.
 category: Le savoir c'est le pouvoir
 alt_img: femme lecture dictionnaire vocabulaire endometriose
 title_img: "EndoDico"
 og_image: endodico.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
-articles:
-  - /savoir/bibliographie-endometriose.html
-  - /savoir/wikifemina.html
 publish_date: 2021-04-01
 ---
 <div class="dico-block">

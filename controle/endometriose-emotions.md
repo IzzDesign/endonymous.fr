@@ -1,17 +1,14 @@
 ---
 layout: articles
 order: 140
-subtitle: Nous sommes nombreuses à ressentir que les émotions négatives sont souvent liées avec une augmentation de nos symptômes d’endométriose. Je vous partage ici quelques pistes de réflexions sur nos émotions négatives, les pensées qu’elles peuvent nous procurer et des idées pour les diminuer.
 title: Endométriose et émotions
+subtitle: Les émotions négatives sont souvent liées avec une augmentation de nos symptômes d’endométriose. Voici quelques pistes de réflexions sur nos émotions.
 category: Reprends le contrôle
 alt_img: femme pensive endometriose emotions
 title_img: Femme pensive
 og_image: emotions.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /controle/controle.html
-articles:
-  - /controle/temoignages.html
-  - /controle/temoigner-creer.html
 publish_date: 2021-07-15
 ---
 

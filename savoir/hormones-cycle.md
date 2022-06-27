@@ -1,17 +1,14 @@
 ---
 layout: articles
 order: 5
-subtitle: Tu te sens changeante pendant ton cycle ? C'est normal c'est hormonal.
 title: Les phases du cycle, mental et énergie
+subtitle: Tu te sens changeante pendant ton cycle ? C'est normal c'est hormonal.
 category: Le savoir c'est le pouvoir
 alt_img: Femme lune cycle mentruel hormones mental énergie
 title_img: Femme de dos au tatoo
 og_image: phases-du-cycle.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
-articles:
-  - /controle/medecines-douces.html
-  - /controle/alimentation.html
 publish_date: 2019-03-01
 ---
 Comme la **Lune** qui se dévoile de manière différente, tu te sens évoluer et changer pendant ton cycle. Cela peut être en grande partie expliqué par les **changements hormonaux** qui vont avoir lieu tout au long du [cycle menstruel](/savoir/cyclemenstruel.html) pour préparer au développement de l’ovocyte à venir puis à la désagrégation de l’endomètre en cas de non-fécondation, ce qui provoquera les règles.

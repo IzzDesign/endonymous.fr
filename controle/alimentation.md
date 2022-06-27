@@ -1,17 +1,14 @@
 ---
 layout: articles
 order: 20
-subtitle: Pourquoi l'alimentation anti-inflammatoire est utile en cas d'endométriose.
 title: L'alimentation anti-inflammatoire
+subtitle: Pourquoi l'alimentation anti-inflammatoire est utile en cas d'endométriose.
 category: Reprends le contrôle
 alt_img: femme mange pomme
 title_img: Femme allongée mangeant une pomme
 og_image: alimentation.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /controle/controle.html
-articles:
-  - /savoir/endometriose.html
-  - /savoir/adherences.html
 publish_date: 2019-03-01
 ---
 

@@ -1,17 +1,14 @@
 ---
 layout: articles
 order: 60
-subtitle: Des postures de yoga faciles et adaptées contre les douleurs de règles et d'endométriose.
-title: Des postures douces de yoga contre les douleurs de règles
+title: Postures douces de yoga pour soulager l'endométriose
+subtitle: Des postures de yoga faciles et adaptées pour détendre le bassin et l'abdomen.
 category: Reprends le contrôle
 alt_img: femme yoga papillon BADDHA KONASANA
 title_img: Femme en posture du papillon Baddha Konasana
 og_image: posture-de-yoga.png
 og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /controle/controle.html
-articles:
-  - /controle/mouvements.html
-  - /savoir/adherences.html
 publish_date: 2021-03-07
 ---
 ### Balasana — Posture de l'enfant

@@ -1,8 +1,8 @@
 ---
 layout: articles
 order: 26
-subtitle: Les symptômes de l'endométriose
 title: Ai-je de l'endométriose&nbsp;?
+subtitle: Douleurs, fatigue, problèmes digestifs, infertilité… Un article sur les symptômes de l'endométriose
 category: Le savoir c'est le pouvoir
 alt_img: femme gynécologie endometriose
 title_img: Diagnostique Endométriose
