@@ -1,6 +1,5 @@
 ---
 layout: bd
-subtitle: Mon roman graphique sur l'endométriose - Partie 7
 title: Partie 7 La dépression
 chapter: 7
 category: Roman graphique

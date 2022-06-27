@@ -1,6 +1,5 @@
 ---
 layout: bd
-subtitle: Mon roman graphique sur l'endométriose - Partie 6
 title: Partie 6 La peur
 chapter: 6
 category: Roman graphique

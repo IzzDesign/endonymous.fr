@@ -1,6 +1,5 @@
 ---
 layout: bd
-subtitle: Mon roman graphique sur l'endométriose - Partie 5
 title: Partie 5 Le handicap
 chapter: 5
 category: Roman graphique

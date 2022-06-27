@@ -1,6 +1,5 @@
 ---
 layout: bd
-subtitle: Mon roman graphique sur l'endométriose - Partie 4
 title: Partie 4 L'opération
 chapter: 4
 category: Roman graphique

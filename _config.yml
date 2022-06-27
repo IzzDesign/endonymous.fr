@@ -1,9 +1,9 @@
-title: "Endonymous"
+title: "Endonymous | Blog et roman graphique sur l'endométriose"
 second_title: "Le roman graphique sur l'endométriose"
-url: https://endobujo.fr
+url: https://endonymous.fr
 author:
   name:           'Isabelle Dulin'
-og_description: Endonymous est un roman graphique et autobiographique sur l'endométriose ainsi qu'un site d'information sur le cycle et l'endométriose/l'adénomyose.
+description: Endonymous est un roman graphique et autobiographique sur le diagnostic et la vie avec une endométriose.
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from

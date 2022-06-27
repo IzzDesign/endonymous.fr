@@ -1,25 +1,46 @@
-<!-- Facebook -->
-{% if page.og_image %}
-	<meta content="{{ site.url }}/assets/images/{{ page.og_image }}" property="og:image" />
+{% if page.layout == "bd" or page.layout == "default" %}
+	<title>{{ site.title }}</title>
+	<meta name="title" content="{{ site.title }}">
+	<meta property="og:title" content="{{ site.title }}">
+	<meta property="twitter:title" content="{{ site.title }}">
+{% else %}
+	<title>{{ page.title }} | Endonymous</title>
+	<meta name="title" content="{{ page.title }} | Endonymous">
+	<meta property="og:title" content="{{ page.title }} | Endonymous">
+	<meta property="twitter:title" content="{{ page.title }} | Endonymous">
 {% endif %}
+
 {% if page.subtitle %}
-	<meta content="{{ page.subtitle }}" property="og:description" />
-	<meta content="{{ page.subtitle }}" name="description" />
-  {% else %}
-	<meta content="{{ site.og_description }}" property="og:description" />
- 	<meta content="{{ site.og_description }}" name="description" />
+	<meta name="description" content="{{ page.subtitle }}">
+	<meta property="og:description" content="{{ page.subtitle }}">
+	<meta property="twitter:description" content="{{ page.subtitle }}">
+{% else if page.excerpt %}
+	<meta name="description" content="{{ page.excerpt }}">
+	<meta property="og:description" content="{{ page.excerpt }}">
+	<meta property="twitter:description" content="{{ page.excerpt }}">
+{% else %}
+	<meta name="description" content="{{ site.description }}">
+	<meta property="og:description" content="{{ site.description }}">
+	<meta property="twitter:description" content="{{ site.description }}">
 {% endif %}
-{% if page.title %}
-	<meta content="{{ page.title }}" property="og:title" />
-	{% if page.second-title %}
-		<meta content="{{ page.second_title }}" property="og:title" />
-	{% endif %}
-{% endif %}
-<meta property="og:url" content="{{page.url}}" />
-<meta property="og:type" content="article" />
+
+<!-- Facebook -->
 <meta property="og:site_name" content="Endonymous" />
 <meta property="og:locale" content="fr_FR" />
 <meta property="fb:admins" content="976578205704192" />
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ page.url }}">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="{{ page.url }}">
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@Endonym0us" />
-<meta name="twitter:image" content="{{ page.og_twitter_img }}">
+
+{% if page.layout == 'bd' %}
+	<meta property="og:image" content="/assets/roman-graphique/articles/meta-image-endonymous.png">
+	<meta property="twitter:image" content="/assets/roman-graphique/articles/meta-image-endonymous.png">
+{% else %}
+	<meta property="og:image" content="{{page.og_image}}">
+	<meta property="twitter:image" content="{{page.og_image}}">
+{% endif %}

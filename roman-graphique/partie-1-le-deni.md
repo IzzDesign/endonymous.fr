@@ -1,6 +1,5 @@
 ---
 layout: bd
-subtitle: Mon roman graphique sur l'endométriose - Partie 1
 title: Partie 1 Le déni
 chapter: 1
 category: Roman graphique

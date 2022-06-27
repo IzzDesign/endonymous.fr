@@ -1,6 +1,5 @@
 ---
 layout: bd
-subtitle: Mon roman graphique sur l'endométriose - Partie 3
 title: Partie 3 La colère
 chapter: 3
 category: Roman graphique

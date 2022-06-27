@@ -1,6 +1,5 @@
 ---
 layout: bd
-subtitle: Mon roman graphique sur l'endométriose - Partie 2
 title: Partie 2 Le choc
 chapter: 2
 category: Roman graphique
