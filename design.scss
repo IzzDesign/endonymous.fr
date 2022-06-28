@@ -1082,6 +1082,12 @@ figure.schema{
 	}
 }
 
+.bd-version-one{
+		text-align: center;
+	img{
+		width: 70%;
+	}
+}
 
 .bd-inside{
 	display: flex;
@@ -1108,7 +1114,7 @@ figure.schema{
 		margin-top: 1em;
 	}
 	video{
-		width: 100%;
+		max-width: 644px;
 	}
 }
 
@@ -1358,12 +1364,20 @@ figure.schema{
 }
 
 @media screen and (max-width: 650px) {
+	.bd-version-one{
+		img{
+			width: 100%;
+		}
+	}
 	.bd-inside{
 		img{
 			width: 100%;
 		}
 		p{
 			font-size: 1.6em;
+		}
+		video{
+			max-width: 100%;
 		}
 	}
 }

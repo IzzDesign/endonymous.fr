@@ -10,3 +10,17 @@ redirect_from:
 publish_date: 25/04/2018
 previous: /roman-graphique/endometriose.html
 ---
+<div class="bd-version-one">
+    <img src="/assets/roman-graphique/partie2/02- (1).png">
+    <img src="/assets/roman-graphique/partie2/02- (2).png">
+    <img src="/assets/roman-graphique/partie2/02- (3).png">
+    <img src="/assets/roman-graphique/partie2/02- (4).png">
+    <img src="/assets/roman-graphique/partie2/02- (5).png">
+    <img src="/assets/roman-graphique/partie2/02- (6).png">
+    <img src="/assets/roman-graphique/partie2/02- (7).png">
+    <img src="/assets/roman-graphique/partie2/02- (8).png">
+    <img src="/assets/roman-graphique/partie2/02- (9).png">
+    <img src="/assets/roman-graphique/partie2/02- (10).png">
+    <img src="/assets/roman-graphique/partie2/02- (11).png">
+    <img src="/assets/roman-graphique/partie2/02- (12).png">
+</div>
