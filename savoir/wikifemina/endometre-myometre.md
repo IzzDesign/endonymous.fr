@@ -5,7 +5,6 @@ title: Qu'est-ce que l'endomètre et le myomètre&nbsp;?
 category: WikiFemina
 subcategory: WikiFemina
 og_image: myometre.png
-og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/wikifemina.html
 articles:
   - /savoir/wikifemina/taille-de-l-uterus.html

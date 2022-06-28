@@ -7,7 +7,6 @@ author: Endométriose &#x3A; la fin d'un tabou, Stéphanie Mezerai & Sophie Pens
 category: Bibliographie
 subcategory: Aide et accompagnement endométriose
 og_image: /assets/images/bibliographie-endometriose.png
-og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/bibliographie-endometriose.html
 publish_date: 2020-03-01
 ---

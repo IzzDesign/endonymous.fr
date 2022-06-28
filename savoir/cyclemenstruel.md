@@ -7,7 +7,6 @@ category: Le savoir c'est le pouvoir
 alt_img: Femme lune cycle mentruel hormones
 title_img: Femme et cycle mentruel
 og_image: cycle-menstruel.png
-og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
 publish_date: 2019-03-01
 ---

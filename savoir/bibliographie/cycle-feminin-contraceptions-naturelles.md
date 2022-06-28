@@ -7,7 +7,6 @@ author: Audrey Guillermaud, 2019
 category: Bibliographie
 subcategory: Cycle menstruel
 og_image: /assets/images/bibliographie-feminin.png
-og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/bibliographie-endometriose.html
 publish_date: 2021-06-15
 ---

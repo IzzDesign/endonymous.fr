@@ -7,7 +7,6 @@ category: Le savoir c'est le pouvoir
 alt_img: femme ventre adherences
 title_img: Femme souffrant d'adhérences
 og_image: adherences.png
-og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
 publish_date: 2019-03-01
 ---

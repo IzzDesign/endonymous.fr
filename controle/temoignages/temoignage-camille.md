@@ -6,7 +6,6 @@ quote: Nous méritons d’être entendues.
 title: Camille
 category: interview
 og_image: temoignage-camille.png
-og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /controle/temoignages.html
 ---
 >Nous méritons d’être entendues, car nous sommes celles qui souffrent à cause d’une foutue maladie et tout ce qu’elle peut entraîner !

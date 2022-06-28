@@ -7,7 +7,6 @@ category: Le savoir c'est le pouvoir
 alt_img: femme gynécologie adenomyose
 title_img: "Femme se tenant le ventre : Adenomyose"
 og_image: adenomyose.png
-og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
 publish_date: 2019-03-01
 ---

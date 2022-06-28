@@ -7,7 +7,6 @@ category: Reprends le contrôle
 alt_img: femme yoga papillon BADDHA KONASANA
 title_img: Femme en posture du papillon Baddha Konasana
 og_image: posture-de-yoga.png
-og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /controle/controle.html
 publish_date: 2021-03-07
 ---

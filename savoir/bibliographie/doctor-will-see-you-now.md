@@ -7,7 +7,6 @@ author: Recognizing and Treating Endometriosis, Tamer Seckin MD, 2016
 category: Bibliographie
 subcategory: Littérature anglophone endométriose
 og_image: /assets/images/bibliographie-endometriose.png
-og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/bibliographie-endometriose.html
 publish_date: 2020-03-01
 ---

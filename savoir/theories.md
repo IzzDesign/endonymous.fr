@@ -7,7 +7,6 @@ category: Le savoir c'est le pouvoir
 alt_img: femme gynécologie endometriose theories mecanisme
 title_img: "Utérus avec lésions endométriose"
 og_image: theorie-de-developpement.png
-og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
 publish_date: 2021-01-15
 ---

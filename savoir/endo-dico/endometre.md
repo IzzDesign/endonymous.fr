@@ -5,7 +5,6 @@ title: Endomètre
 category: EndoDico
 subcategory: Endodico
 og_image: /assets/images/bibliographie-endometriose.png
-og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/endo-dico.html
 ---
 

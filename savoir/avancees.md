@@ -7,7 +7,6 @@ category: Le savoir c'est le pouvoir
 alt_img: femme scientifique recherche endometriose
 title_img: "Femme participant à la recherche pour l'endométriose"
 og_image: espoirs-de-traitements.png
-og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
 publish_date: 2021-01-15
 ---

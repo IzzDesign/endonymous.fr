@@ -7,7 +7,6 @@ category: Reprends le contrôle
 alt_img: femme yoga
 title_img: Femme sur tapis de Yoga
 og_image: mouvement.png
-og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /controle/controle.html
 publish_date: 2019-03-01
 ---

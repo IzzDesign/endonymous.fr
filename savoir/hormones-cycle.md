@@ -7,7 +7,6 @@ category: Le savoir c'est le pouvoir
 alt_img: Femme lune cycle mentruel hormones mental énergie
 title_img: Femme de dos au tatoo
 og_image: phases-du-cycle.png
-og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
 publish_date: 2019-03-01
 ---

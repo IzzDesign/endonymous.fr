@@ -7,7 +7,6 @@ category: Reprends le contrôle
 alt_img: femmes culottes menstruelles
 title_img: Femmes avec des culottes menstruelles
 og_image: protections-intimes.png
-og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /controle/controle.html
 publish_date: 2020-06-15
 ---

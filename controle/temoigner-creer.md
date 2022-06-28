@@ -7,7 +7,6 @@ category: Reprends le contrôle
 alt_img: femme appareil photo photographe
 title_img: Femme photographe
 og_image: creativite.png
-og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /controle/controle.html
 publish_date: 2020-11-15
 ---

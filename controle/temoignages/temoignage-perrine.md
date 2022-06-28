@@ -6,7 +6,6 @@ quote: Maintenant, je vois mon corps comme un allié de vie.
 title: Perrine
 category: interview
 og_image: temoignage-perrine.png
-og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /controle/temoignages.html
 ---
 <p class="q">I : Comment as-tu su que tu avais de l’endométriose&nbsp;?</p>

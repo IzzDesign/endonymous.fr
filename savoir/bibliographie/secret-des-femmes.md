@@ -7,7 +7,6 @@ author: Élisa Brune, Yves Ferroul, 2012
 category: Bibliographie
 subcategory: Enquêtes et recherches
 og_image: /assets/images/bibliographie-feminin.png
-og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/bibliographie-endometriose.html
 publish_date: 2020-09-01
 ---

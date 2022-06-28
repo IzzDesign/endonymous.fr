@@ -7,7 +7,6 @@ category: Reprends le contrôle
 alt_img: femme pensive endometriose emotions
 title_img: Femme pensive
 og_image: emotions.png
-og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /controle/controle.html
 publish_date: 2021-07-15
 ---

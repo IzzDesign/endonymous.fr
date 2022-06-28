@@ -7,7 +7,6 @@ author: La souffrance n’est pas une fatalité, Marie-Anne Mormina, 2018
 category: Bibliographie
 subcategory: Témoignages endométriose
 og_image: /assets/images/bibliographie-endometriose.png
-og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/bibliographie-endometriose.html
 publish_date: 2020-03-01
 ---

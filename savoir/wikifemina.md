@@ -7,7 +7,6 @@ category: Le savoir c'est le pouvoir
 alt_img: femme lecture cycle
 title_img: "WikiFemina"
 og_image: wikifemina.png
-og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /savoir/savoir.html
 publish_date: 2021-06-29
 ---
