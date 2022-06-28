@@ -52,7 +52,6 @@ Je vous partage ici quelques pistes de réflexions sur nos émotions négatives,
     <li>J'ai peur pour ma fertilité.</li>
     <li>J'ai peur de mon prochain rendez-vous chez le médecin.</li>
     <li>J'ai peur de me faire opérer.</li>
-    <li>J'ai peur de me faire opérer.</li>
     <li>J'ai peur d'avoir une crise n'importe quand et de souffrir.</li>
     <li>J'ai peur que mes proches ou mes collègues me fassent des remarques.</li>
     <li>J'ai peur de ne jamais accepter la maladie.</li>
