@@ -1,17 +1,17 @@
-<div class="row bg">
-	<div class="col-sm-12 text-upp">
-		<p class="sobig">Articles liés</p>
+<div class="column articles-lies">
+<h3>Articles liés</h3>
+	<div>
+		{% assign sorted_articles = site.pages | sort: 'order' %}
+		{% for p in sorted_articles %}
+			{% if p.category == page.category %}
+				<a href="{{ p.url }}" class="articles-list">
+					<img src="/assets/images/articles/{{ p.og_image }}">
+					<div>
+						<h4 class="h4-link">{{ p.title }}</h4>
+						<p>{{ p.subtitle }}</p>	
+					</div>
+				</a>
+			{% endif %}
+		{% endfor %}
 	</div>
-	{% for p in site.pages %}
-		{% if page.articles contains p.url %}
-		<div class="col-sm-6">
-			<a href="{{ p.url }}" class="title-a">
-				<figure class="liens">
-					<img src="{{ p.og_image }}" class="img-fluid">
-					<h4>{{ p.title }}</h4>
-				</figure>
-			</a>
-		</div>
-		{% endif %}
-	{% endfor %}
 </div>

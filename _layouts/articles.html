@@ -1,28 +1,16 @@
 ---
 layout: default
 ---
-
-<div class="container">
-  <div class="row">
-    <div class="col-sm text-center">
-      <div class="entete">
-        <div class="line"></div>
-        <span class="h2">{{ page.category }}</span>
-      </div>
-        <h2 class="title">{{ page.title }}</h2>
-    </div>
+<div class="container content-article">
+  <div class="entete">
+    <span class="h2">{{ page.category }}</span>
+    <h2 class="title">{{ page.title }}</h2>
   </div>
-</div>
-
-<div class="container">
-  <div class="row">
-    <div class="col-sm-12">
-      <img src="{{ page.og_image }}" class="img-fluid" alt="{{ page.alt_img }}" title="{{ page.title_img }}">
-      {% include back.html variable="aux articles" %}
-      {{ content }}
-      {% include back.html variable="aux articles" %}
-    </div>
-  </div>
-  {% include button-newsletter.html %}
+  <img src="/assets/images/articles/{{ page.og_image }}" alt="{{ page.alt_img }}" title="{{ page.title_img }}" class="entete-img">
+  {% include back.html variable="aux articles" %}
+  {{ content }}
+  {% include front-bd.html %}
   {% include articles.html %}
+  {% include back.html variable="aux articles" %}
+  {% include button-newsletter.html %}
 </div>

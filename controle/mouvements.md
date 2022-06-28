@@ -1,27 +1,23 @@
 ---
 layout: articles
 order: 10
-subtitle: Pourquoi il est intéressant de rester en mouvement malgré les douleurs d'endométriose.
 title: Rester en mouvement
+subtitle: Pourquoi il est intéressant de rester en mouvement malgré les douleurs d'endométriose.
 category: Reprends le contrôle
 alt_img: femme yoga
 title_img: Femme sur tapis de Yoga
-og_image: /img/yoga.png
-og_twitter_img : https://cycliques.fr/img/twitter-lien.png
-
+og_image: mouvement.png
+og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /controle/controle.html
-articles:
-  - /savoir/endometriose.html
-  - /savoir/adherences.html
 publish_date: 2019-03-01
 ---
 
-La présence de <a href="/savoir/endometriose.html" class="link">lésions d’endométriose</a> et les <a href="/savoir/adherences.html" class="link">adhérences dues aux phénomènes inflammatoires</a> peuvent petit à petit **immobiliser les viscères**, soit en faisant peu à peu **perdre leur mobilité aux tissus**, soit en **accolant des organes entre eux**. Tout tissu élastique qui s’immobilise va se rétracter à son tour et devenir douloureux, c’est ainsi que **l’immobilité d’une zone peut se propager aux autres**.
-Pour certaines atteintes très avancées, on va parler de **frozen pelvis**, lorsque les <a href="/savoir/adherences.html" class="link">adhérences</a> vont jusqu’à modifier l’anatomie pelvienne et immobiliser le bassin causant des douleurs et des **affections gynécologiques, urologiques et intestinales**.
+La présence de [lésions d’endométriose](/savoir/endometriose.html) et les [adhérences dues aux phénomènes inflammatoires](/savoir/adherences.html) peuvent petit à petit **immobiliser les viscères**, soit en faisant peu à peu **perdre leur mobilité aux tissus**, soit en **accolant des organes entre eux**. Tout tissu élastique qui s’immobilise va se rétracter à son tour et devenir douloureux, c’est ainsi que **l’immobilité d’une zone peut se propager aux autres**.
+Pour certaines atteintes très avancées, on va parler de **frozen pelvis**, lorsque les [adhérences](/savoir/adherences.html) vont jusqu’à modifier l’anatomie pelvienne et immobiliser le bassin causant des douleurs et des **affections gynécologiques, urologiques et intestinales**.
 Avant d’en arriver là, il est important de rappeler qu’il faut continuer à bouger et **mobiliser le bassin**, ce qui n’est pas chose aisée avec des douleurs et un travail de bureau par exemple qui peut être statique. Voici quelques pistes pour continuer de **bouger en douceur** sans se faire mal et avec peu de difficulté. Attention, dans le cadre de la pratique d’un sport, il ne faut pas hésiter à **demander conseil à son médecin**.
 
 ### Respiration
-La **respiration**, son amplitude et son rythme sont liés à nos **états mentaux**. Dans le cas de <a href="/savoir/endometriose.html" class="link">l’endométriose</a>, non seulement **les douleurs** mais aussi **le stress** vont participer à la **crispation de la zone abdominale**. Avec une maladie aussi douloureuse, la respiration peut-être une première étape pour aider à retrouver un peu de mouvement sur un corps très immobilisé. La respiration consciente aide à gagner un **meilleur sommeil, apaiser les douleurs et les états émotionnels et diminuer le stress**. Pour être efficace il faut pratiquer une respiration **abdominale** et non thoracique.  Il peut être intéressant de se tourner vers des applications de détente et de méditation pour être guidé.
+La **respiration**, son amplitude et son rythme sont liés à nos **états mentaux**. Dans le cas de [l’endométriose](/savoir/endometriose.html), non seulement **les douleurs** mais aussi **le stress** vont participer à la **crispation de la zone abdominale**. Avec une maladie aussi douloureuse, la respiration peut-être une première étape pour aider à retrouver un peu de mouvement sur un corps très immobilisé. La respiration consciente aide à gagner un **meilleur sommeil, apaiser les douleurs et les états émotionnels et diminuer le stress**. Pour être efficace il faut pratiquer une respiration **abdominale** et non thoracique.  Il peut être intéressant de se tourner vers des applications de détente et de méditation pour être guidé.
 ### Kinésithérapie
 La **kinésithérapie**, c’est le **traitement par le mouvement**, agissant au niveau musculaire et articulaire. Les techniques qui sont utilisées permettent la **rééducation du mouvement** ainsi que de la posture du patient. Le suivi par un professionnel kinésithérapeute peut être un grand plus pour apprendre des techniques **mobilisant le bassin** et le **renforcement** et/ou **étirements** des différents **muscles abdominaux et dorsaux**. L’idée étant de garder toutes les sphères abdominale et pelvienne mobilisées pour éviter les blocages. La kinésithérapie peut également intervenir avec le **massage des tissus, muscles,** ce qui peut être intéressant pour soulager et garder en mouvement les tissus et viscères de la zone abdominale.
 ### Yoga
@@ -29,18 +25,14 @@ Le **yoga** est la pratique d’un **enchaînement de postures** et de la **méd
 ### Feldenkrais
 Le méthode **Feldenkrais** est une méthode d’auto-éducation et de développement personnel qui amène à **prendre conscience du corps à travers le mouvement et les sensations** qui y sont reliées. Concrètement, il s’agit d’un **enchaînement doux et calme** de petits mouvements faciles qui permettent de **relâcher les tensions musculaires, corporelles et mentales**. Cette pratique permet d’améliorer la **souplesse des articulations**, **la coordination des mouvements**, la **mobilité de la cage thoracique et du bassin**, la **flexibilité de la colonne vertébrale** tout en douceur. C’est une pratique bien plus douce que le yoga.
 ### Automassages
-Les **massages** ou **auto massages** ont énormément de bienfaits en plus d’assouplir à terme les cicatrices et <a href="/savoir/adherences.html" class="link">adhérences</a>. Les massages abdominaux vont stimuler l’activité intestinale et **faciliter la digestion**, **diminuer les ballonnements** et aider contre la **constipation**. Ils vont aider à apaiser et calmer.  Ils vont améliorer la **circulation du sang, de l’oxygène**. Les massages du diaphragme vont permettre de détendre un muscle important pour notre respiration et le bon déroulement de la digestion. Psychologiquement ils aident à **reprendre confiance en soi** et se sentir **actrice de son bien-être**.
-<div class="col-sm-10 offset-sm-1 sources">
-  <h4>Sources</h4>
-  <ul class="ul-list">
-    <li class="list">Endo&Sexo Avoir une sexualité épanouie avec une endométriose, Marie-Rose Galès, 2019.</li>
-    <li class="list">Endometriosis, the experts’ guide to treat, manage and live well with your symptoms, Pr Andrew Horne & Carol Pearson, 2018.</li>
-    <li class="list">1001 questions & answers about Endometriosis, Dr Redwine, 2009.</li>
-    <li class="list"><a href="https://fr.wikipedia.org/wiki/M%C3%A9thode_Feldenkrais">Méthode Feldenkrais</a></li>
-    <li class="list"><a href="https://www.youtube.com/watch?v=1hBR2W4krKA">Youtube : Et si essayait le Feldenkrais ?</a></li>
-    <li class="list"><a href="https://sante.lefigaro.fr/article/cinq-questions-pour-tout-savoir-sur-l-endometriose/">5 questions pour tout savoir sur l'endométriose</a></li>
-    <li class="list"><a href="https://www.lauriannemartini.com/post/activite-physique-endometriose">Laurianne Martini : Activité physique Endométriose</a></li>
-    <li class="list"><a href="http://www.feldenkrais-lyon.fr">Feldenkrais Lyon</a></li>
-    <li class="list"><a href="http://www.marinemassage.com/endometriose-massage/">Marine massage</a></li>
-  </ul>
-</div>
+Les **massages** ou **auto massages** ont énormément de bienfaits en plus d’assouplir à terme les cicatrices et [adhérences](/savoir/adherences.html). Les massages abdominaux vont stimuler l’activité intestinale et **faciliter la digestion**, **diminuer les ballonnements** et aider contre la **constipation**. Ils vont aider à apaiser et calmer.  Ils vont améliorer la **circulation du sang, de l’oxygène**. Les massages du diaphragme vont permettre de détendre un muscle important pour notre respiration et le bon déroulement de la digestion. Psychologiquement ils aident à **reprendre confiance en soi** et se sentir **actrice de son bien-être**.
+### Sources
+  * [Endo&Sexo Avoir une sexualité épanouie avec une endométriose, Marie-Rose Galès, 2019.](/savoir/bibliographie/endo-sexo.html)
+  * [Endometriosis, the experts’ guide to treat, manage and live well with your symptoms, Pr Andrew Horne & Carol Pearson, 2018.](/savoir/bibliographie/endometriosis-experts-guide.html)
+  * [1001 questions & answers about Endometriosis, Dr Redwine, 2009.](/savoir/bibliographie/100-questions-about-endometriosis.html)
+  * [Méthode Feldenkrais](https://fr.wikipedia.org/wiki/M%C3%A9thode_Feldenkrais)
+  * [Youtube : Et si essayait le Feldenkrais ?](https://www.youtube.com/watch?v=1hBR2W4krKA)
+  * [5 questions pour tout savoir sur l'endométriose](https://sante.lefigaro.fr/article/cinq-questions-pour-tout-savoir-sur-l-endometriose/)
+  * [Laurianne Martini : Activité physique Endométriose](https://www.lauriannemartini.com/post/activite-physique-endometriose)
+  * [Feldenkrais Lyon](http://www.feldenkrais-lyon.fr)
+  * [Marine massage](http://www.marinemassage.com/endometriose-massage)

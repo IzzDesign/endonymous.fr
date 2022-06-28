@@ -1,21 +1,16 @@
 ---
 layout: articles
 order: 140
-subtitle: Nous sommes nombreuses à ressentir que les émotions négatives sont souvent liées avec une augmentation de nos symptômes d’endométriose. Je vous partage ici quelques pistes de réflexions sur nos émotions négatives, les pensées qu’elles peuvent nous procurer et des idées pour les diminuer.
 title: Endométriose et émotions
+subtitle: Les émotions négatives sont souvent liées avec une augmentation de nos symptômes d’endométriose. Voici quelques pistes de réflexions sur nos émotions.
 category: Reprends le contrôle
 alt_img: femme pensive endometriose emotions
 title_img: Femme pensive
-og_image: /img/emotions.png
-og_twitter_img : https://cycliques.fr/img/twitter-lien.png
+og_image: emotions.png
+og_twitter_img : https://cycliques.fr/assets/images/twitter-lien.png
 previous: /controle/controle.html
-articles:
-  - /controle/temoignages.html
-  - /controle/temoigner-creer.html
-publish_date: 2021-03-15
+publish_date: 2021-07-15
 ---
-
-## Gérer les émotions négatives
 
 Nous sommes nombreuses à ressentir que les émotions négatives sont souvent liées avec une augmentation de nos symptômes d'endométriose. Il a par exemple été prouvé que le stress engageait une réponse inflammatoire dans l'organisme, pouvant accentuer les symptômes des maladies inflammatoires telles que l'endométriose [^inflammation].
 
@@ -24,9 +19,10 @@ J'ai partagé avec la douce Fanny du compte instagram @chere.endometriose[^fanny
 Je vous partage ici quelques pistes de réflexions sur nos émotions négatives, les pensées qu'elles peuvent nous procurer et des idées pour les diminuer.
 
 ### Culpabilité
-<div class="list text-center bg violet">
-  <h5>Le type de pensées culpabilisantes qui peuvent nous traverser.</h5>
-  <ul class="bg-list">
+#### Le type de pensées culpabilisantes qui peuvent nous traverser :
+<div class="container">
+  <img src="/assets/images/svg/icones/think.svg" width="35" height="35">
+  <ul class="list-center">
     <li>Je ne suis pas assez forte.</li>
     <li>Je ne m'occupe pas de mes proches / mes enfants.</li>
     <li>Je suis un poids.</li>
@@ -48,9 +44,10 @@ Je vous partage ici quelques pistes de réflexions sur nos émotions négatives,
 8. Je me rapelle que je fais du mieux que je peux avec les moyens que j'ai.
 
 ### Peur
-<div class="list text-center bg violet">
-  <h5>Le type de pensées effrayantes qui peuvent nous traverser.</h5>
-  <ul class="bg-list">
+#### Le type de pensées effrayantes qui peuvent nous traverser :
+<div class="container">
+  <img src="/assets/images/svg/icones/think.svg" width="35" height="35">
+  <ul class="list-center">
     <li>J'ai peur que l'endométriose évolue.</li>
     <li>J'ai peur pour ma fertilité.</li>
     <li>J'ai peur de mon prochain rendez-vous chez le médecin.</li>
@@ -71,9 +68,10 @@ Je vous partage ici quelques pistes de réflexions sur nos émotions négatives,
 6. Je prends des décisions qui me rendent heureuse.
 
 ### Colère
-<div class="list text-center bg violet">
-  <h5>Les pensées colériques qui peuvent nous traverser.</h5>
-  <ul class="bg-list">
+#### Les pensées colériques qui peuvent nous traverser :
+<div class="container">
+  <img src="/assets/images/svg/icones/think.svg" width="35" height="35">
+  <ul class="list-center">
     <li>Pourquoi moi ?</li>
     <li>Ils sont idiots ou ils font exprès ?</li>
     <li>C'est facile pour eux.</li>
@@ -94,9 +92,10 @@ Je vous partage ici quelques pistes de réflexions sur nos émotions négatives,
 8. Je reconnais que la maladie et cette colère qui en a découlée m'ont appris à me protéger.
 
 ### Anxiété
-<div class="list text-center bg violet">
-  <h5>Les pensées anxieuses qui peuvent nous traverser.</h5>
-  <ul class="bg-list">
+#### Les pensées anxieuses qui peuvent nous traverser :
+<div class="container">
+  <img src="/assets/images/svg/icones/think.svg" width="35" height="35">
+  <ul class="list-center">
     <li>Et si j'ai un problème grave ?</li>
     <li>Est-ce que mon endométriose va évoluer ?</li>
     <li>Le temps passe et je n'arrive toujours pas à tomber enceinte…</li>
@@ -116,8 +115,7 @@ Je vous partage ici quelques pistes de réflexions sur nos émotions négatives,
 6. J'apprends à me mettre des limites en temps, énergie et patience et je communique au maximum ces dernières.
 7. Je parle de mes angoisses au maximum aux personnes concernées (psychiatres, psychologues, conjoint.e, collègues, médecins…)
 8. Je respire en conscience. Je peux m'aider de la **cohérence cardiaque**, la **méditation** et du **yoga** pour m'aider à diminuer mon stress.
-<div class="col-sm-10 offset-sm-1 sources" markdown="1">
-#### Sources
+
+## Sources
 [^inflammation]: [Here’s How Stress and Inflammation Are Linked](https://www.everydayhealth.com/wellness/united-states-of-stress/link-between-stress-inflammation/)
 [^fanny]: [@chere.endometriose](https://www.instagram.com/chere.endometriose/)
-</div>

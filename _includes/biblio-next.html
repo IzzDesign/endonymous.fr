@@ -1,18 +1,14 @@
-<div class="row bg biblio-next">
-	<div class="col-sm-12 text-upp">
-		<p class="sobig">Autres livres</p>
-	</div>
+<img src="/assets/images/svg/icones/livre.svg" title="Icone livre" width="65" height="65">
+<div class="index-list">
+	<h4>Autres {{ page.subcategory }}</h4>
 	{% for p in site.pages %}
 		{% if page.subcategory == p.subcategory and page.url != p.url %}
-		<a href="{{ p.url }}">
-			<div class="col-sm-3">
-				<img src="/img/svg/livre.svg" class="img-fluid">
-			</div>
-			<div class="col-sm-9">
-				<h4>{{ p.title }}</h4>
-				<p>{{ p.author }}</p>
-			</div>
-		</a>
-		{% endif %}
-	{% endfor %}
+	    <a href="{{ p.url }}" class="list">
+	      <div class="background bg-bleu">
+            <h5 class="title">{{ p.title }}</h5>
+          </div>
+	      <span>{{ p.author }}</span>
+	    </a>
+	    {% endif %}
+  	{% endfor %}
 </div>

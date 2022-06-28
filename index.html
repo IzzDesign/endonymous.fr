@@ -1,98 +1,68 @@
 ---
 layout: default
-title: EndoBujo
-og_image: /img/cycle.png
-og_twitter_img : https://cycliques.fr/img/twitter-lien.png
+title: Endonymous
+og_image: /assets/images/cycle.png
 ---
 
 <div class="container">
-  <div class="row">
-    <div class="col-sm">
-      <h2>Renouer avec son corps et son cycle</h2>
-        <p class="classie text-center">Qu'est-ce que le cycle ? À quoi servent les règles ? Quels sont les mécanismes qui marquent chaque femme tous les mois, de la puberté à la ménopause ?</p>
-        <p>Ces questions simples restent souvent sans réponse dans notre société : <b>nous manquons de ressources pour comprendre le fonctionnement de notre corps et ses particularités.</b> De ce fait, beaucoup d'entre nous subissent des transformations qui nous sont pourtant inconnues. Les fluctuations des hormones qui guident tous ces changements ne sont que pour certains des sautes d'humeur ou des nouveaux dérangements. Nous avons besoin de retourner à l'essentiel&nbsp;: <b>parler de ces phénomènes biologiques entre nous, s'apprendre, échanger, s'accepter.</b></p>
-        <p>Les femmes qui autrefois s'étaient battues pour la pilule et leur indépendance sexuelle <b>se questionnent aujourd'hui sans rejeter les apports de ces autres combats.</b> Nous observons un retour du partage entre femmes, entrainant un apprentissage de nos <b>cycles au naturel.</b> S'observer et comprendre est <b>une nouvelle manière de vivre son cycle, sa contraception, sa grossesse.</b></p>
-        <p>Avec ces connaissances, de nouvelles questions se soulèvent : <a href="/savoir/endometriose.html">Endométriose</a>, <a href="/savoir/adenomyose.html">Adénomyose</a>, <a data-toggle="popover" data-placement="top" data-trigger="hover" title="Syndrome des ovaires polykystiques" data-content="Le syndrome des ovaires polykystiques (SOPK) est dû à un dérèglement hormonal d’origine ovarienne et/ou centrale (au niveau du cerveau). Il entraine une production excessive d’androgènes, en particulier de testostérone, habituellement produites en petite quantité dans l'organisme féminin. Il en résulte une élévation du taux de testostérone dans le sang des femmes concernées. Le nom de cette maladie vient de sa description, effectuée dans les années 30, reposant sur l’observation de ce que l'on pensait être des kystes dans les ovaires des patientes. En réalité, il s'agissait de multitudes de follicules au développement inachevé. (Inserm)" class="pop">Syndrome des ovaires polykystiques</a>, Fibromes utérins… Ces maladies gynécologiques longtemps mises sous silence font de plus en plus parler d'elles et à raison : les femmes en ont marre de souffrir esseulées. Utilisant le web et leur communauté, beaucoup d'entre elles <b>partagent leurs douleurs, leurs revendications et leurs savoirs.</b> Des générations de femmes ont entendu dire qu'il était normal d'avoir mal, dans l'intimité de la famille ou du cabinet. Mais aujourd'hui, ces jeunes filles peuvent accéder à l'information : il n'est pas normal d'avoir mal. Vous pourrez trouver <b>des informations sur le cycle et l'endométriose</b> dans l'onglet <a href="/savoir/savoir.html" class="link">Le savoir c'est le pouvoir</a> ainsi que des pistes pour mieux vivre avec l'endométriose dans l'onglet <a href="/controle/controle.html" class="link">Reprends le contrôle</a> et pleins d'autres contenus sur notre page <a href="https://www.instagram.com/endobujo/" class="link">Instagram</a>.</p>
+  <div class="options-bd">
+    {% assign index-bd = site.pages | where: "category", "Roman graphique" %}
+      {% for p in index-bd %}
+        <a href="{{ p.url }}" class="lien-bd-index" style="--optionBackground:url('assets/roman-graphique/articles/{{ p.og_image }}.png');">
+          <div class="figcaption">
+            <div class="info">
+              <div class="main">{{ p.title }}</div>
+            </div>
+            <div class="number">{{ p.chapter }}</div>
+          </div>
+        </a>
+      {% endfor %}
+  </div>
+  
+  <h2>Les derniers articles</h2>
+  <div class="articles">
+    {% assign index_articles = site.pages | where: "layout", "articles" | sort: "publish_date" | reverse %}
+    {% for p in index_articles limit: 4 %}
+      <a href="{{ p.url }}" class="index-articles">
+        <figure class="liens">
+          <img src="/assets/images/articles/{{ p.og_image }}" class="img-fluid">
+          <figcaption class="bleu">
+            <h4 class="h4-link">{{ p.title }}</h4>
+          </figcaption>
+        </figure>
+      </a>
+    {% endfor %}
+  </div>
+  
+  <h2>Quelques lectures</h2>
+  <div class="row margin-mobile">
+    <img src="assets/images/svg/icones/livres-icone.svg" width="221" height="221">
+    {% assign conseils_lectures = site.pages | where: "layout", "bibliography" | sort: "publish_date" | reverse %}
+    <div class="index-list" style="align-items: flex-start;">
+      {% for l in conseils_lectures limit: 3 %}
+        <a href="{{ l.url }}" class="list">
+          <div class="background bg-bleu">
+            <h5 class="title">{{ l.title }}</h5>
+          </div>
+          <span>{{ l.author }}</span>
+        </a>
+      {% endfor %}
+      <a href="/savoir/bibliographie-endometriose.html" class="button btn-rouge">D'autres lectures</a>
     </div>
   </div>
-    <div class="row">
-      <div class="col-lg-12">
-        <h3>Les derniers articles</h3>
-      </div>
-        {% assign index_articles = site.pages | where: "layout", "articles" | sort: "publish_date" | reverse %}
-        {% for p in index_articles limit: 4 %}
-            <div class="col-lg-6">
-              <a href="{{ p.url }}" class="hover-articles title-a">
-                <figure class="liens">
-                  <img src="{{ p.og_image }}" class="img-fluid">
-                  <h4>{{ p.title }}</h4>
-                </figure>
-              </a>
-            </div>
-        {% endfor %}
+  <div class="column margin-mobile">
+    <h2>Que sont l'endométriose et l'adénomyose ?</h2>
+    <p><a href="/savoir/endometriose.html">L’endométriose</a> et <a href="/savoir/adenomyose.html">l'adénomyose</a> sont des maladies de l’appareil reproducteur féminin. Il s'agit pour l'endométriose de cellules ressemblant à de <a data-toggle="popover" data-placement="top" data-trigger="hover" title="Endomètre" data-content="L'endomètre est la muqueuse de l'utérus. Ce tissu recouvre la paroi interne de l'utérus. Au début de chaque cycle menstruel, il s'épaissit et devient richement vascularisé pour pouvoir éventuellement accueillir un embryon lors de la nidation. Il est alors parfois appelé dentelle utérine. (Wikipédia)" class="pop">l'endomètre</a> qui vont se situer de manière anormale dans l'abdomen, sur l'utérus ou des organes environnants. Pour l'adénomyose, les lésions vont elles se situer de manière anormale dans le <a data-toggle="popover" data-placement="top" data-trigger="hover" title="Myomètre" data-content="Le myomètre est la couche musculeuse interne de la paroi utérine. (Wikipédia)" class="pop">myomètre</a>, qui est le muscle utérin. Maladie chronique en lien avec le cycle menstruel, un diagnostic d’endométriose peut prendre entre cinq et neuf ans. On ne guérit pas d’endométriose mais les traitements proposés peuvent permettre de diminuer voire d’éliminer les symptômes. La prise en charge peut se faire par une opération (<a data-toggle="popover" data-placement="top" data-trigger="hover" title="Laparoscopie" data-content="Examen endoscopique de la cavité abdominale et de son contenu. (Larousse)" class="pop">laparoscopie</a>) permettant d’exciser les lésions d’endométriose, ainsi que la mise sous ménopause artificielle (prise de pilule). La prise d’hormones permet dans la plupart des cas de calmer les symptômes mais peut apporter son lot d’effets secondaires. Après le diagnostic, les malades peuvent souvent ressentir qu'il y a un manque d'information sur leur maladie, entrainant une incompréhension de son fonctionnement et des bons réflexes et hygiène de vie pour limiter les douleurs au quotidien.</p>
+  </div>
+
+  <h2>Qui suis-je ?</h2>
+  <div class="row presentation">
+    <img src="/assets/images/photos/profil-isa.png" width="350" height="320">
+    <div>
+      <h4>Isabelle</h4>
+      <p class="dinomik">Diagnostiquée en 2016 d'une endométriose, j’ai passé les dernières années à me reconstruire après une opération et des effets secondaires dus à la prise d’hormones. Je crée en 2018 mon blog sur l'endométriose avec la parution d’un roman graphique, qui raconte le retard de mon diagnostic et le manque de prise en charge de ma maladie. Après des années d’apprentissage pour mieux vivre avec l’endométriose, j’avais à cœur de mettre à disposition toutes mes connaissances accumulées.</p>
     </div>
-    <div class="row">
-      <div class="col-lg-12">
-        <h3>Quelques lectures</h3>
-      </div>
-      <div class="col-lg-3">
-        <img src="/img/svg/livre.svg" class="img-fluid">
-      </div>
-        {% assign conseils_lectures = site.pages | where: "layout", "bibliography" | sort: "publish_date" | reverse %}
-        {% for l in conseils_lectures limit: 3 %}
-          <div class="col-lg-3 index-articles">
-            <a href="{{ l.url }}" class="hover-articles">
-              <h4>{{ l.title }}</h4>
-            </a>
-          </div>
-        {% endfor %}
-    </div>
-    <div class="row">
-      <div class="col-sm">
-        <div class="deco"><img src="/img/svg/regles.svg" class="img-fluid sticker" alt="sticker regles" title="Règles Sticker"></div>
-        <h2>Que sont l'endométriose et l'adénomyose ?</h2>
-        <p><a href="/savoir/endometriose.html">L’endométriose</a> et <a href="/savoir/adenomyose.html">l'adénomyose</a> sont des maladies de l’appareil reproducteur féminin. Il s'agit pour l'endométriose de cellules ressemblant à de <a data-toggle="popover" data-placement="top" data-trigger="hover" title="Endomètre" data-content="L'endomètre est la muqueuse de l'utérus. Ce tissu recouvre la paroi interne de l'utérus. Au début de chaque cycle menstruel, il s'épaissit et devient richement vascularisé pour pouvoir éventuellement accueillir un embryon lors de la nidation. Il est alors parfois appelé dentelle utérine. (Wikipédia)" class="pop">l'endomètre</a> qui vont se situer de manière anormale dans l'abdomen, sur l'utérus ou des organes environnants. Pour l'adénomyose, les lésions vont elles se situer de manière anormale dans le <a data-toggle="popover" data-placement="top" data-trigger="hover" title="Myomètre" data-content="Le myomètre est la couche musculeuse interne de la paroi utérine. (Wikipédia)" class="pop">myomètre</a>, qui est le muscle utérin. Maladie chronique en lien avec le cycle menstruel, un diagnostic d’endométriose peut prendre entre cinq et neuf ans. On ne guérit pas d’endométriose mais les traitements proposés peuvent permettre de diminuer voire d’éliminer les symptômes. La prise en charge peut se faire par une opération (<a data-toggle="popover" data-placement="top" data-trigger="hover" title="Laparoscopie" data-content="Examen endoscopique de la cavité abdominale et de son contenu. (Larousse)" class="pop">laparoscopie</a>) permettant d’exciser les lésions d’endométriose, ainsi que la mise sous ménopause artificielle (prise de pilule). La prise d’hormones permet dans la plupart des cas de calmer les symptômes mais peut apporter son lot d’effets secondaires. Après le diagnostic, les malades peuvent souvent ressentir qu'il y a un manque d'information sur leur maladie, entrainant une incompréhension de son fonctionnement et des bons réflexes et hygiène de vie pour limiter les douleurs au quotidien.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-12">
-        <h3>Qu'est-ce qu'un endobujo ?</h3>
-      </div>
-      <div class="col-sm-5 bg">
-        <div class="text-upp first">
-          <img src="/img/endobujo/logo.svg" class="img-fluid id">
-          <p class="big">Faire son endobujo</p>
-          <a href="/endobujo.html" class="button dark bio">En savoir plus</a>
-        </div>
-      </div>
-      <div class="col-sm-7">
-        <img src="img/endobujo/endobujo-accueil.png" class="img-fluid">
-      </div>
-    </div>
-    <div class="row profil text-center">
-      <div class="col-lg-12">
-        <h3>Qui sommes-nous ?</h3>
-      </div>
-      <div class="col-lg">
-        <h4>Isabelle</h4>
-        <img src="/img/photos/profil-isa.png">
-        <p>Diagnostiquée en 2016 d'une endométriose, j’ai passé les dernières années à me reconstruire après une opération et des effets secondaires dus à la prise d’hormones. Je crée en 2018 un <a href="https://endonymous.fr" class="link">blog</a> avec la parution d’un roman graphique, qui raconte le retard de mon diagnostic et le manque de prise en charge de ma maladie. Après des années d’apprentissage pour mieux vivre avec l’endométriose, j’avais à cœur de mettre à disposition toutes mes connaissances accumulées.</p>
-      </div>
-      <div class="col-lg">
-        <h4>Louise</h4>
-        <img src="/img/photos/profil-loulou.png">
-        <p>Depuis mon adolescence, la magie du cycle féminin est un sujet qui m’a toujours captivée. Alors, lorsque j’ai appris que j’avais un SOPK, j’en ai profité pour encore mieux comprendre ce qui se passait dans mon corps grâce aux méthodes d’observation du cycle. Parce j’ai toujours été touchée par les précieux conseils que l’on m’a délivrés et parce je sais que chaque petit pas pour se sentir mieux est une grande avancée pour celle qui souffre, j’ai désormais à cœur de rendre disponibles les informations et des ressources pour aider et soutenir chacune dans la recherche de son mieux-être.</p>
-      </div>
-    </div>
-    {% include button-newsletter.html %}
-      <div class="row bg clair">
-        <div class="col-sm-4">
-          <img src="img/endonymous.svg" class="img-fluid">
-        </div>
-        <div class="col-sm-8 text-upp">
-          <p class="big">un blog et un roman graphique</p><p>sur l'endométriose</p>
-          <a href="http://endonymous.fr" class="button dark bio">Lire</a>
-        </div>
-      </div>
+  </div>
+  {% include button-newsletter.html %}
 </div>
 

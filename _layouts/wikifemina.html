@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="entete">
+    <img src="/assets/images/svg/icones/wikifemina.svg" title="Icone wikifemina" width="45" height="45">
+    <span class="h2">Wikifemina</span>
+    <h2 class="title">{{ page.title }}</h2>
+  </div>
+  {{ content }}
+  <h3>Autres wikifemina :</h3>
+  <div class="index-list">
+    {% for p in site.pages %}
+      {% if p.layout == 'wikifemina' and p.url != page.url %}
+        <a href="{{ p.url }}" class="list">
+          <div class="background bg-rouge">
+            <h5 class="title">{{ p.title }}</h5>
+          </div>
+        </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+  {% include back.html variable="aux articles" %}
+</div>
