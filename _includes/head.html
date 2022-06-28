@@ -2,7 +2,6 @@
 <html lang="en">
   <head>
     {% include plausible.html %}
-    <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -15,17 +14,5 @@
       <link rel="canonical" href="{{ page.canonical_url }}" />
     {% endif %}
     <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
-
-    <title>
-      {% if page.title == "Home" %}
-          {{site.title}} &middot; {{site.second_title}}
-      {% else %}
-        {% if page.second_title %}
-          {{page.title}} &middot; {{page.second_title}}
-        {% else %}
-          {{page.title}} &middot; {{site.title}}
-        {% endif %}
-      {% endif %}
-    </title>
   </head>
   <body>

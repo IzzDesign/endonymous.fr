@@ -3,7 +3,7 @@ second_title: "Le roman graphique sur l'endométriose"
 url: https://endonymous.fr
 author:
   name:           'Isabelle Dulin'
-description: Endonymous est un roman graphique et autobiographique sur le diagnostic et la vie avec une endométriose.
+description: "Endonymous est un roman graphique et autobiographique sur le diagnostic et la vie avec une endométriose."
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
