@@ -31,7 +31,7 @@ previous: /roman-graphique/endometriose.html
 	<img src="/assets/roman-graphique/partie7-la-depression/09-partie7.png">
 	<img src="/assets/roman-graphique/partie7-la-depression/10-partie7.png">
 	<p>Après quelques semaines de déprime, j'ai commencé à réfléchir à cette histoire d'endométriose près de l'uretère causant des ressentis de colique néphrétique.</p>
-	<p>Cela me paraissait étrange, donc j'ai ressorti de vieux dossiers médicaux :</p>
+	<p>Cela me paraissait étrange, donc j'ai ressorti de vieux dossiers médicaux&nbsp;:</p>
 	<img src="/assets/roman-graphique/partie7-la-depression/11-partie7.png">
 	<p>En plus des coliques néphrétiques et des douleurs lombaires qui m'empêchaient de marcher, je me suis mise à avoir des douleurs rénales régulières.</p>
 	<p>Je ne savais plus qui croire ni quoi faire et mon père m'a convaincue que j'avais le droit de prendre un deuxième avis médical, ce que je ne m'étais jamais accordé.</p>
@@ -107,7 +107,7 @@ previous: /roman-graphique/endometriose.html
 	<img src="/assets/roman-graphique/partie7-la-depression/40-partie7.png">
 	<p>J'apprenais deux ans et 13 kilos plus tard que ma pilule coupait la sensation de satiété. Aucun des médecins que je n'avais vu n'avait cru bon de me prévenir et la notice ne le stipulait pas.</p>
 	<p>En Irlande, j'ai commencé à parcourir des blogs de personnes ayant de l'endométriose. Je découvrais une communauté qui s'échangeait énormément leurs vécus et leurs histoires, faute d'avoir une oreille compatissante de la part du corps médical.</p>
-	<p>Je suis également tombée sur des témoignages très difficiles : des femmes qui avaient été en suivi psychiatrique pendant des années parce que faute de les diagnostiquer, on leur avait dit que c'était dans la tête ; d'autres avec des opérations très lourdes qui s'étaient enchaînées 2, 3, 7, 15 fois.</p>
+	<p>Je suis également tombée sur des témoignages très difficiles&nbsp;:&nbsp;des femmes qui avaient été en suivi psychiatrique pendant des années parce que faute de les diagnostiquer, on leur avait dit que c'était dans la tête ; d'autres avec des opérations très lourdes qui s'étaient enchaînées 2, 3, 7, 15 fois.</p>
 	<p>Il y avait de quoi avoir peur&nbsp;:</p>
 	<img src="/assets/roman-graphique/partie7-la-depression/41-partie7.png">
 	<p>Et puis, en cherchant sur Internet des articles sur l'endométriose, un jour je suis tombée sur ça&nbsp;:</p>
@@ -122,7 +122,7 @@ previous: /roman-graphique/endometriose.html
 	<img src="/assets/roman-graphique/question.gif">
 	<p>Je vous arrête tout de suite, on pense que cette maladie existe depuis l'Antiquité. Elle aurait été décrite dans le canon d'Hippocrate datant des V et IV siècles avant J.-C.</p>
 	<img src="/assets/roman-graphique/think.gif">
-	<p>Et malgré ça, il fallait encore en 2018 entre 5 et 9 ans en moyenne pour avoir un diagnostic d'endométriose. Pendant toutes ces années, combien de malades avait-on délaissées pendant des années avec une maladie chronique invalidante&nbsp;? À combien avait-on dit «&nbsp;il va falloir vous y faire&nbsp;»&nbsp;? Combien de personnes en détresse, à faire des années de psychothérapie&nbsp;? À se croire folles&nbsp;?</p>
+	<p>Et malgré ça, il fallait encore en 2018 entre 5 et 9 ans en moyenne pour avoir un diagnostic d'endométriose. Combien de malades avait-on délaissées pendant des années avec une maladie chronique invalidante&nbsp;? À combien avait-on dit «&nbsp;il va falloir vous y faire&nbsp;»&nbsp;? Combien de personnes en détresse, à faire des années de psychothérapie&nbsp;? À se croire folles&nbsp;?</p>
 	<p>Après deux mois à Dublin, je rentrais en France pour enfin faire ma coloscopie. L'examen ne durait qu'une trentaine de minutes, mais la gastro-entérologue préférait que j'ai une légère anesthésie générale car cela pouvait être désagréable. Je passais donc ma matinée à l'hôpital.</p>
 	<p>L'ambiance douce et respectueuse qui émanait de la gastro-entérologue se faisait sentir sur tout son service.</p>
 	<img src="/assets/roman-graphique/partie7-la-depression/45-partie7.png">

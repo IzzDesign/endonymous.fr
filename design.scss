@@ -907,15 +907,15 @@ form.contact{
 		border-radius: 10px;
 		margin: 3em 0;
 		&:before{
-			content: url('assets/images/svg/h3.svg');
+			content: url('assets/images/svg/icones/quote.svg');
 			display: block;
 			margin: 0 auto;
-			width: 173px;
+			width: 100px;
 		}
 	}
 	blockquote p{
 		margin: 0 auto;
-		padding:1em 0 3em 0;
+		padding:1em 0 0 0;
 		color:$bleu;
 		width: 90%;
 		font-family: $title-font;
@@ -930,17 +930,6 @@ form.contact{
 		color: $bleu-clair;
 		position: absolute;
 		z-index: -2;
-	}
-	blockquote p:before{
-		content: '«';
-		top: 5%;
-		left: -60px;
-	}
-
-	blockquote p:after{
-		content: '»';
-		bottom: 15%;
-		right: -50px;
 	}
 }
 
@@ -1295,9 +1284,9 @@ figure.schema{
 		min-width: auto;
 	}
 	.articles figure{
-		width: 400px;
+		width: 100%;
 		img{
-			max-width: 400px;
+			max-width: 350px;
 		}
 		figcaption.bleu, figcaption.jaune{
 			width: 300px;
@@ -1390,13 +1379,16 @@ figure.schema{
 		width: 90%;
 	}
 	.entete-img{
-		width: 300px;
+		width: 100%;
 		height: auto;
 	}
 	.articles figure {
-		width: 400px;
+		width: 100%;
 		figcaption{
-			width: 300px;
+			width: 100%;
+		}
+		img{
+			width: 100%;
 		}
 	}
 	.articles figure{
@@ -1421,12 +1413,38 @@ figure.schema{
 	}
 	.presentation{
 		width: 90%;
+		img{
+			width: 100%;
+		}
+	}
+	.dico-block .dico {
+		flex-direction: column;
+	  align-items: flex-start;
 	}
 	.presentation, .presentation div{
-		min-width: auto;
+		width: 100%;
+	}
+	.presentation div{
+		flex: 1;
+		min-width: 100%;
+		p{
+			margin: 0 0.5em;
+			text-align: center;
+			font-size: 1.1em;
+		}
+	}
+	.bibliography blockquote{
+		margin: 0;
+		p{
+			width: 100%;
+		}
 	}
 	.share{
 		width: auto;
+	}
+	.articles figure figcaption.bleu, .articles figure figcaption.jaune {
+  	width: 90%;
+  	min-width: 200px;
 	}
 	figure.schema{
 		margin: 0;
@@ -1440,6 +1458,38 @@ figure.schema{
 	}
 	.bibliography{
 		width: 90%;
+	}
+	.promo-bd-div div {
+	  height: fit-content;
+	  a.button{
+	  	margin-top: 0;
+	  }
+	}
+	.articles-lies div{
+		justify-content: center;
+	}
+	.articles-lies a.articles-list{
+		width: 40%;
+		flex-direction: column;
+		align-items: center;
+		justify-content: flex-start;
+		p{
+			display: none;
+		}
+		img{
+			margin-right: 0;
+		}
+	}
+	footer{
+		img{
+			width: 100%;
+		}
+	}
+}
+
+@media screen and (max-width: 380px) {
+	.articles-lies a.articles-list{
+		width: 100%;
 	}
 }
 
