@@ -31,7 +31,7 @@ Dans un stade très avancé d’endométriose, ces adhérences peuvent aller jus
 </figure>
 
 Ces adhérences peuvent se **renforcer avec le temps** et créer des douleurs là où il n’y en avait pas. De plus, les tissus pris entre les lésions d’endométriose et les adhérences vont peu à peu **perdre leur mobilité**, créant par manque de mouvement des tissus voisins une réaction en chaîne pouvant conduire à l’**immobilisation du pelvis**.
-Les [médecines douces](/controle/meddouces.html) telles que l'ostéopathie ou la kinésithérapie peuvent apporter du bien-être en assouplissants ces adhérences et en permettant de regagner peu à peu de la mobilité. Pratiquer une activité physique est un plus pour vous [maintenir en mouvement](/controle/mouvements.html).
+Les [médecines douces](../controle/medecines-douces.html) telles que l'ostéopathie ou la kinésithérapie peuvent apporter du bien-être en assouplissants ces adhérences et en permettant de regagner peu à peu de la mobilité. Pratiquer une activité physique est un plus pour vous [maintenir en mouvement](/controle/mouvements.html).
 
 ## Sources
 + [Endo&Sexo Avoir une sexualité épanouie avec une endométriose, Marie-Rose Galès, 2019.](/savoir/bibliographie/endo-sexo.html)

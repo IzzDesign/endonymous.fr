@@ -16,14 +16,14 @@ On entend très souvent parler de l'[endométriose](/savoir/endometriose.html), 
 
 L’endométriose et l’adénomyose ont des similitudes dans leur caractéristiques, ce qui peut expliquer qu’elles aient été pendant longtemps désignées par les mêmes noms. Pourtant, elles vont se différencier par la localisation de leurs lésions&nbsp;:
 
-L’adénomyose se caractérise par la **présence anormale de [lésions](/endo-dico/lesions-endometriose.html) semblables à des cellules de l’endomètre dans le muscle utérin, le [myomètre](/endo-dico/myometre.html).** L’adénomyose reste donc contenue dans l’utérus.
+L’adénomyose se caractérise par la **présence anormale de [lésions](endo-dico/lesions-endometriose.html) semblables à des cellules de l’endomètre dans le muscle utérin, le [myomètre](endo-dico/myometre.html).** L’adénomyose reste donc contenue dans l’utérus.
 
 <figure class="schema">
   <img src="/assets/images/schema/adenomyose.png" class="img-fluid" alt="schéma uterus adenomyose maladie gynécologique lésion endomètre myomètre" title="Schéma d'un utérus avec de l'adénomyose">
   <figcaption>Schéma comparatif d'un utérus avec et sans adenomyose</figcaption>
 </figure>
 
-L’endométriose se caractérise par la **présence anormale de [lésions](/endo-dico/lesions-endometriose.html) semblables à des cellules de l’endomètre dans la cavité abdominale.** Ces lésions vont êtres présentes sur les [ovaires](/endo-dico/ovaires.html) ([endométriomes](/endo-dico/endometriome.html)), l’utérus,  mais également sur le système digestif, le péritoine et plus rarement sur le système urinaire, le diaphragme, les poumons…
+L’endométriose se caractérise par la **présence anormale de [lésions](endo-dico/lesions-endometriose.html) semblables à des cellules de l’endomètre dans la cavité abdominale.** Ces lésions vont êtres présentes sur les [ovaires](endo-dico/ovaires.html) ([endométriomes](endo-dico/endometriome.html)), l’utérus,  mais également sur le système digestif, le péritoine et plus rarement sur le système urinaire, le diaphragme, les poumons…
 
 <figure class="schema">
   <img src="/assets/images/schema/endometriose-schema.png" class="img-fluid" alt="schéma uterus endometriose maladie gynécologique lésion abdomen femme" title="Schéma d'un abdomen avec de l'endométriose">
@@ -53,7 +53,7 @@ Cullen est un des premiers à décrire l’envahissement des nerfs pelviens par 
 En **1925, Frankl** créé le nom d’adénomyose (**« adenomyosis uteri »**) pour décrire l’invasion de la muqueuse utérine dans le muscle utérin.
 
 #### 1927 : Endométriose
-**En 1927, Sampson** propose le terme d’endométriose pour décrire une migration des cellules de l’endomètre dans la cavité abdominale. Il expose ainsi la [Théorie des menstruations rétrogrades](/savoir/theories.html) expliquant la formation de ces lésions par la présences de cellules de l’endomètre remontant dans les Trompes de Fallope lors des règles.
+**En 1927, Sampson** propose le terme d’endométriose pour décrire une migration des cellules de l’endomètre dans la cavité abdominale. Il expose ainsi la [Théorie des menstruations rétrogrades](theories.html) expliquant la formation de ces lésions par la présences de cellules de l’endomètre remontant dans les Trompes de Fallope lors des règles.
 
 De nos jours, on ne connaît pas encore l’origine de l’endométriose, même s’il existe plusieurs théories sur le sujet, aucune n’explique parfaitement les différentes lésions.
 

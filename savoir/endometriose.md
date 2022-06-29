@@ -11,6 +11,7 @@ previous: /savoir/savoir.html
 publish_date: 2019-03-01
 redirect_from:
   - /article/l-endometriose-c-est-quoi.html
+  - /article/2018/06/17/l-endometriose-c-est-quoi.html
 ---
 L’endométriose est une maladie de l’appareil reproducteur féminin. Il s’agit d’une anomalie du tissu endométrial, ou endomètre, qui est la muqueuse interne de l’utérus.
 Pour avoir une approche plus complète, voir l’article sur le [cycle menstruel](/savoir/cyclemenstruel.html).
@@ -51,7 +52,7 @@ Entre autres, deux des théories les plus utilisées sont la **théorie du reflu
 <div class="articles">
   <a href="/savoir/theories.html" class="lien-article">
     <figure class="liens">
-      <img src="/assets/images/articles/theories-de-developpement.png" class="img-fluid">
+      <img src="/assets/images/articles/theorie-de-developpement.png" class="img-fluid">
       <figcaption class="bleu">
         <h4 class="h4-link">Les théories de développement de l'endométriose</h4>
       </figcaption>

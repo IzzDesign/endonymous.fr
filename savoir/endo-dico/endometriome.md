@@ -8,7 +8,7 @@ og_image: /assets/images/bibliographie-endometriose.png
 previous: /savoir/endo-dico.html
 ---
 
-Un **endométriome** aussi appelé **kyste d'endométriose, kyste sanguin d'endométriose ou kyste chocolat** est une lésion d'[endométriose](/savoir/endometriose.html). Il s'agit de kyste s'insérant sur l'[ovaire](/endo-dico/ovaire.html) et pouvant aller jusqu'à l'entourer entièrement. Ces kystes sont rempli de fluides (**fragments de l'[endomètre](/endo-dico/endometre.html), sang épais et noirci, enzymes inflammatoires**) leur donnant cette couleur particulière qui ressemble à du chocolat fondu.
+Un **endométriome** aussi appelé **kyste d'endométriose, kyste sanguin d'endométriose ou kyste chocolat** est une lésion d'[endométriose](/savoir/endometriose.html). Il s'agit de kyste s'insérant sur l'[ovaire](ovaire.html) et pouvant aller jusqu'à l'entourer entièrement. Ces kystes sont rempli de fluides (**fragments de l'[endomètre](endometre.html), sang épais et noirci, enzymes inflammatoires**) leur donnant cette couleur particulière qui ressemble à du chocolat fondu.
 
 On retrouve les endométriomes chez des personnes atteintes d'une endométriose dite **profonde, sévère ou stade 3 et 4.**
 
