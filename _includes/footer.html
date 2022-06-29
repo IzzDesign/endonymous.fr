@@ -1,50 +1,9 @@
-	<footer>
-		<img src="/assets/images/svg/footer-blue.svg" width="260" height="20">
-		<a href="/index.html" class="logo"><img src="/assets/images/logo.svg" width="306" height="81"></a>
-		<img src="/assets/images/svg/footer-yellow.svg" width="260" height="20">
-		<p>Fait avec ♥ par <a href="https://isabelledulin.fr">IzzDesign</a></p>
-	</footer>
-</div>
-
-		{% unless jquery_loaded %}
-		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-		{% endunless %}
-		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-		<script type="text/javascript">
-			// Animation on home page: on scroll down, move directly to content
-			const splashElement = document.getElementById('splash');
-			if(splashElement) {
-				const contentElement = document.getElementById('index');
-				let isScrollingUp = false;
-				let lastScroll = 0;
-				let timeoutId;
-				const listener = function(e) {
-					if(window.scrollY < lastScroll) {
-						// We're now scrolling back up, restore the listener
-						isScrollingUp = true;
-						lastScroll = window.scrollY;
-						return;
-					}
-					else {
-						isScrollingUp = false;
-					}
-					if(window.scrollY < splashElement.offsetHeight) {
-						clearTimeout(timeoutId);
-						timeoutId = setTimeout(() => {
-							if(!isScrollingUp) {
-								contentElement.scrollIntoView(true);
-							}
-						}, 60);
-					}
-					lastScroll = window.scrollY;
-				};
-
-				window.addEventListener('scroll', listener);
-			}
-			$(function () {
-			  $('[data-toggle="popover"]').popover()
-			})
-		</script>
+		<footer>
+			<img src="/assets/images/svg/footer-blue.svg" width="260" height="20">
+			<a href="/index.html" class="logo"><img src="/assets/images/logo.svg" width="306" height="81"></a>
+			<img src="/assets/images/svg/footer-yellow.svg" width="260" height="20">
+			<p>Fait avec ♥ par <a href="https://isabelledulin.fr">IzzDesign</a></p>
+		</footer>
+	</div>
   </body>
 </html>

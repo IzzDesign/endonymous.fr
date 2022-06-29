@@ -9,16 +9,15 @@ title: Merci !
   <a href="/index.html" class="button btn-rouge">Retour à l'accueil</a>
   <p class="dinomik">Si tu veux en savoir plus sur notre contenu, voici tous les articles présents sur le site :</p>
   {% assign sorted_articles = site.pages | sort: 'order' %}
-  <div class="articles">
+  <div class="row articles-lies">
     {% for p in sorted_articles %}
       {% if p.category == "Le savoir c'est le pouvoir" or p.category == "Reprends le contrôle" %}
-          <a href="{{ p.url }}" class="index-articles">
-            <figure class="liens">
-              <img src="/assets/images/articles/{{ p.og_image }}" class="img-fluid" alt="{{ p.alt_img }}" title="{{ p.title_img }}">
-              <figcaption class="bleu">
-                <h4 class="h4-link">{{ p.title }}</h4>
-              </figcaption>
-            </figure>
+          <a href="{{ p.url }}" class="articles-list">
+            <img src="/assets/images/articles/{{ p.og_image }}">
+            <div>
+              <h4 class="h4-link">{{ p.title }}</h4>
+              <p>{{ p.subtitle }}</p> 
+            </div>
           </a>
       {% endif %}
     {% endfor %}

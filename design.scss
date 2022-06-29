@@ -630,6 +630,9 @@ a.button, input.button{
 			background-size: 105% 32px;
 			transform: scale(1.05);
 		}
+		&:focus-visible{
+			outline: 2px solid $bleu-clair;
+		}
 	}
 }
 
@@ -827,18 +830,17 @@ form.contact{
 	}
 	.error{
 		color: $rouge;
-		opacity: 0;
-		transform: scale(0.2);
+		display: none;
 		&:before, &:after{
-			content: url('assets/images/svg/fail.svg');
+			content: 'X';
+			font-family: $title-font;
 			display: inline-block;
 			width: 30px;
 		}
 	}
 	.success{
 		color: $bleu-clair;
-		opacity: 0;
-		transform: scale(0.2);
+		display: none;
 		&:before, &:after{
 			content: url('assets/images/svg/send.svg');
 			display: inline-block;
