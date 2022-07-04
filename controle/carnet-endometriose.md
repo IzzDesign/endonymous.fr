@@ -30,4 +30,4 @@ Noter ses douleurs est une des choses les plus importantes dans le suivi de l'en
 Certes, ce n'est pas une pratique qui à notre sens, doit être renouvelée indéfiniment mais avoir des données sur quelques semaines lors de changements alimentaires ou bien de périodes de stress peut être d'une grande aide pour vous.
 Pour vous aider à faire ceci, nous vous avons préparé des schémas du corps à imprimer :
 
-<a href="/assets/images/endobujo/schemas-corps-endobujo.pdf" class="button btn-rouge">Télécharger vos schémas du corps</a>
+<a href="/assets/images/articles/endo-bujo.pdf" class="button btn-rouge">Télécharger vos schémas du corps</a>

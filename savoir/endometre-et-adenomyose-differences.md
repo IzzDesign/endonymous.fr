@@ -23,7 +23,7 @@ L’adénomyose se caractérise par la **présence anormale de [lésions](endo-d
   <figcaption>Schéma comparatif d'un utérus avec et sans adenomyose</figcaption>
 </figure>
 
-L’endométriose se caractérise par la **présence anormale de [lésions](endo-dico/lesions-endometriose.html) semblables à des cellules de l’endomètre dans la cavité abdominale.** Ces lésions vont êtres présentes sur les [ovaires](endo-dico/ovaires.html) ([endométriomes](endo-dico/endometriome.html)), l’utérus,  mais également sur le système digestif, le péritoine et plus rarement sur le système urinaire, le diaphragme, les poumons…
+L’endométriose se caractérise par la **présence anormale de [lésions](endo-dico/lesions-endometriose.html) semblables à des cellules de l’endomètre dans la cavité abdominale.** Ces lésions vont êtres présentes sur les [ovaires](endo-dico/ovaire.html) ([endométriomes](endo-dico/endometriome.html)), l’utérus,  mais également sur le système digestif, le péritoine et plus rarement sur le système urinaire, le diaphragme, les poumons…
 
 <figure class="schema">
   <img src="/assets/images/schema/endometriose-schema.png" class="img-fluid" alt="schéma uterus endometriose maladie gynécologique lésion abdomen femme" title="Schéma d'un abdomen avec de l'endométriose">
