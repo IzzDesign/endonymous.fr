@@ -1084,13 +1084,17 @@ figure.schema{
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	img{
+	picture{
 		display: block;
 		width: 70%;
 		margin: 2em 0 3em 0;
 	}
-	img.cover-image{
+	img{
+		width: 100%;
+	}
+	img.cover-image, img.gif{
 		margin: 0;
+		width: 70%;
 	}
 	h2{
 		margin: 0;
