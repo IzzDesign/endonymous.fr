@@ -39,6 +39,7 @@ publish_date: 2021-03-07
 
 ### Supta Baddha Konasana — Posture de la déesse du sommeil
 <img src="/assets/images/schema/supta-baddha-konasana.png" title="posture de la déesse du sommeil" alt="Supta Baddha Konasana, posture de la déesse du sommeil, yoga, endobujo, endométriose, règles" class="img-fluid">
+
 Il s'agit d'une variante de Baddha Konasana qui permet de rester allongée, surtout lorsque les douleurs sont trop présentes. Ne pas hésiter à tester cette posture avant de dormir, elle est très relaxante.
 1. S'allonger dos au sol et positionner un coussin sous les omoplates.
 2. Position les talons les plus proches du bassin, coller les plantes des pieds l'une contre l'autre.

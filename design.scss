@@ -723,6 +723,10 @@ footer {
 		text-align: left;
 		width: 100%;
 	}
+	img{
+		align-items: center;
+		display: flex;
+	}
 	a.footnote{
 		color: $rouge;
 		font-weight: 500;
