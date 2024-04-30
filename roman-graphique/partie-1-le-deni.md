@@ -94,7 +94,7 @@ previous: /roman-graphique/endometriose.html
   {% include image-bd.html src="partie1-le-deni/29-partie1.png" %}
   <p>C'est surement parce que je manquais d'exercices.</p>
   {% include image-bd.html src="partie1-le-deni/30-partie1.png" %}
-  <p>Si je prirais pour avoir une place assise dans le métro…</p>
+  <p>Si je priais pour avoir une place assise dans le métro…</p>
   {% include image-bd.html src="partie1-le-deni/31-partie1.png" %}
   <p>C'est parce que je n'avais pas assez dormi même après dix heures de sommeil.</p>
   <p>Si je m'endormais ssur la table du bar lors des soirées après une demi-pinte…</p>
