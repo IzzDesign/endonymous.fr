@@ -66,7 +66,7 @@ previous: /roman-graphique/endometriose.html
   <video loop muted autoplay>
     <source src="/assets/roman-graphique/partie7-la-depression/taupe.mp4">
   </video>
-  <p>Encore aujourd'hui, je n'ai pas la réponse à ses questions…</p>
+  <p>Encore aujourd'hui, je n'ai pas la réponse à ces questions…</p>
   <p>Heureusement, lors de mes études, j'ai fait la connaissance de Sophie, une amie qui étrangement avait des douleurs et problèmes très similaires aux miens. On était les deux retardataires et absentes de la promo et en parlant avec elle, on a pu faire la liste de nos symptômes communs :</p>
   <ul>
     <li>Fatigue</li>
