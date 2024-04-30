@@ -1091,7 +1091,7 @@ figure.schema{
 	picture{
 		display: block;
 		width: 70%;
-		margin: 2em 0 3em 0;
+		margin: 1em 0 2em 0;
 	}
 	img{
 		width: 100%;
@@ -1103,7 +1103,7 @@ figure.schema{
 	h2{
 		margin: 0;
 	}
-	p{
+	p, ul{
 		font-family: $title-font;
 		text-align: center;
 		color: black;
@@ -1111,6 +1111,11 @@ figure.schema{
 		font-size: 1.8em;
 		line-height: 1.2em;
 		margin-top: 1em;
+	}
+	ul{
+		margin-top: 0.2em;
+		padding-left: 0;
+		list-style: none;
 	}
 	video{
 		max-width: 644px;

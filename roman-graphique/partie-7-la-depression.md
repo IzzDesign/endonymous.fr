@@ -61,7 +61,7 @@ previous: /roman-graphique/endometriose.html
 	{% include image-bd.html src="partie7-la-depression/26-partie7.png" %}
 	<p>Je ressortais de ce rendez-vous avec un nouvel examen à faire qui aurait lieu dans trois mois.</p>
 	<p>Pendant ces mois d'attentes la vie continuait…</p>
-	<video loop autoplay>
+	<video muted loop autoplay>
 		<source src="/assets/roman-graphique/partie7-la-depression/27-partie7.mp4">
 	</video>
 	<p>…mais pas la mienne.</p>
@@ -75,7 +75,7 @@ previous: /roman-graphique/endometriose.html
 		{% include image-bd.html src="partie7-la-depression/31-partie7.png" %}
 	<p>Cette lésion qui était si invisible aux examens pendant des années pouvait alors se détecter juste au toucher&nbsp;?</p>
 	<p>Grosse pensée à mon ancienne médecin généraliste&nbsp;:</p>
-	<video loop autoplay>
+	<video muted loop autoplay>
 		<source src="/assets/roman-graphique/partie7-la-depression/taupe.mp4">
 	</video>
 	<p>Je suis partie en Irlande deux mois en attendant ma coloscopie. Matthieu avait dû insister parce que tout m'effrayait.</p>
@@ -84,12 +84,12 @@ previous: /roman-graphique/endometriose.html
 	<p>J'avais prévu le coup en emportant un maximum d’antidouleurs plus ou moins forts.</p>
 	{% include image-bd.html src="partie7-la-depression/33-partie7.png" %}
 	<p>J'ai pu tester mes aptitudes à passer des trucs illégaux à la douane…</p>
-	<video loop autoplay>
+	<video muted loop autoplay>
 		<source src="/assets/roman-graphique/partie7-la-depression/34-partie7.mp4">
 	</video>
 	<p>Je sentais que j'avais de l'avenir dans la profession…</p>
 	<p>En Irlande, j'étais enfin avec Matthieu tous les soirs mais lorsqu'il travaillait, les journées devenaient bien longues.</p>
-	<video loop autoplay>
+	<video muted loop autoplay>
 		<source src="/assets/roman-graphique/partie7-la-depression/35-partie7.mp4">
 	</video>
 	{% include image-bd.html src="partie7-la-depression/36-partie7.png" %}
