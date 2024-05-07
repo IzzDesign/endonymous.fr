@@ -14,7 +14,7 @@ previous: /roman-graphique/endometriose.html
 ---
 <div class="bd-inside">
   {% include image-bd.html src="partie1-le-deni/01-partie1.png" %}
-  <p>Déjà plus jeune, j'ai toujours ressenti un décalage entre comment les publicités représentaient les règles et mon état général lors de cette période : il fallait être active, pleins d'entrain et d'énergie, se sentir femme.</p>
+  <p>Déjà plus jeune, j'ai toujours ressenti un décalage entre la façon dont les publicités représentaient les règles et mon état général lors de cette période : il fallait être active, plein d'entrain et d'énergie, se sentir femme.</p>
   <img src="/assets/roman-graphique/{{ page.bd_image }}.png" class="cover-image" alt="{{ page.alt_img }}" title="{{ page.title_img }}">
   <div class="entete">
     <span class="h3">Partie 1</span>
@@ -23,7 +23,7 @@ previous: /roman-graphique/endometriose.html
   <p>Pour toutes ces marques de tampons, le marketing se donnait beaucoup de mal pour un produit dont nous avions toutes besoin une semaine tous les mois… Tout ça pour gonfler les prix.</p>
   {% include image-bd.html src="partie1-le-deni/02-partie1.png" %}
   {% include image-bd.html src="partie1-le-deni/03-partie1.png" %}
-  <p>Pour moi les règles c'était plutôt : de la fatigue, des douleurs, des gonflements, la peur de se tâcher, des flatulences, des règles très abondantes…</p>
+  <p>Pour moi les règles c'était plutôt : de la fatigue, des douleurs, des gonflements, la peur de me tâcher, des flatulences, des règles très abondantes…</p>
   {% include image-bd.html src="partie1-le-deni/04-partie1.png" %}
   {% include image-bd.html src="partie1-le-deni/05-partie1.png" %}
   {% include image-bd.html src="partie1-le-deni/06-partie1.png" %}
@@ -67,7 +67,7 @@ previous: /roman-graphique/endometriose.html
     <source src="/assets/roman-graphique/partie7-la-depression/taupe.mp4">
   </video>
   <p>Encore aujourd'hui, je n'ai pas la réponse à ces questions…</p>
-  <p>Heureusement, lors de mes études, j'ai fait la connaissance de Sophie, une amie qui étrangement avait des douleurs et problèmes très similaires aux miens. On était les deux retardataires et absentes de la promo et en parlant avec elle, on a pu faire la liste de nos symptômes communs :</p>
+  <p>Heureusement, lors de mes études, j'ai fait la connaissance de Sophie, une amie qui étrangement avait des douleurs et problèmes très similaires aux miens. On était toutes les deux les retardataires et absentes de la promo. En parlant avec elle, on a pu faire la liste de nos symptômes communs :</p>
   <ul>
     <li>Fatigue</li>
     <li>Maux de ventre</li>
@@ -92,7 +92,7 @@ previous: /roman-graphique/endometriose.html
   <p>Comment j'ai pu en arriver là ? Je ne sais pas vraiment, je crois que je me trouvais toujours une excuse.</p>
   <p>Par exemple, alors que je faisais régulièrement du sport, si j'avais de plus en plus de mal à monter un simple escalier dans le métro…</p>
   {% include image-bd.html src="partie1-le-deni/29-partie1.png" %}
-  <p>C'est surement parce que je manquais d'exercices.</p>
+  <p>C'est surement parce que je manquais d'exercice.</p>
   {% include image-bd.html src="partie1-le-deni/30-partie1.png" %}
   <p>Si je priais pour avoir une place assise dans le métro…</p>
   {% include image-bd.html src="partie1-le-deni/31-partie1.png" %}
@@ -109,9 +109,9 @@ previous: /roman-graphique/endometriose.html
   <p>C'est parce que j'étais :</p>
   {% include image-bd.html src="partie1-le-deni/36-partie1.png" %}
   <p>Pourquoi je préférais m'attribuer tous ces défauts ? Pourquoi je me traitais ainsi ?</p>
-  <p>Peut-être que pour éviter de réaliser que mon corps dérivait lentement vers l'épuisement.</p>
+  <p>Peut-être pour éviter de réaliser que mon corps dérivait lentement vers l'épuisement.</p>
   {% include image-bd.html src="partie1-le-deni/37-partie1.png" %}
-  <p>Petit à petit j'avais perdu des capacités aussi simples que de rester debout cinq minutes, de monter un escalier, de ne pas avoir à dormir plus de 14 heures par nuit, de pourvoir avoir une vie normale…</p>
+  <p>Petit à petit j'avais perdu des capacités aussi simples que de rester debout cinq minutes, de monter un escalier, de ne pas avoir à dormir plus de 14 heures par nuit, de pouvoir avoir une vie normale…</p>
   <p>J'étais tellement épuisée et douloureuse qu'il était difficile pour mon copain de s'approcher :</p>
   {% include image-bd.html src="partie1-le-deni/38-partie1.png" %}
   {% include image-bd.html src="partie1-le-deni/39-partie1.png" %}
@@ -124,7 +124,7 @@ previous: /roman-graphique/endometriose.html
   <p>À son départ, la déprime a augmenté, mais au moins j'ai ressenti un léger soulagement, avec son départ, je n'avais plus à me faire violence pour essayer d'avoir une vie sociale remplie.</p>
   <p>Mon quotidien devenait seulement :</p>
   {% include image-bd.html src="partie1-le-deni/44-partie1.png" %}
-  <p>Et pendant un temps, ça a simplifié ma vie. Cela évitait aussi la culpabilité de ne pas assez sortir… Mais ça n'a pas suffit :</p>
+  <p>Et pendant un temps, ça a simplifié ma vie. Cela évitait aussi la culpabilité de ne pas assez sortir… Mais ça n'a pas suffi :</p>
   {% include image-bd.html src="partie1-le-deni/45-partie1.png" %}
   <p>Mon temps se faisait aspirer tout comme mon énergie.</p>
   <p>Puis un jour, mon salut m'est venu d'une simple discussion avec une amie de mon école…</p>
