@@ -14,7 +14,7 @@ previous: /roman-graphique/endometriose.html
 ---
 <div class="bd-inside">
   {% include image-bd.html src="partie1-le-deni/01-partie1.png" %}
-  <p>Déjà plus jeune, j'ai toujours ressenti un décalage entre la façon dont les publicités représentaient les règles et mon état général lors de cette période : il fallait être active, plein d'entrain et d'énergie, se sentir femme.</p>
+  <p>Depuis ma jeunesse, j'ai toujours ressenti un décalage entre la façon dont les publicités représentaient les règles et mon état général lors de cette période : il fallait être active, plein d'entrain et d'énergie, se sentir femme.</p>
   <img src="/assets/roman-graphique/{{ page.bd_image }}.png" class="cover-image" alt="{{ page.alt_img }}" title="{{ page.title_img }}">
   <div class="entete">
     <span class="h3">Partie 1</span>
@@ -44,7 +44,7 @@ previous: /roman-graphique/endometriose.html
   {% include image-bd.html src="partie1-le-deni/13-partie1.png" %}
   <p>Et encore une fois, lorsque la douleur est passée, je suis restée dans le déni total :</p>
   {% include image-bd.html src="partie1-le-deni/14-partie1.png" %}
-  <p>Mais petit à petit, ça a commencé à se complexifier. J'avais toujours été fatiguée et donc retardataire, donc tous les matins je mettais mon corps dans un état de stress.</p>
+  <p>Mais petit à petit, ça a commencé à se complexifier. J'avais toujours été fatiguée et donc retardataire, mettant mon corps dans un état de stress tous les matins.</p>
   {% include image-bd.html src="partie1-le-deni/15-partie1.png" %}
   <p>Et jour après jour, ces douleurs apparaissaient même en dehors des règles… d'abord seulement à l'effort, puis de plus en plus régulièrement dans la journée.</p>
   <p>Je suis retournée chez ma généraliste.</p>
@@ -121,7 +121,7 @@ previous: /roman-graphique/endometriose.html
   {% include image-bd.html src="partie1-le-deni/42-partie1.png" %}
   <p>En plus de mon énergie qui disparaissait, Matthieu, mon compagnon a trouvé une opportunité de boulot à l'étranger.</p>
   {% include image-bd.html src="partie1-le-deni/43-partie1.png" %}
-  <p>À son départ, la déprime a augmenté, mais au moins j'ai ressenti un léger soulagement, avec son départ, je n'avais plus à me faire violence pour essayer d'avoir une vie sociale remplie.</p>
+  <p>À son départ, la déprime a augmenté, mais au moins j'ai ressenti un léger soulagement, je n'avais plus à me faire violence pour essayer d'avoir une vie sociale remplie.</p>
   <p>Mon quotidien devenait seulement :</p>
   {% include image-bd.html src="partie1-le-deni/44-partie1.png" %}
   <p>Et pendant un temps, ça a simplifié ma vie. Cela évitait aussi la culpabilité de ne pas assez sortir… Mais ça n'a pas suffi :</p>
