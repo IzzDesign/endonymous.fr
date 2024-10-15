@@ -171,7 +171,6 @@ nav{
 	letter-spacing:0.15em;
 	text-decoration: none;
 	gap: 10px;
-	opacity: 0;
 	position: sticky;
 	top: 0;
 	z-index: 30;
@@ -180,7 +179,6 @@ nav{
 	padding-bottom: 0.2em;
 	background-color: white;
 	transform: translateX(0);
-	animation: apparition-left 0.3s cubic-bezier(0.215, 0.61, 0.355, 1) 0.2s forwards;
 	&.no-stick{
 		position: relative;
 	}
@@ -1387,9 +1385,6 @@ figure.schema{
 }
 
 @media screen and (max-width: 475px) {
-	body{
-		margin: 0;
-	}
 	.margin-mobile{
 		width: 90%;
 	}
